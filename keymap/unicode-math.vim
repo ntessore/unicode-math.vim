@@ -2052,6 +2052,9 @@ _x <Char-0x02093>
 \\oiint <Char-0x0222F>
 \\oint <Char-0x0222E>
 \\ointctrclockwise <Char-0x02233>
+\\ointring <Char-0x020D8>
+\\ointringclockwise <Char-0x020D9>
+\\ointringctrclockwise <Char-0x020DA>
 \\olcross <Char-0x029BB>
 \\olessthan <Char-0x029C0>
 \\Omega <Char-0x003A9>

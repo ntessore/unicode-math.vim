@@ -29,6 +29,15 @@ the following TeX commands are defined:
 
 - superscripts: `^1`, `^2`, etc. where available
 - subscripts: `_1`, `_2`, etc. where available
+- large contour integrals: combining ring overlays `\ointring`,
+  `\ointringclockwise`, `\ointringctrclockwise`
+
+      ⌠    ⌠    ⌠
+      ⎮⃘    ⎮⃙    ⎮⃚
+      ⌡    ⌡    ⌡
+
+Note that many TeX accents correspond to Unicode combining characters that go
+after the symbol.  To produce e.g. `x̄`, you need to type `x\bar`.
 
 
 [unicode-math]: http://ctan.org/pkg/unicode-math
