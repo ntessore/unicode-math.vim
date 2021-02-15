@@ -23,6 +23,15 @@ Then start typing a TeX command such as e.g. `\alpha`. After the leading `\`,
 you should see that the cursor does not advance until the `α` character is
 produced.
 
+For a more convenient way to turn the keymap on and off, add the following lines
+to your `.vimrc`:
+
+    set keymap=unicode-math
+    set iminsert=0
+    set imsearch=-1
+
+You can then toggle the unicode-math keymap by pressing `<C-6>` in insert mode.
+
 See the unicode-math [symbol list] for a complete list of symbols. In addition,
 the following TeX commands are defined:
 
