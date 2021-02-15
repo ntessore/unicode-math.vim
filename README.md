@@ -3,8 +3,7 @@ unicode-math
 ============
 
 Vim keymap to type Unicode math symbols using TeX input sequences. The mapping
-is from [unicode-math], with keymap entries adapted from
-[astoff/unicode-math-input.el].
+is from [unicode-math] via [astoff/unicode-math-input.el].
 
 
 Installation
