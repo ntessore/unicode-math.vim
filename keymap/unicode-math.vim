@@ -7,2625 +7,2625 @@ let b:keymap_name = "αβ"
 scriptencoding utf-8
 loadkeymap
 
-^0 <Char-0x02070>
-^1 <Char-0x000B9>
-^2 <Char-0x000B2>
-^3 <Char-0x000B3>
-^4 <Char-0x02074>
-^5 <Char-0x02075>
-^6 <Char-0x02076>
-^7 <Char-0x02077>
-^8 <Char-0x02078>
-^9 <Char-0x02079>
-^+ <Char-0x0207A>
-^- <Char-0x0207B>
-^< <Char-0x002C2>
-^> <Char-0x002C3>
-^/ <Char-0x002CA>
-^^ <Char-0x002C4>
-^( <Char-0x0207D>
-^) <Char-0x0207E>
-^. <Char-0x002D9>
-^= <Char-0x002ED>
-^a <Char-0x01D43>
-^b <Char-0x01D47>
-^c <Char-0x01D9C>
-^d <Char-0x01D48>
-^e <Char-0x01D49>
-^f <Char-0x01DA0>
-^g <Char-0x01D4D>
-^h <Char-0x002B0>
-^i <Char-0x02071>
-^j <Char-0x002B2>
-^k <Char-0x01D4F>
-^l <Char-0x002E1>
-^m <Char-0x01D50>
-^n <Char-0x0207F>
-^o <Char-0x01D52>
-^p <Char-0x01D56>
-^r <Char-0x002B3>
-^s <Char-0x002E2>
-^t <Char-0x01D57>
-^u <Char-0x01D58>
-^v <Char-0x01D5B>
-^w <Char-0x002B7>
-^x <Char-0x002E3>
-^y <Char-0x002B8>
-^z <Char-0x01DBB>
-^, <Char-0x002BE>
-^A <Char-0x01D2C>
-^B <Char-0x01D2E>
-^D <Char-0x01D30>
-^E <Char-0x01D31>
-^G <Char-0x01D33>
-^H <Char-0x01D34>
-^I <Char-0x01D35>
-^J <Char-0x01D36>
-^K <Char-0x01D37>
-^L <Char-0x01D38>
-^M <Char-0x01D39>
-^N <Char-0x01D3A>
-^O <Char-0x01D3C>
-^P <Char-0x01D3E>
-^R <Char-0x01D3F>
-^T <Char-0x01D40>
-^U <Char-0x01D41>
-^V <Char-0x02C7D>
-^W <Char-0x01D42>
-^\\beta <Char-0x01D5D>
-^\\gamma <Char-0x01D5E>
-^\\delta <Char-0x01D5F>
-^\\phi <Char-0x01D60>
-^\\chi <Char-0x01D61>
-_0 <Char-0x02080>
-_1 <Char-0x02081>
-_2 <Char-0x02082>
-_3 <Char-0x02083>
-_4 <Char-0x02084>
-_5 <Char-0x02085>
-_6 <Char-0x02086>
-_7 <Char-0x02087>
-_8 <Char-0x02088>
-_9 <Char-0x02089>
-_+ <Char-0x0208A>
-_- <Char-0x0208B>
-_/ <Char-0x002CF>
-_( <Char-0x0208D>
-_) <Char-0x0208E>
-_^ <Char-0x02038>
-_a <Char-0x02090>
-_e <Char-0x02091>
-_h <Char-0x02095>
-_i <Char-0x01D62>
-_k <Char-0x02096>
-_l <Char-0x02097>
-_m <Char-0x02098>
-_n <Char-0x02099>
-_o <Char-0x02092>
-_p <Char-0x0209A>
-_r <Char-0x01D63>
-_s <Char-0x0209B>
-_t <Char-0x0209C>
-_u <Char-0x01D64>
-_v <Char-0x01D65>
-_x <Char-0x02093>
-_\\beta <Char-0x01D66>
-_\\gamma <Char-0x01D67>
-_\\delta <Char-0x01D68>
-_\\phi <Char-0x01D69>
-_\\chi <Char-0x01D6A>
-\\accurrent <Char-0x023E6>
-\\acidfree <Char-0x0267E>
-\\acute <Char-0x00301>
-\\acwcirclearrow <Char-0x02940>
-\\acwgapcirclearrow <Char-0x027F2>
-\\acwleftarcarrow <Char-0x02939>
-\\acwopencirclearrow <Char-0x021BA>
-\\acwoverarcarrow <Char-0x0293A>
-\\acwunderarcarrow <Char-0x0293B>
-\\adots <Char-0x022F0>
-\\aleph <Char-0x02135>
-\\Alpha <Char-0x00391>
-\\alpha <Char-0x003B1>
-\\amalg <Char-0x02A3F>
-\\angdnr <Char-0x0299F>
-\\angle <Char-0x02220>
-\\angles <Char-0x0299E>
-\\angleubar <Char-0x029A4>
-\\Angstrom <Char-0x0212B>
-\\annuity <Char-0x020E7>
-\\APLboxquestion <Char-0x02370>
-\\APLboxupcaret <Char-0x02353>
-\\APLnotbackslash <Char-0x02340>
-\\APLnotslash <Char-0x0233F>
-\\approx <Char-0x02248>
-\\approxeq <Char-0x0224A>
-\\approxeqq <Char-0x02A70>
-\\approxident <Char-0x0224B>
-\\arabichad <Char-0x1EEF1>
-\\arabicmaj <Char-0x1EEF0>
-\\arceq <Char-0x02258>
-\\assert <Char-0x022A6>
-\\ast <Char-0x02217>
-\\asteq <Char-0x02A6E>
-\\asteraccent <Char-0x020F0>
-\\astrosun <Char-0x02609>
-\\asymp <Char-0x0224D>
-\\awint <Char-0x02A11>
-\\backcong <Char-0x0224C>
-\\backdprime <Char-0x02036>
-\\backprime <Char-0x02035>
-\\backsim <Char-0x0223D>
-\\backsimeq <Char-0x022CD>
-\\backslash <Char-0x0005C>
-\\backtrprime <Char-0x02037>
-\\bagmember <Char-0x022FF>
-\\bar <Char-0x00304>
-\\barcap <Char-0x02A43>
-\\barcup <Char-0x02A42>
-\\bardownharpoonleft <Char-0x02961>
-\\bardownharpoonright <Char-0x0295D>
-\\barleftarrow <Char-0x021E4>
-\\barleftarrowrightarrowbar <Char-0x021B9>
-\\barleftharpoondown <Char-0x02956>
-\\barleftharpoonup <Char-0x02952>
-\\barovernorthwestarrow <Char-0x021B8>
-\\barrightarrowdiamond <Char-0x02920>
-\\barrightharpoondown <Char-0x0295F>
-\\barrightharpoonup <Char-0x0295B>
-\\baruparrow <Char-0x02912>
-\\barupharpoonleft <Char-0x02958>
-\\barupharpoonright <Char-0x02954>
-\\Barv <Char-0x02AE7>
-\\barV <Char-0x02AEA>
-\\barvee <Char-0x022BD>
-\\barwedge <Char-0x022BC>
-\\BbbA <Char-0x1D538>
-\\Bbba <Char-0x1D552>
-\\BbbB <Char-0x1D539>
-\\Bbbb <Char-0x1D553>
-\\BbbC <Char-0x02102>
-\\Bbbc <Char-0x1D554>
-\\BbbD <Char-0x1D53B>
-\\Bbbd <Char-0x1D555>
-\\BbbE <Char-0x1D53C>
-\\Bbbe <Char-0x1D556>
-\\Bbbeight <Char-0x1D7E0>
-\\BbbF <Char-0x1D53D>
-\\Bbbf <Char-0x1D557>
-\\Bbbfive <Char-0x1D7DD>
-\\Bbbfour <Char-0x1D7DC>
-\\BbbG <Char-0x1D53E>
-\\Bbbg <Char-0x1D558>
-\\Bbbgamma <Char-0x0213D>
-\\BbbGamma <Char-0x0213E>
-\\BbbH <Char-0x0210D>
-\\Bbbh <Char-0x1D559>
-\\BbbI <Char-0x1D540>
-\\Bbbi <Char-0x1D55A>
-\\BbbJ <Char-0x1D541>
-\\Bbbj <Char-0x1D55B>
-\\BbbK <Char-0x1D542>
-\\Bbbk <Char-0x1D55C>
-\\BbbL <Char-0x1D543>
-\\Bbbl <Char-0x1D55D>
-\\BbbM <Char-0x1D544>
-\\Bbbm <Char-0x1D55E>
-\\BbbN <Char-0x02115>
-\\Bbbn <Char-0x1D55F>
-\\Bbbnine <Char-0x1D7E1>
-\\BbbO <Char-0x1D546>
-\\Bbbo <Char-0x1D560>
-\\Bbbone <Char-0x1D7D9>
-\\BbbP <Char-0x02119>
-\\Bbbp <Char-0x1D561>
-\\Bbbpi <Char-0x0213C>
-\\BbbPi <Char-0x0213F>
-\\BbbQ <Char-0x0211A>
-\\Bbbq <Char-0x1D562>
-\\BbbR <Char-0x0211D>
-\\Bbbr <Char-0x1D563>
-\\BbbS <Char-0x1D54A>
-\\Bbbs <Char-0x1D564>
-\\Bbbseven <Char-0x1D7DF>
-\\Bbbsix <Char-0x1D7DE>
-\\Bbbsum <Char-0x02140>
-\\BbbT <Char-0x1D54B>
-\\Bbbt <Char-0x1D565>
-\\Bbbthree <Char-0x1D7DB>
-\\Bbbtwo <Char-0x1D7DA>
-\\BbbU <Char-0x1D54C>
-\\Bbbu <Char-0x1D566>
-\\BbbV <Char-0x1D54D>
-\\Bbbv <Char-0x1D567>
-\\BbbW <Char-0x1D54E>
-\\Bbbw <Char-0x1D568>
-\\BbbX <Char-0x1D54F>
-\\Bbbx <Char-0x1D569>
-\\BbbY <Char-0x1D550>
-\\Bbby <Char-0x1D56A>
-\\BbbZ <Char-0x02124>
-\\Bbbz <Char-0x1D56B>
-\\Bbbzero <Char-0x1D7D8>
-\\bbrktbrk <Char-0x023B6>
-\\bdtriplevdash <Char-0x02506>
-\\because <Char-0x02235>
-\\benzenr <Char-0x023E3>
-\\Beta <Char-0x00392>
-\\beta <Char-0x003B2>
-\\beth <Char-0x02136>
-\\between <Char-0x0226C>
-\\bigblacktriangledown <Char-0x025BC>
-\\bigblacktriangleup <Char-0x025B2>
-\\bigbot <Char-0x027D8>
-\\bigcap <Char-0x022C2>
-\\bigcup <Char-0x022C3>
-\\bigcupdot <Char-0x02A03>
-\\biginterleave <Char-0x02AFC>
-\\bigodot <Char-0x02A00>
-\\bigoplus <Char-0x02A01>
-\\bigotimes <Char-0x02A02>
-\\bigslopedvee <Char-0x02A57>
-\\bigslopedwedge <Char-0x02A58>
-\\bigsqcap <Char-0x02A05>
-\\bigsqcup <Char-0x02A06>
-\\bigstar <Char-0x02605>
-\\bigtalloblong <Char-0x02AFF>
-\\bigtimes <Char-0x02A09>
-\\bigtop <Char-0x027D9>
-\\bigtriangledown <Char-0x025BD>
-\\bigtriangleleft <Char-0x02A1E>
-\\bigtriangleup <Char-0x025B3>
-\\biguplus <Char-0x02A04>
-\\bigvee <Char-0x022C1>
-\\bigwedge <Char-0x022C0>
-\\bigwhitestar <Char-0x02606>
-\\blackcircledownarrow <Char-0x029ED>
-\\blackcircledrightdot <Char-0x02688>
-\\blackcircledtwodots <Char-0x02689>
-\\blackcircleulquadwhite <Char-0x025D5>
-\\blackdiamonddownarrow <Char-0x029EA>
-\\blackhourglass <Char-0x029D7>
-\\blackinwhitediamond <Char-0x025C8>
-\\blackinwhitesquare <Char-0x025A3>
-\\blacklefthalfcircle <Char-0x025D6>
-\\blackpointerleft <Char-0x025C4>
-\\blackpointerright <Char-0x025BA>
-\\blackrighthalfcircle <Char-0x025D7>
-\\blacksmiley <Char-0x0263B>
-\\blacktriangle <Char-0x025B4>
-\\blacktriangledown <Char-0x025BE>
-\\blacktriangleleft <Char-0x025C0>
-\\blacktriangleright <Char-0x025B6>
-\\blanksymbol <Char-0x02422>
-\\blkhorzoval <Char-0x02B2C>
-\\blkvertoval <Char-0x02B2E>
-\\blockfull <Char-0x02588>
-\\blockhalfshaded <Char-0x02592>
-\\blocklefthalf <Char-0x0258C>
-\\blocklowhalf <Char-0x02584>
-\\blockqtrshaded <Char-0x02591>
-\\blockrighthalf <Char-0x02590>
-\\blockthreeqtrshaded <Char-0x02593>
-\\blockuphalf <Char-0x02580>
-\\bNot <Char-0x02AED>
-\\bot <Char-0x022A5>
-\\botsemicircle <Char-0x025E1>
-\\bowtie <Char-0x022C8>
-\\boxast <Char-0x029C6>
-\\boxbar <Char-0x025EB>
-\\boxbox <Char-0x029C8>
-\\boxbslash <Char-0x029C5>
-\\boxcircle <Char-0x029C7>
-\\boxdiag <Char-0x029C4>
-\\boxdot <Char-0x022A1>
-\\boxminus <Char-0x0229F>
-\\boxonbox <Char-0x029C9>
-\\boxplus <Char-0x0229E>
-\\boxtimes <Char-0x022A0>
-\\breve <Char-0x00306>
-\\bsimilarleftarrow <Char-0x02B41>
-\\bsimilarrightarrow <Char-0x02B47>
-\\bsolhsub <Char-0x027C8>
-\\btimes <Char-0x02A32>
-\\bullseye <Char-0x025CE>
-\\Bumpeq <Char-0x0224E>
-\\bumpeq <Char-0x0224F>
-\\bumpeqq <Char-0x02AAE>
-\\candra <Char-0x00310>
-\\cap <Char-0x02229>
-\\Cap <Char-0x022D2>
-\\capbarcup <Char-0x02A49>
-\\capdot <Char-0x02A40>
-\\capovercup <Char-0x02A47>
-\\capwedge <Char-0x02A44>
-\\caretinsert <Char-0x02038>
-\\carriagereturn <Char-0x021B5>
-\\ccwundercurvearrow <Char-0x0293F>
-\\cdot <Char-0x022C5>
-\\cdotp <Char-0x000B7>
-\\check <Char-0x0030C>
-\\checkmark <Char-0x02713>
-\\Chi <Char-0x003A7>
-\\chi <Char-0x003C7>
-\\cirbot <Char-0x027DF>
-\\circ <Char-0x02218>
-\\circeq <Char-0x02257>
-\\circlebottomhalfblack <Char-0x025D2>
-\\circledast <Char-0x0229B>
-\\circledbullet <Char-0x029BF>
-\\circledcirc <Char-0x0229A>
-\\circleddash <Char-0x0229D>
-\\circledequal <Char-0x0229C>
-\\circledownarrow <Char-0x029EC>
-\\circledparallel <Char-0x029B7>
-\\circledrightdot <Char-0x02686>
-\\circledstar <Char-0x0272A>
-\\circledtwodots <Char-0x02687>
-\\circledvert <Char-0x029B6>
-\\circledwhitebullet <Char-0x029BE>
-\\circlehbar <Char-0x029B5>
-\\circlelefthalfblack <Char-0x025D0>
-\\circlellquad <Char-0x025F5>
-\\circlelrquad <Char-0x025F6>
-\\circleonleftarrow <Char-0x02B30>
-\\circleonrightarrow <Char-0x021F4>
-\\circlerighthalfblack <Char-0x025D1>
-\\circletophalfblack <Char-0x025D3>
-\\circleulquad <Char-0x025F4>
-\\circleurquad <Char-0x025F7>
-\\circleurquadblack <Char-0x025D4>
-\\circlevertfill <Char-0x025CD>
-\\cirE <Char-0x029C3>
-\\cirfnint <Char-0x02A10>
-\\cirmid <Char-0x02AEF>
-\\cirscir <Char-0x029C2>
-\\closedvarcap <Char-0x02A4D>
-\\closedvarcup <Char-0x02A4C>
-\\closedvarcupsmashprod <Char-0x02A50>
-\\closure <Char-0x02050>
-\\clubsuit <Char-0x02663>
-\\Colon <Char-0x02237>
-\\coloneq <Char-0x02254>
-\\Coloneq <Char-0x02A74>
-\\commaminus <Char-0x02A29>
-\\complement <Char-0x02201>
-\\concavediamond <Char-0x027E1>
-\\concavediamondtickleft <Char-0x027E2>
-\\concavediamondtickright <Char-0x027E3>
-\\cong <Char-0x02245>
-\\congdot <Char-0x02A6D>
-\\conictaper <Char-0x02332>
-\\conjquant <Char-0x02A07>
-\\coprod <Char-0x02210>
-\\csub <Char-0x02ACF>
-\\csube <Char-0x02AD1>
-\\csup <Char-0x02AD0>
-\\csupe <Char-0x02AD2>
-\\cuberoot <Char-0x0221B>
-\\cup <Char-0x0222A>
-\\Cup <Char-0x022D3>
-\\cupbarcap <Char-0x02A48>
-\\cupdot <Char-0x0228D>
-\\cupleftarrow <Char-0x0228C>
-\\cupovercap <Char-0x02A46>
-\\cupvee <Char-0x02A45>
-\\curlyeqprec <Char-0x022DE>
-\\curlyeqsucc <Char-0x022DF>
-\\curlyvee <Char-0x022CE>
-\\curlywedge <Char-0x022CF>
-\\curvearrowleft <Char-0x021B6>
-\\curvearrowleftplus <Char-0x0293D>
-\\curvearrowright <Char-0x021B7>
-\\curvearrowrightminus <Char-0x0293C>
-\\cwcirclearrow <Char-0x02941>
-\\cwgapcirclearrow <Char-0x027F3>
-\\cwopencirclearrow <Char-0x021BB>
-\\cwrightarcarrow <Char-0x02938>
-\\cwundercurvearrow <Char-0x0293E>
-\\dagger <Char-0x02020>
-\\daleth <Char-0x02138>
-\\danger <Char-0x02621>
-\\dashcolon <Char-0x02239>
-\\dashleftharpoondown <Char-0x0296B>
-\\dashrightharpoondown <Char-0x0296D>
-\\dashv <Char-0x022A3>
-\\dashV <Char-0x02AE3>
-\\Dashv <Char-0x02AE4>
-\\DashV <Char-0x02AE5>
-\\DashVDash <Char-0x027DA>
-\\dashVdash <Char-0x027DB>
-\\dbkarrow <Char-0x0290F>
-\\ddagger <Char-0x02021>
-\\ddddot <Char-0x020DC>
-\\dddot <Char-0x020DB>
-\\ddot <Char-0x00308>
-\\ddots <Char-0x022F1>
-\\ddotseq <Char-0x02A77>
-\\DDownarrow <Char-0x027F1>
-\\Ddownarrow <Char-0x0290B>
-\\Delta <Char-0x00394>
-\\delta <Char-0x003B4>
-\\diameter <Char-0x02300>
-\\diamondbotblack <Char-0x02B19>
-\\diamondcdot <Char-0x027D0>
-\\diamondleftarrow <Char-0x0291D>
-\\diamondleftarrowbar <Char-0x0291F>
-\\diamondleftblack <Char-0x02B16>
-\\diamondrightblack <Char-0x02B17>
-\\diamondsuit <Char-0x02662>
-\\diamondtopblack <Char-0x02B18>
-\\dicei <Char-0x02680>
-\\diceii <Char-0x02681>
-\\diceiii <Char-0x02682>
-\\diceiv <Char-0x02683>
-\\dicev <Char-0x02684>
-\\dicevi <Char-0x02685>
-\\dingasterisk <Char-0x0273D>
-\\disin <Char-0x022F2>
-\\disjquant <Char-0x02A08>
-\\div <Char-0x000F7>
-\\divideontimes <Char-0x022C7>
-\\divslash <Char-0x02215>
-\\dot <Char-0x00307>
-\\doteq <Char-0x02250>
-\\Doteq <Char-0x02251>
-\\dotequiv <Char-0x02A67>
-\\dotminus <Char-0x02238>
-\\dotplus <Char-0x02214>
-\\dotsim <Char-0x02A6A>
-\\dotsminusdots <Char-0x0223A>
-\\dottedcircle <Char-0x025CC>
-\\dottedsquare <Char-0x02B1A>
-\\dottimes <Char-0x02A30>
-\\doublebarvee <Char-0x02A62>
-\\doublebarwedge <Char-0x02A5E>
-\\doubleplus <Char-0x029FA>
-\\downarrow <Char-0x02193>
-\\Downarrow <Char-0x021D3>
-\\downarrowbar <Char-0x02913>
-\\downarrowbarred <Char-0x02908>
-\\downdasharrow <Char-0x021E3>
-\\downdownarrows <Char-0x021CA>
-\\downfishtail <Char-0x0297F>
-\\downharpoonleft <Char-0x021C3>
-\\downharpoonleftbar <Char-0x02959>
-\\downharpoonright <Char-0x021C2>
-\\downharpoonrightbar <Char-0x02955>
-\\downharpoonsleftright <Char-0x02965>
-\\downrightcurvedarrow <Char-0x02935>
-\\downtriangleleftblack <Char-0x029E8>
-\\downtrianglerightblack <Char-0x029E9>
-\\downuparrows <Char-0x021F5>
-\\downupharpoonsleftright <Char-0x0296F>
-\\downwhitearrow <Char-0x021E9>
-\\downzigzagarrow <Char-0x021AF>
-\\dprime <Char-0x02033>
-\\draftingarrow <Char-0x0279B>
-\\drbkarrow <Char-0x02910>
-\\droang <Char-0x0031A>
-\\dsol <Char-0x029F6>
-\\dsub <Char-0x02A64>
-\\dualmap <Char-0x029DF>
-\\egsdot <Char-0x02A98>
-\\eighthnote <Char-0x0266A>
-\\elinters <Char-0x023E7>
-\\ell <Char-0x02113>
-\\elsdot <Char-0x02A97>
-\\emptysetoarr <Char-0x029B3>
-\\emptysetoarrl <Char-0x029B4>
-\\emptysetobar <Char-0x029B1>
-\\emptysetocirc <Char-0x029B2>
-\\enclosecircle <Char-0x020DD>
-\\enclosediamond <Char-0x020DF>
-\\enclosesquare <Char-0x020DE>
-\\enclosetriangle <Char-0x020E4>
-\\enleadertwodots <Char-0x02025>
-\\eparsl <Char-0x029E3>
-\\Epsilon <Char-0x00395>
-\\epsilon <Char-0x003F5>
-\\eqcirc <Char-0x02256>
-\\eqcolon <Char-0x02255>
-\\eqdef <Char-0x0225D>
-\\eqdot <Char-0x02A66>
-\\eqeq <Char-0x02A75>
-\\eqeqeq <Char-0x02A76>
-\\eqgtr <Char-0x022DD>
-\\eqless <Char-0x022DC>
-\\eqqgtr <Char-0x02A9A>
-\\eqqless <Char-0x02A99>
-\\eqqplus <Char-0x02A71>
-\\eqqsim <Char-0x02A73>
-\\eqqslantgtr <Char-0x02A9C>
-\\eqqslantless <Char-0x02A9B>
-\\eqsim <Char-0x02242>
-\\eqslantgtr <Char-0x02A96>
-\\eqslantless <Char-0x02A95>
-\\equal <Char-0x0003D>
-\\equalleftarrow <Char-0x02B40>
-\\equalparallel <Char-0x022D5>
-\\equalrightarrow <Char-0x02971>
-\\equiv <Char-0x02261>
-\\Equiv <Char-0x02263>
-\\equivDD <Char-0x02A78>
-\\equivVert <Char-0x02A68>
-\\equivVvert <Char-0x02A69>
-\\eqvparsl <Char-0x029E5>
-\\errbarblackcircle <Char-0x029F3>
-\\errbarblackdiamond <Char-0x029F1>
-\\errbarblacksquare <Char-0x029EF>
-\\errbarcircle <Char-0x029F2>
-\\errbardiamond <Char-0x029F0>
-\\errbarsquare <Char-0x029EE>
-\\Eta <Char-0x00397>
-\\eta <Char-0x003B7>
-\\Eulerconst <Char-0x02107>
-\\euro <Char-0x020AC>
-\\Exclam <Char-0x0203C>
-\\exists <Char-0x02203>
-\\fallingdotseq <Char-0x02252>
-\\fbowtie <Char-0x029D3>
-\\fcmp <Char-0x02A3E>
-\\fdiagovnearrow <Char-0x0292F>
-\\fdiagovrdiag <Char-0x0292C>
-\\female <Char-0x02640>
-\\fint <Char-0x02A0F>
-\\Finv <Char-0x02132>
-\\fisheye <Char-0x025C9>
-\\flat <Char-0x0266D>
-\\fltns <Char-0x023E5>
-\\forall <Char-0x02200>
-\\forks <Char-0x02ADC>
-\\forksnot <Char-0x02ADD>
-\\forkv <Char-0x02AD9>
-\\fourthroot <Char-0x0221C>
-\\fourvdots <Char-0x02999>
-\\fracslash <Char-0x02044>
-\\frown <Char-0x02322>
-\\fullouterjoin <Char-0x027D7>
-\\Game <Char-0x02141>
-\\Gamma <Char-0x00393>
-\\gamma <Char-0x003B3>
-\\ge <Char-0x02265> " plain.tex alias
-\\geq <Char-0x02265>
-\\geqq <Char-0x02267>
-\\geqqslant <Char-0x02AFA>
-\\geqslant <Char-0x02A7E>
-\\gescc <Char-0x02AA9>
-\\gesdot <Char-0x02A80>
-\\gesdoto <Char-0x02A82>
-\\gesdotol <Char-0x02A84>
-\\gesles <Char-0x02A94>
-\\gets <Char-0x02190> " plain.tex alias
-\\gg <Char-0x0226B>
-\\ggg <Char-0x022D9>
-\\gggnest <Char-0x02AF8>
-\\gimel <Char-0x02137>
-\\gla <Char-0x02AA5>
-\\glE <Char-0x02A92>
-\\gleichstark <Char-0x029E6>
-\\glj <Char-0x02AA4>
-\\gnapprox <Char-0x02A8A>
-\\gneq <Char-0x02A88>
-\\gneqq <Char-0x02269>
-\\gnsim <Char-0x022E7>
-\\grave <Char-0x00300>
-\\greater <Char-0x0003E>
-\\gsime <Char-0x02A8E>
-\\gsiml <Char-0x02A90>
-\\Gt <Char-0x02AA2>
-\\gtcc <Char-0x02AA7>
-\\gtcir <Char-0x02A7A>
-\\gtlpar <Char-0x029A0>
-\\gtquest <Char-0x02A7C>
-\\gtrapprox <Char-0x02A86>
-\\gtrarr <Char-0x02978>
-\\gtrdot <Char-0x022D7>
-\\gtreqless <Char-0x022DB>
-\\gtreqqless <Char-0x02A8C>
-\\gtrless <Char-0x02277>
-\\gtrsim <Char-0x02273>
-\\harrowextender <Char-0x023AF>
-\\hat <Char-0x00302>
-\\hatapprox <Char-0x02A6F>
-\\heartsuit <Char-0x02661>
-\\Hermaphrodite <Char-0x026A5>
-\\hermitmatrix <Char-0x022B9>
-\\hexagon <Char-0x02394>
-\\hexagonblack <Char-0x02B23>
-\\hknearrow <Char-0x02924>
-\\hknwarrow <Char-0x02923>
-\\hksearrow <Char-0x02925>
-\\hkswarrow <Char-0x02926>
-\\hookleftarrow <Char-0x021A9>
-\\hookrightarrow <Char-0x021AA>
-\\horizbar <Char-0x02015>
-\\hourglass <Char-0x029D6>
-\\house <Char-0x02302>
-\\hrectangle <Char-0x025AD>
-\\hrectangleblack <Char-0x025AC>
-\\hslash <Char-0x0210F>
-\\hyphenbullet <Char-0x02043>
-\\hzigzag <Char-0x03030>
-\\iiiint <Char-0x02A0C>
-\\iiint <Char-0x0222D>
-\\iinfin <Char-0x029DC>
-\\iint <Char-0x0222C>
-\\Im <Char-0x02111>
-\\imageof <Char-0x022B7>
-\\imath <Char-0x1D6A4>
-\\in <Char-0x02208>
-\\increment <Char-0x02206>
-\\infty <Char-0x0221E>
-\\int <Char-0x0222B>
-\\intbar <Char-0x02A0D>
-\\intBar <Char-0x02A0E>
-\\intbottom <Char-0x02321>
-\\intcap <Char-0x02A19>
-\\intclockwise <Char-0x02231>
-\\intcup <Char-0x02A1A>
-\\intercal <Char-0x022BA>
-\\interleave <Char-0x02AF4>
-\\intextender <Char-0x023AE>
-\\intlarhk <Char-0x02A17>
-\\intprod <Char-0x02A3C>
-\\intprodr <Char-0x02A3D>
-\\inttop <Char-0x02320>
-\\intx <Char-0x02A18>
-\\inversebullet <Char-0x025D8>
-\\inversewhitecircle <Char-0x025D9>
-\\invlazys <Char-0x0223E>
-\\invnot <Char-0x02310>
-\\invwhitelowerhalfcircle <Char-0x025DB>
-\\invwhiteupperhalfcircle <Char-0x025DA>
-\\Iota <Char-0x00399>
-\\iota <Char-0x003B9>
-\\isindot <Char-0x022F5>
-\\isinE <Char-0x022F9>
-\\isinobar <Char-0x022F7>
-\\isins <Char-0x022F4>
-\\isinvb <Char-0x022F8>
-\\jmath <Char-0x1D6A5>
-\\Join <Char-0x02A1D>
-\\Kappa <Char-0x0039A>
-\\kappa <Char-0x003BA>
-\\kernelcontraction <Char-0x0223B>
-\\Lambda <Char-0x0039B>
-\\lambda <Char-0x003BB>
-\\land <Char-0x02227> " plain.tex alias
-\\langle <Char-0x027E8>
-\\lAngle <Char-0x027EA>
-\\langledot <Char-0x02991>
-\\laplac <Char-0x029E0>
-\\lat <Char-0x02AAB>
-\\late <Char-0x02AAD>
-\\lbag <Char-0x027C5>
-\\lblkbrbrak <Char-0x02997>
-\\lbrace <Char-0x0007B>
-\\lBrace <Char-0x02983>
-\\lbracelend <Char-0x023A9>
-\\lbracemid <Char-0x023A8>
-\\lbraceuend <Char-0x023A7>
-\\lbrack <Char-0x0005B>
-\\lBrack <Char-0x027E6>
-\\lbrackextender <Char-0x023A2>
-\\lbracklend <Char-0x023A3>
-\\lbracklltick <Char-0x0298F>
-\\lbrackubar <Char-0x0298B>
-\\lbrackuend <Char-0x023A1>
-\\lbrackultick <Char-0x0298D>
-\\lbrbrak <Char-0x02772>
-\\Lbrbrak <Char-0x027EC>
-\\lceil <Char-0x02308>
-\\lcurvyangle <Char-0x029FC>
-\\Ldsh <Char-0x021B2>
-\\le <Char-0x02264> " plain.tex alias
-\\leftarrow <Char-0x02190>
-\\Leftarrow <Char-0x021D0>
-\\leftarrowapprox <Char-0x02B4A>
-\\leftarrowbackapprox <Char-0x02B42>
-\\leftarrowbsimilar <Char-0x02B4B>
-\\leftarrowless <Char-0x02977>
-\\leftarrowonoplus <Char-0x02B32>
-\\leftarrowplus <Char-0x02946>
-\\leftarrowshortrightarrow <Char-0x02943>
-\\leftarrowsimilar <Char-0x02973>
-\\leftarrowsubset <Char-0x0297A>
-\\leftarrowtail <Char-0x021A2>
-\\leftarrowtriangle <Char-0x021FD>
-\\leftarrowx <Char-0x02B3E>
-\\leftbkarrow <Char-0x0290C>
-\\leftcurvedarrow <Char-0x02B3F>
-\\leftdasharrow <Char-0x021E0>
-\\leftdbkarrow <Char-0x0290E>
-\\leftdbltail <Char-0x0291B>
-\\leftdotarrow <Char-0x02B38>
-\\leftdowncurvedarrow <Char-0x02936>
-\\leftfishtail <Char-0x0297C>
-\\leftharpoonaccent <Char-0x020D0>
-\\leftharpoondown <Char-0x021BD>
-\\leftharpoondownbar <Char-0x0295E>
-\\leftharpoonsupdown <Char-0x02962>
-\\leftharpoonup <Char-0x021BC>
-\\leftharpoonupbar <Char-0x0295A>
-\\leftharpoonupdash <Char-0x0296A>
-\\leftleftarrows <Char-0x021C7>
-\\leftmoon <Char-0x0263E>
-\\leftouterjoin <Char-0x027D5>
-\\leftrightarrow <Char-0x02194>
-\\Leftrightarrow <Char-0x021D4>
-\\leftrightarrowcircle <Char-0x02948>
-\\leftrightarrows <Char-0x021C6>
-\\leftrightarrowtriangle <Char-0x021FF>
-\\leftrightharpoondowndown <Char-0x02950>
-\\leftrightharpoondownup <Char-0x0294B>
-\\leftrightharpoons <Char-0x021CB>
-\\leftrightharpoonsdown <Char-0x02967>
-\\leftrightharpoonsup <Char-0x02966>
-\\leftrightharpoonupdown <Char-0x0294A>
-\\leftrightharpoonupup <Char-0x0294E>
-\\leftrightsquigarrow <Char-0x021AD>
-\\leftsquigarrow <Char-0x021DC>
-\\lefttail <Char-0x02919>
-\\leftthreearrows <Char-0x02B31>
-\\leftthreetimes <Char-0x022CB>
-\\leftwavearrow <Char-0x0219C>
-\\leftwhitearrow <Char-0x021E6>
-\\leq <Char-0x02264>
-\\leqq <Char-0x02266>
-\\leqqslant <Char-0x02AF9>
-\\leqslant <Char-0x02A7D>
-\\lescc <Char-0x02AA8>
-\\lesdot <Char-0x02A7F>
-\\lesdoto <Char-0x02A81>
-\\lesdotor <Char-0x02A83>
-\\lesges <Char-0x02A93>
-\\less <Char-0x0003C>
-\\lessapprox <Char-0x02A85>
-\\lessdot <Char-0x022D6>
-\\lesseqgtr <Char-0x022DA>
-\\lesseqqgtr <Char-0x02A8B>
-\\lessgtr <Char-0x02276>
-\\lesssim <Char-0x02272>
-\\lfbowtie <Char-0x029D1>
-\\lfloor <Char-0x0230A>
-\\lftimes <Char-0x029D4>
-\\lgblkcircle <Char-0x02B24>
-\\lgblksquare <Char-0x02B1B>
-\\lgE <Char-0x02A91>
-\\lgroup <Char-0x027EE>
-\\lgwhtcircle <Char-0x025EF>
-\\lgwhtsquare <Char-0x02B1C>
-\\linefeed <Char-0x021B4>
-\\ll <Char-0x0226A>
-\\llangle <Char-0x02989>
-\\llarc <Char-0x025DF>
-\\llblacktriangle <Char-0x025E3>
-\\llcorner <Char-0x0231E>
-\\Lleftarrow <Char-0x021DA>
-\\LLeftarrow <Char-0x02B45>
-\\lll <Char-0x022D8>
-\\lllnest <Char-0x02AF7>
-\\llparenthesis <Char-0x02987>
-\\lltriangle <Char-0x025FA>
-\\lmoustache <Char-0x023B0>
-\\lnapprox <Char-0x02A89>
-\\lneq <Char-0x02A87>
-\\lneqq <Char-0x02268>
-\\lnot <Char-0x000AC> " plain.tex alias
-\\lnsim <Char-0x022E6>
-\\longdashv <Char-0x027DE>
-\\longdivision <Char-0x027CC>
-\\longleftarrow <Char-0x027F5>
-\\Longleftarrow <Char-0x027F8>
-\\longleftrightarrow <Char-0x027F7>
-\\Longleftrightarrow <Char-0x027FA>
-\\longleftsquigarrow <Char-0x02B33>
-\\longmapsfrom <Char-0x027FB>
-\\Longmapsfrom <Char-0x027FD>
-\\longmapsto <Char-0x027FC>
-\\Longmapsto <Char-0x027FE>
-\\longrightarrow <Char-0x027F6>
-\\Longrightarrow <Char-0x027F9>
-\\longrightsquigarrow <Char-0x027FF>
-\\looparrowleft <Char-0x021AB>
-\\looparrowright <Char-0x021AC>
-\\lor <Char-0x02228> " plain.tex alias
-\\lowint <Char-0x02A1C>
-\\lozengeminus <Char-0x027E0>
-\\lparen <Char-0x00028>
-\\lParen <Char-0x02985>
-\\lparenextender <Char-0x0239C>
-\\Lparengtr <Char-0x02995>
-\\lparenlend <Char-0x0239D>
-\\lparenless <Char-0x02993>
-\\lparenuend <Char-0x0239B>
-\\lrarc <Char-0x025DE>
-\\lrblacktriangle <Char-0x025E2>
-\\lrcorner <Char-0x0231F>
-\\lrtriangle <Char-0x025FF>
-\\lrtriangleeq <Char-0x029E1>
-\\Lsh <Char-0x021B0>
-\\lsime <Char-0x02A8D>
-\\lsimg <Char-0x02A8F>
-\\lsqhook <Char-0x02ACD>
-\\Lt <Char-0x02AA1>
-\\ltcc <Char-0x02AA6>
-\\ltcir <Char-0x02A79>
-\\ltimes <Char-0x022C9>
-\\ltlarr <Char-0x02976>
-\\ltquest <Char-0x02A7B>
-\\ltrivb <Char-0x029CF>
-\\lvboxline <Char-0x023B8>
-\\lvzigzag <Char-0x029D8>
-\\Lvzigzag <Char-0x029DA>
-\\male <Char-0x02642>
-\\maltese <Char-0x02720>
-\\mapsdown <Char-0x021A7>
-\\mapsfrom <Char-0x021A4>
-\\Mapsfrom <Char-0x02906>
-\\mapsto <Char-0x021A6>
-\\Mapsto <Char-0x02907>
-\\mapsup <Char-0x021A5>
-\\mathampersand <Char-0x00026>
-\\mathatsign <Char-0x00040>
-\\mathcolon <Char-0x0003A>
-\\mathcomma <Char-0x0002C>
-\\mathdollar <Char-0x00024>
-\\matheth <Char-0x000F0>
-\\mathexclam <Char-0x00021>
-\\mathhyphen <Char-0x02010>
-\\mathoctothorpe <Char-0x00023>
-\\mathparagraph <Char-0x000B6>
-\\mathpercent <Char-0x00025>
-\\mathperiod <Char-0x0002E>
-\\mathplus <Char-0x0002B>
-\\mathquestion <Char-0x0003F>
-\\mathratio <Char-0x02236>
-\\mathsection <Char-0x000A7>
-\\mathsemicolon <Char-0x0003B>
-\\mathslash <Char-0x0002F>
-\\mathsterling <Char-0x000A3>
-\\mathunderbar <Char-0x00332>
-\\mathvisiblespace <Char-0x02423>
-\\mathyen <Char-0x000A5>
-\\mbfA <Char-0x1D400>
-\\mbfa <Char-0x1D41A>
-\\mbfAlpha <Char-0x1D6A8>
-\\mbfalpha <Char-0x1D6C2>
-\\mbfB <Char-0x1D401>
-\\mbfb <Char-0x1D41B>
-\\mbfBeta <Char-0x1D6A9>
-\\mbfbeta <Char-0x1D6C3>
-\\mbfC <Char-0x1D402>
-\\mbfc <Char-0x1D41C>
-\\mbfChi <Char-0x1D6BE>
-\\mbfchi <Char-0x1D6D8>
-\\mbfD <Char-0x1D403>
-\\mbfd <Char-0x1D41D>
-\\mbfDelta <Char-0x1D6AB>
-\\mbfdelta <Char-0x1D6C5>
-\\mbfDigamma <Char-0x1D7CA>
-\\mbfdigamma <Char-0x1D7CB>
-\\mbfE <Char-0x1D404>
-\\mbfe <Char-0x1D41E>
-\\mbfeight <Char-0x1D7D6>
-\\mbfEpsilon <Char-0x1D6AC>
-\\mbfepsilon <Char-0x1D6DC>
-\\mbfEta <Char-0x1D6AE>
-\\mbfeta <Char-0x1D6C8>
-\\mbfF <Char-0x1D405>
-\\mbff <Char-0x1D41F>
-\\mbffive <Char-0x1D7D3>
-\\mbffour <Char-0x1D7D2>
-\\mbffrakA <Char-0x1D56C>
-\\mbffraka <Char-0x1D586>
-\\mbffrakB <Char-0x1D56D>
-\\mbffrakb <Char-0x1D587>
-\\mbffrakC <Char-0x1D56E>
-\\mbffrakc <Char-0x1D588>
-\\mbffrakD <Char-0x1D56F>
-\\mbffrakd <Char-0x1D589>
-\\mbffrakE <Char-0x1D570>
-\\mbffrake <Char-0x1D58A>
-\\mbffrakF <Char-0x1D571>
-\\mbffrakf <Char-0x1D58B>
-\\mbffrakG <Char-0x1D572>
-\\mbffrakg <Char-0x1D58C>
-\\mbffrakH <Char-0x1D573>
-\\mbffrakh <Char-0x1D58D>
-\\mbffrakI <Char-0x1D574>
-\\mbffraki <Char-0x1D58E>
-\\mbffrakJ <Char-0x1D575>
-\\mbffrakj <Char-0x1D58F>
-\\mbffrakK <Char-0x1D576>
-\\mbffrakk <Char-0x1D590>
-\\mbffrakL <Char-0x1D577>
-\\mbffrakl <Char-0x1D591>
-\\mbffrakM <Char-0x1D578>
-\\mbffrakm <Char-0x1D592>
-\\mbffrakN <Char-0x1D579>
-\\mbffrakn <Char-0x1D593>
-\\mbffrakO <Char-0x1D57A>
-\\mbffrako <Char-0x1D594>
-\\mbffrakP <Char-0x1D57B>
-\\mbffrakp <Char-0x1D595>
-\\mbffrakQ <Char-0x1D57C>
-\\mbffrakq <Char-0x1D596>
-\\mbffrakR <Char-0x1D57D>
-\\mbffrakr <Char-0x1D597>
-\\mbffrakS <Char-0x1D57E>
-\\mbffraks <Char-0x1D598>
-\\mbffrakT <Char-0x1D57F>
-\\mbffrakt <Char-0x1D599>
-\\mbffrakU <Char-0x1D580>
-\\mbffraku <Char-0x1D59A>
-\\mbffrakV <Char-0x1D581>
-\\mbffrakv <Char-0x1D59B>
-\\mbffrakW <Char-0x1D582>
-\\mbffrakw <Char-0x1D59C>
-\\mbffrakX <Char-0x1D583>
-\\mbffrakx <Char-0x1D59D>
-\\mbffrakY <Char-0x1D584>
-\\mbffraky <Char-0x1D59E>
-\\mbffrakZ <Char-0x1D585>
-\\mbffrakz <Char-0x1D59F>
-\\mbfG <Char-0x1D406>
-\\mbfg <Char-0x1D420>
-\\mbfGamma <Char-0x1D6AA>
-\\mbfgamma <Char-0x1D6C4>
-\\mbfH <Char-0x1D407>
-\\mbfh <Char-0x1D421>
-\\mbfI <Char-0x1D408>
-\\mbfi <Char-0x1D422>
-\\mbfIota <Char-0x1D6B0>
-\\mbfiota <Char-0x1D6CA>
-\\mbfitA <Char-0x1D468>
-\\mbfita <Char-0x1D482>
-\\mbfitAlpha <Char-0x1D71C>
-\\mbfitalpha <Char-0x1D736>
-\\mbfitB <Char-0x1D469>
-\\mbfitb <Char-0x1D483>
-\\mbfitBeta <Char-0x1D71D>
-\\mbfitbeta <Char-0x1D737>
-\\mbfitC <Char-0x1D46A>
-\\mbfitc <Char-0x1D484>
-\\mbfitChi <Char-0x1D732>
-\\mbfitchi <Char-0x1D74C>
-\\mbfitD <Char-0x1D46B>
-\\mbfitd <Char-0x1D485>
-\\mbfitDelta <Char-0x1D71F>
-\\mbfitdelta <Char-0x1D739>
-\\mbfitE <Char-0x1D46C>
-\\mbfite <Char-0x1D486>
-\\mbfitEpsilon <Char-0x1D720>
-\\mbfitepsilon <Char-0x1D750>
-\\mbfitEta <Char-0x1D722>
-\\mbfiteta <Char-0x1D73C>
-\\mbfitF <Char-0x1D46D>
-\\mbfitf <Char-0x1D487>
-\\mbfitG <Char-0x1D46E>
-\\mbfitg <Char-0x1D488>
-\\mbfitGamma <Char-0x1D71E>
-\\mbfitgamma <Char-0x1D738>
-\\mbfitH <Char-0x1D46F>
-\\mbfith <Char-0x1D489>
-\\mbfitI <Char-0x1D470>
-\\mbfiti <Char-0x1D48A>
-\\mbfitIota <Char-0x1D724>
-\\mbfitiota <Char-0x1D73E>
-\\mbfitJ <Char-0x1D471>
-\\mbfitj <Char-0x1D48B>
-\\mbfitK <Char-0x1D472>
-\\mbfitk <Char-0x1D48C>
-\\mbfitKappa <Char-0x1D725>
-\\mbfitkappa <Char-0x1D73F>
-\\mbfitL <Char-0x1D473>
-\\mbfitl <Char-0x1D48D>
-\\mbfitLambda <Char-0x1D726>
-\\mbfitlambda <Char-0x1D740>
-\\mbfitM <Char-0x1D474>
-\\mbfitm <Char-0x1D48E>
-\\mbfitMu <Char-0x1D727>
-\\mbfitmu <Char-0x1D741>
-\\mbfitN <Char-0x1D475>
-\\mbfitn <Char-0x1D48F>
-\\mbfitnabla <Char-0x1D735>
-\\mbfitNu <Char-0x1D728>
-\\mbfitnu <Char-0x1D742>
-\\mbfitO <Char-0x1D476>
-\\mbfito <Char-0x1D490>
-\\mbfitOmega <Char-0x1D734>
-\\mbfitomega <Char-0x1D74E>
-\\mbfitOmicron <Char-0x1D72A>
-\\mbfitomicron <Char-0x1D744>
-\\mbfitP <Char-0x1D477>
-\\mbfitp <Char-0x1D491>
-\\mbfitpartial <Char-0x1D74F>
-\\mbfitPhi <Char-0x1D731>
-\\mbfitphi <Char-0x1D753>
-\\mbfitPi <Char-0x1D72B>
-\\mbfitpi <Char-0x1D745>
-\\mbfitPsi <Char-0x1D733>
-\\mbfitpsi <Char-0x1D74D>
-\\mbfitQ <Char-0x1D478>
-\\mbfitq <Char-0x1D492>
-\\mbfitR <Char-0x1D479>
-\\mbfitr <Char-0x1D493>
-\\mbfitRho <Char-0x1D72C>
-\\mbfitrho <Char-0x1D746>
-\\mbfitS <Char-0x1D47A>
-\\mbfits <Char-0x1D494>
-\\mbfitsansA <Char-0x1D63C>
-\\mbfitsansa <Char-0x1D656>
-\\mbfitsansAlpha <Char-0x1D790>
-\\mbfitsansalpha <Char-0x1D7AA>
-\\mbfitsansB <Char-0x1D63D>
-\\mbfitsansb <Char-0x1D657>
-\\mbfitsansBeta <Char-0x1D791>
-\\mbfitsansbeta <Char-0x1D7AB>
-\\mbfitsansC <Char-0x1D63E>
-\\mbfitsansc <Char-0x1D658>
-\\mbfitsansChi <Char-0x1D7A6>
-\\mbfitsanschi <Char-0x1D7C0>
-\\mbfitsansD <Char-0x1D63F>
-\\mbfitsansd <Char-0x1D659>
-\\mbfitsansDelta <Char-0x1D793>
-\\mbfitsansdelta <Char-0x1D7AD>
-\\mbfitsansE <Char-0x1D640>
-\\mbfitsanse <Char-0x1D65A>
-\\mbfitsansEpsilon <Char-0x1D794>
-\\mbfitsansepsilon <Char-0x1D7C4>
-\\mbfitsansEta <Char-0x1D796>
-\\mbfitsanseta <Char-0x1D7B0>
-\\mbfitsansF <Char-0x1D641>
-\\mbfitsansf <Char-0x1D65B>
-\\mbfitsansG <Char-0x1D642>
-\\mbfitsansg <Char-0x1D65C>
-\\mbfitsansGamma <Char-0x1D792>
-\\mbfitsansgamma <Char-0x1D7AC>
-\\mbfitsansH <Char-0x1D643>
-\\mbfitsansh <Char-0x1D65D>
-\\mbfitsansI <Char-0x1D644>
-\\mbfitsansi <Char-0x1D65E>
-\\mbfitsansIota <Char-0x1D798>
-\\mbfitsansiota <Char-0x1D7B2>
-\\mbfitsansJ <Char-0x1D645>
-\\mbfitsansj <Char-0x1D65F>
-\\mbfitsansK <Char-0x1D646>
-\\mbfitsansk <Char-0x1D660>
-\\mbfitsansKappa <Char-0x1D799>
-\\mbfitsanskappa <Char-0x1D7B3>
-\\mbfitsansL <Char-0x1D647>
-\\mbfitsansl <Char-0x1D661>
-\\mbfitsansLambda <Char-0x1D79A>
-\\mbfitsanslambda <Char-0x1D7B4>
-\\mbfitsansM <Char-0x1D648>
-\\mbfitsansm <Char-0x1D662>
-\\mbfitsansMu <Char-0x1D79B>
-\\mbfitsansmu <Char-0x1D7B5>
-\\mbfitsansN <Char-0x1D649>
-\\mbfitsansn <Char-0x1D663>
-\\mbfitsansnabla <Char-0x1D7A9>
-\\mbfitsansNu <Char-0x1D79C>
-\\mbfitsansnu <Char-0x1D7B6>
-\\mbfitsansO <Char-0x1D64A>
-\\mbfitsanso <Char-0x1D664>
-\\mbfitsansOmega <Char-0x1D7A8>
-\\mbfitsansomega <Char-0x1D7C2>
-\\mbfitsansOmicron <Char-0x1D79E>
-\\mbfitsansomicron <Char-0x1D7B8>
-\\mbfitsansP <Char-0x1D64B>
-\\mbfitsansp <Char-0x1D665>
-\\mbfitsanspartial <Char-0x1D7C3>
-\\mbfitsansPhi <Char-0x1D7A5>
-\\mbfitsansphi <Char-0x1D7C7>
-\\mbfitsansPi <Char-0x1D79F>
-\\mbfitsanspi <Char-0x1D7B9>
-\\mbfitsansPsi <Char-0x1D7A7>
-\\mbfitsanspsi <Char-0x1D7C1>
-\\mbfitsansQ <Char-0x1D64C>
-\\mbfitsansq <Char-0x1D666>
-\\mbfitsansR <Char-0x1D64D>
-\\mbfitsansr <Char-0x1D667>
-\\mbfitsansRho <Char-0x1D7A0>
-\\mbfitsansrho <Char-0x1D7BA>
-\\mbfitsansS <Char-0x1D64E>
-\\mbfitsanss <Char-0x1D668>
-\\mbfitsansSigma <Char-0x1D7A2>
-\\mbfitsanssigma <Char-0x1D7BC>
-\\mbfitsansT <Char-0x1D64F>
-\\mbfitsanst <Char-0x1D669>
-\\mbfitsansTau <Char-0x1D7A3>
-\\mbfitsanstau <Char-0x1D7BD>
-\\mbfitsansTheta <Char-0x1D797>
-\\mbfitsanstheta <Char-0x1D7B1>
-\\mbfitsansU <Char-0x1D650>
-\\mbfitsansu <Char-0x1D66A>
-\\mbfitsansUpsilon <Char-0x1D7A4>
-\\mbfitsansupsilon <Char-0x1D7BE>
-\\mbfitsansV <Char-0x1D651>
-\\mbfitsansv <Char-0x1D66B>
-\\mbfitsansvarepsilon <Char-0x1D7AE>
-\\mbfitsansvarkappa <Char-0x1D7C6>
-\\mbfitsansvarphi <Char-0x1D7BF>
-\\mbfitsansvarpi <Char-0x1D7C9>
-\\mbfitsansvarrho <Char-0x1D7C8>
-\\mbfitsansvarsigma <Char-0x1D7BB>
-\\mbfitsansvarTheta <Char-0x1D7A1>
-\\mbfitsansvartheta <Char-0x1D7C5>
-\\mbfitsansW <Char-0x1D652>
-\\mbfitsansw <Char-0x1D66C>
-\\mbfitsansX <Char-0x1D653>
-\\mbfitsansx <Char-0x1D66D>
-\\mbfitsansXi <Char-0x1D79D>
-\\mbfitsansxi <Char-0x1D7B7>
-\\mbfitsansY <Char-0x1D654>
-\\mbfitsansy <Char-0x1D66E>
-\\mbfitsansZ <Char-0x1D655>
-\\mbfitsansz <Char-0x1D66F>
-\\mbfitsansZeta <Char-0x1D795>
-\\mbfitsanszeta <Char-0x1D7AF>
-\\mbfitSigma <Char-0x1D72E>
-\\mbfitsigma <Char-0x1D748>
-\\mbfitT <Char-0x1D47B>
-\\mbfitt <Char-0x1D495>
-\\mbfitTau <Char-0x1D72F>
-\\mbfittau <Char-0x1D749>
-\\mbfitTheta <Char-0x1D723>
-\\mbfittheta <Char-0x1D73D>
-\\mbfitU <Char-0x1D47C>
-\\mbfitu <Char-0x1D496>
-\\mbfitUpsilon <Char-0x1D730>
-\\mbfitupsilon <Char-0x1D74A>
-\\mbfitV <Char-0x1D47D>
-\\mbfitv <Char-0x1D497>
-\\mbfitvarepsilon <Char-0x1D73A>
-\\mbfitvarkappa <Char-0x1D752>
-\\mbfitvarphi <Char-0x1D74B>
-\\mbfitvarpi <Char-0x1D755>
-\\mbfitvarrho <Char-0x1D754>
-\\mbfitvarsigma <Char-0x1D747>
-\\mbfitvarTheta <Char-0x1D72D>
-\\mbfitvartheta <Char-0x1D751>
-\\mbfitW <Char-0x1D47E>
-\\mbfitw <Char-0x1D498>
-\\mbfitX <Char-0x1D47F>
-\\mbfitx <Char-0x1D499>
-\\mbfitXi <Char-0x1D729>
-\\mbfitxi <Char-0x1D743>
-\\mbfitY <Char-0x1D480>
-\\mbfity <Char-0x1D49A>
-\\mbfitZ <Char-0x1D481>
-\\mbfitz <Char-0x1D49B>
-\\mbfitZeta <Char-0x1D721>
-\\mbfitzeta <Char-0x1D73B>
-\\mbfJ <Char-0x1D409>
-\\mbfj <Char-0x1D423>
-\\mbfK <Char-0x1D40A>
-\\mbfk <Char-0x1D424>
-\\mbfKappa <Char-0x1D6B1>
-\\mbfkappa <Char-0x1D6CB>
-\\mbfL <Char-0x1D40B>
-\\mbfl <Char-0x1D425>
-\\mbfLambda <Char-0x1D6B2>
-\\mbflambda <Char-0x1D6CC>
-\\mbfM <Char-0x1D40C>
-\\mbfm <Char-0x1D426>
-\\mbfMu <Char-0x1D6B3>
-\\mbfmu <Char-0x1D6CD>
-\\mbfN <Char-0x1D40D>
-\\mbfn <Char-0x1D427>
-\\mbfnabla <Char-0x1D6C1>
-\\mbfnine <Char-0x1D7D7>
-\\mbfNu <Char-0x1D6B4>
-\\mbfnu <Char-0x1D6CE>
-\\mbfO <Char-0x1D40E>
-\\mbfo <Char-0x1D428>
-\\mbfOmega <Char-0x1D6C0>
-\\mbfomega <Char-0x1D6DA>
-\\mbfOmicron <Char-0x1D6B6>
-\\mbfomicron <Char-0x1D6D0>
-\\mbfone <Char-0x1D7CF>
-\\mbfP <Char-0x1D40F>
-\\mbfp <Char-0x1D429>
-\\mbfpartial <Char-0x1D6DB>
-\\mbfPhi <Char-0x1D6BD>
-\\mbfphi <Char-0x1D6DF>
-\\mbfPi <Char-0x1D6B7>
-\\mbfpi <Char-0x1D6D1>
-\\mbfPsi <Char-0x1D6BF>
-\\mbfpsi <Char-0x1D6D9>
-\\mbfQ <Char-0x1D410>
-\\mbfq <Char-0x1D42A>
-\\mbfR <Char-0x1D411>
-\\mbfr <Char-0x1D42B>
-\\mbfRho <Char-0x1D6B8>
-\\mbfrho <Char-0x1D6D2>
-\\mbfS <Char-0x1D412>
-\\mbfs <Char-0x1D42C>
-\\mbfsansA <Char-0x1D5D4>
-\\mbfsansa <Char-0x1D5EE>
-\\mbfsansAlpha <Char-0x1D756>
-\\mbfsansalpha <Char-0x1D770>
-\\mbfsansB <Char-0x1D5D5>
-\\mbfsansb <Char-0x1D5EF>
-\\mbfsansBeta <Char-0x1D757>
-\\mbfsansbeta <Char-0x1D771>
-\\mbfsansC <Char-0x1D5D6>
-\\mbfsansc <Char-0x1D5F0>
-\\mbfsansChi <Char-0x1D76C>
-\\mbfsanschi <Char-0x1D786>
-\\mbfsansD <Char-0x1D5D7>
-\\mbfsansd <Char-0x1D5F1>
-\\mbfsansDelta <Char-0x1D759>
-\\mbfsansdelta <Char-0x1D773>
-\\mbfsansE <Char-0x1D5D8>
-\\mbfsanse <Char-0x1D5F2>
-\\mbfsanseight <Char-0x1D7F4>
-\\mbfsansEpsilon <Char-0x1D75A>
-\\mbfsansepsilon <Char-0x1D78A>
-\\mbfsansEta <Char-0x1D75C>
-\\mbfsanseta <Char-0x1D776>
-\\mbfsansF <Char-0x1D5D9>
-\\mbfsansf <Char-0x1D5F3>
-\\mbfsansfive <Char-0x1D7F1>
-\\mbfsansfour <Char-0x1D7F0>
-\\mbfsansG <Char-0x1D5DA>
-\\mbfsansg <Char-0x1D5F4>
-\\mbfsansGamma <Char-0x1D758>
-\\mbfsansgamma <Char-0x1D772>
-\\mbfsansH <Char-0x1D5DB>
-\\mbfsansh <Char-0x1D5F5>
-\\mbfsansI <Char-0x1D5DC>
-\\mbfsansi <Char-0x1D5F6>
-\\mbfsansIota <Char-0x1D75E>
-\\mbfsansiota <Char-0x1D778>
-\\mbfsansJ <Char-0x1D5DD>
-\\mbfsansj <Char-0x1D5F7>
-\\mbfsansK <Char-0x1D5DE>
-\\mbfsansk <Char-0x1D5F8>
-\\mbfsansKappa <Char-0x1D75F>
-\\mbfsanskappa <Char-0x1D779>
-\\mbfsansL <Char-0x1D5DF>
-\\mbfsansl <Char-0x1D5F9>
-\\mbfsansLambda <Char-0x1D760>
-\\mbfsanslambda <Char-0x1D77A>
-\\mbfsansM <Char-0x1D5E0>
-\\mbfsansm <Char-0x1D5FA>
-\\mbfsansMu <Char-0x1D761>
-\\mbfsansmu <Char-0x1D77B>
-\\mbfsansN <Char-0x1D5E1>
-\\mbfsansn <Char-0x1D5FB>
-\\mbfsansnabla <Char-0x1D76F>
-\\mbfsansnine <Char-0x1D7F5>
-\\mbfsansNu <Char-0x1D762>
-\\mbfsansnu <Char-0x1D77C>
-\\mbfsansO <Char-0x1D5E2>
-\\mbfsanso <Char-0x1D5FC>
-\\mbfsansOmega <Char-0x1D76E>
-\\mbfsansomega <Char-0x1D788>
-\\mbfsansOmicron <Char-0x1D764>
-\\mbfsansomicron <Char-0x1D77E>
-\\mbfsansone <Char-0x1D7ED>
-\\mbfsansP <Char-0x1D5E3>
-\\mbfsansp <Char-0x1D5FD>
-\\mbfsanspartial <Char-0x1D789>
-\\mbfsansPhi <Char-0x1D76B>
-\\mbfsansphi <Char-0x1D78D>
-\\mbfsansPi <Char-0x1D765>
-\\mbfsanspi <Char-0x1D77F>
-\\mbfsansPsi <Char-0x1D76D>
-\\mbfsanspsi <Char-0x1D787>
-\\mbfsansQ <Char-0x1D5E4>
-\\mbfsansq <Char-0x1D5FE>
-\\mbfsansR <Char-0x1D5E5>
-\\mbfsansr <Char-0x1D5FF>
-\\mbfsansRho <Char-0x1D766>
-\\mbfsansrho <Char-0x1D780>
-\\mbfsansS <Char-0x1D5E6>
-\\mbfsanss <Char-0x1D600>
-\\mbfsansseven <Char-0x1D7F3>
-\\mbfsansSigma <Char-0x1D768>
-\\mbfsanssigma <Char-0x1D782>
-\\mbfsanssix <Char-0x1D7F2>
-\\mbfsansT <Char-0x1D5E7>
-\\mbfsanst <Char-0x1D601>
-\\mbfsansTau <Char-0x1D769>
-\\mbfsanstau <Char-0x1D783>
-\\mbfsansTheta <Char-0x1D75D>
-\\mbfsanstheta <Char-0x1D777>
-\\mbfsansthree <Char-0x1D7EF>
-\\mbfsanstwo <Char-0x1D7EE>
-\\mbfsansU <Char-0x1D5E8>
-\\mbfsansu <Char-0x1D602>
-\\mbfsansUpsilon <Char-0x1D76A>
-\\mbfsansupsilon <Char-0x1D784>
-\\mbfsansV <Char-0x1D5E9>
-\\mbfsansv <Char-0x1D603>
-\\mbfsansvarepsilon <Char-0x1D774>
-\\mbfsansvarkappa <Char-0x1D78C>
-\\mbfsansvarphi <Char-0x1D785>
-\\mbfsansvarpi <Char-0x1D78F>
-\\mbfsansvarrho <Char-0x1D78E>
-\\mbfsansvarsigma <Char-0x1D781>
-\\mbfsansvarTheta <Char-0x1D767>
-\\mbfsansvartheta <Char-0x1D78B>
-\\mbfsansW <Char-0x1D5EA>
-\\mbfsansw <Char-0x1D604>
-\\mbfsansX <Char-0x1D5EB>
-\\mbfsansx <Char-0x1D605>
-\\mbfsansXi <Char-0x1D763>
-\\mbfsansxi <Char-0x1D77D>
-\\mbfsansY <Char-0x1D5EC>
-\\mbfsansy <Char-0x1D606>
-\\mbfsansZ <Char-0x1D5ED>
-\\mbfsansz <Char-0x1D607>
-\\mbfsanszero <Char-0x1D7EC>
-\\mbfsansZeta <Char-0x1D75B>
-\\mbfsanszeta <Char-0x1D775>
-\\mbfscrA <Char-0x1D4D0>
-\\mbfscra <Char-0x1D4EA>
-\\mbfscrB <Char-0x1D4D1>
-\\mbfscrb <Char-0x1D4EB>
-\\mbfscrC <Char-0x1D4D2>
-\\mbfscrc <Char-0x1D4EC>
-\\mbfscrD <Char-0x1D4D3>
-\\mbfscrd <Char-0x1D4ED>
-\\mbfscrE <Char-0x1D4D4>
-\\mbfscre <Char-0x1D4EE>
-\\mbfscrF <Char-0x1D4D5>
-\\mbfscrf <Char-0x1D4EF>
-\\mbfscrG <Char-0x1D4D6>
-\\mbfscrg <Char-0x1D4F0>
-\\mbfscrH <Char-0x1D4D7>
-\\mbfscrh <Char-0x1D4F1>
-\\mbfscrI <Char-0x1D4D8>
-\\mbfscri <Char-0x1D4F2>
-\\mbfscrJ <Char-0x1D4D9>
-\\mbfscrj <Char-0x1D4F3>
-\\mbfscrK <Char-0x1D4DA>
-\\mbfscrk <Char-0x1D4F4>
-\\mbfscrL <Char-0x1D4DB>
-\\mbfscrl <Char-0x1D4F5>
-\\mbfscrM <Char-0x1D4DC>
-\\mbfscrm <Char-0x1D4F6>
-\\mbfscrN <Char-0x1D4DD>
-\\mbfscrn <Char-0x1D4F7>
-\\mbfscrO <Char-0x1D4DE>
-\\mbfscro <Char-0x1D4F8>
-\\mbfscrP <Char-0x1D4DF>
-\\mbfscrp <Char-0x1D4F9>
-\\mbfscrQ <Char-0x1D4E0>
-\\mbfscrq <Char-0x1D4FA>
-\\mbfscrR <Char-0x1D4E1>
-\\mbfscrr <Char-0x1D4FB>
-\\mbfscrS <Char-0x1D4E2>
-\\mbfscrs <Char-0x1D4FC>
-\\mbfscrT <Char-0x1D4E3>
-\\mbfscrt <Char-0x1D4FD>
-\\mbfscrU <Char-0x1D4E4>
-\\mbfscru <Char-0x1D4FE>
-\\mbfscrV <Char-0x1D4E5>
-\\mbfscrv <Char-0x1D4FF>
-\\mbfscrW <Char-0x1D4E6>
-\\mbfscrw <Char-0x1D500>
-\\mbfscrX <Char-0x1D4E7>
-\\mbfscrx <Char-0x1D501>
-\\mbfscrY <Char-0x1D4E8>
-\\mbfscry <Char-0x1D502>
-\\mbfscrZ <Char-0x1D4E9>
-\\mbfscrz <Char-0x1D503>
-\\mbfseven <Char-0x1D7D5>
-\\mbfSigma <Char-0x1D6BA>
-\\mbfsigma <Char-0x1D6D4>
-\\mbfsix <Char-0x1D7D4>
-\\mbfT <Char-0x1D413>
-\\mbft <Char-0x1D42D>
-\\mbfTau <Char-0x1D6BB>
-\\mbftau <Char-0x1D6D5>
-\\mbfTheta <Char-0x1D6AF>
-\\mbftheta <Char-0x1D6C9>
-\\mbfthree <Char-0x1D7D1>
-\\mbftwo <Char-0x1D7D0>
-\\mbfU <Char-0x1D414>
-\\mbfu <Char-0x1D42E>
-\\mbfUpsilon <Char-0x1D6BC>
-\\mbfupsilon <Char-0x1D6D6>
-\\mbfV <Char-0x1D415>
-\\mbfv <Char-0x1D42F>
-\\mbfvarepsilon <Char-0x1D6C6>
-\\mbfvarkappa <Char-0x1D6DE>
-\\mbfvarphi <Char-0x1D6D7>
-\\mbfvarpi <Char-0x1D6E1>
-\\mbfvarrho <Char-0x1D6E0>
-\\mbfvarsigma <Char-0x1D6D3>
-\\mbfvarTheta <Char-0x1D6B9>
-\\mbfvartheta <Char-0x1D6DD>
-\\mbfW <Char-0x1D416>
-\\mbfw <Char-0x1D430>
-\\mbfX <Char-0x1D417>
-\\mbfx <Char-0x1D431>
-\\mbfXi <Char-0x1D6B5>
-\\mbfxi <Char-0x1D6CF>
-\\mbfY <Char-0x1D418>
-\\mbfy <Char-0x1D432>
-\\mbfZ <Char-0x1D419>
-\\mbfz <Char-0x1D433>
-\\mbfzero <Char-0x1D7CE>
-\\mbfZeta <Char-0x1D6AD>
-\\mbfzeta <Char-0x1D6C7>
-\\mdblkcircle <Char-0x026AB>
-\\mdblkdiamond <Char-0x02B25>
-\\mdblklozenge <Char-0x02B27>
-\\mdblksquare <Char-0x025FC>
-\\mdlgblkcircle <Char-0x025CF>
-\\mdlgblkdiamond <Char-0x025C6>
-\\mdlgblklozenge <Char-0x029EB>
-\\mdlgblksquare <Char-0x025A0>
-\\mdlgwhtcircle <Char-0x025CB>
-\\mdlgwhtdiamond <Char-0x025C7>
-\\mdlgwhtlozenge <Char-0x025CA>
-\\mdlgwhtsquare <Char-0x025A1>
-\\mdsmblkcircle <Char-0x02981>
-\\mdsmblksquare <Char-0x025FE>
-\\mdsmwhtcircle <Char-0x026AC>
-\\mdsmwhtsquare <Char-0x025FD>
-\\mdwhtcircle <Char-0x026AA>
-\\mdwhtdiamond <Char-0x02B26>
-\\mdwhtlozenge <Char-0x02B28>
-\\mdwhtsquare <Char-0x025FB>
-\\measangledltosw <Char-0x029AF>
-\\measangledrtose <Char-0x029AE>
-\\measangleldtosw <Char-0x029AB>
-\\measanglelutonw <Char-0x029A9>
-\\measanglerdtose <Char-0x029AA>
-\\measanglerutone <Char-0x029A8>
-\\measangleultonw <Char-0x029AD>
-\\measangleurtone <Char-0x029AC>
-\\measeq <Char-0x0225E>
-\\measuredangle <Char-0x02221>
-\\measuredangleleft <Char-0x0299B>
-\\measuredrightangle <Char-0x022BE>
-\\medblackstar <Char-0x02B51>
-\\medwhitestar <Char-0x02B50>
-\\mfrakA <Char-0x1D504>
-\\mfraka <Char-0x1D51E>
-\\mfrakB <Char-0x1D505>
-\\mfrakb <Char-0x1D51F>
-\\mfrakC <Char-0x0212D>
-\\mfrakc <Char-0x1D520>
-\\mfrakD <Char-0x1D507>
-\\mfrakd <Char-0x1D521>
-\\mfrakE <Char-0x1D508>
-\\mfrake <Char-0x1D522>
-\\mfrakF <Char-0x1D509>
-\\mfrakf <Char-0x1D523>
-\\mfrakG <Char-0x1D50A>
-\\mfrakg <Char-0x1D524>
-\\mfrakH <Char-0x0210C>
-\\mfrakh <Char-0x1D525>
-\\mfraki <Char-0x1D526>
-\\mfrakJ <Char-0x1D50D>
-\\mfrakj <Char-0x1D527>
-\\mfrakK <Char-0x1D50E>
-\\mfrakk <Char-0x1D528>
-\\mfrakL <Char-0x1D50F>
-\\mfrakl <Char-0x1D529>
-\\mfrakM <Char-0x1D510>
-\\mfrakm <Char-0x1D52A>
-\\mfrakN <Char-0x1D511>
-\\mfrakn <Char-0x1D52B>
-\\mfrakO <Char-0x1D512>
-\\mfrako <Char-0x1D52C>
-\\mfrakP <Char-0x1D513>
-\\mfrakp <Char-0x1D52D>
-\\mfrakQ <Char-0x1D514>
-\\mfrakq <Char-0x1D52E>
-\\mfrakr <Char-0x1D52F>
-\\mfrakS <Char-0x1D516>
-\\mfraks <Char-0x1D530>
-\\mfrakT <Char-0x1D517>
-\\mfrakt <Char-0x1D531>
-\\mfrakU <Char-0x1D518>
-\\mfraku <Char-0x1D532>
-\\mfrakV <Char-0x1D519>
-\\mfrakv <Char-0x1D533>
-\\mfrakW <Char-0x1D51A>
-\\mfrakw <Char-0x1D534>
-\\mfrakX <Char-0x1D51B>
-\\mfrakx <Char-0x1D535>
-\\mfrakY <Char-0x1D51C>
-\\mfraky <Char-0x1D536>
-\\mfrakZ <Char-0x02128>
-\\mfrakz <Char-0x1D537>
-\\mho <Char-0x02127>
-\\mid <Char-0x02223>
-\\midbarvee <Char-0x02A5D>
-\\midbarwedge <Char-0x02A5C>
-\\midcir <Char-0x02AF0>
-\\minus <Char-0x02212>
-\\minusdot <Char-0x02A2A>
-\\minusfdots <Char-0x02A2B>
-\\minusrdots <Char-0x02A2C>
-\\mitA <Char-0x1D434>
-\\mita <Char-0x1D44E>
-\\mitAlpha <Char-0x1D6E2>
-\\mitalpha <Char-0x1D6FC>
-\\mitB <Char-0x1D435>
-\\mitb <Char-0x1D44F>
-\\mitBbbD <Char-0x02145>
-\\mitBbbd <Char-0x02146>
-\\mitBbbe <Char-0x02147>
-\\mitBbbi <Char-0x02148>
-\\mitBbbj <Char-0x02149>
-\\mitBeta <Char-0x1D6E3>
-\\mitbeta <Char-0x1D6FD>
-\\mitC <Char-0x1D436>
-\\mitc <Char-0x1D450>
-\\mitChi <Char-0x1D6F8>
-\\mitchi <Char-0x1D712>
-\\mitD <Char-0x1D437>
-\\mitd <Char-0x1D451>
-\\mitDelta <Char-0x1D6E5>
-\\mitdelta <Char-0x1D6FF>
-\\mitE <Char-0x1D438>
-\\mite <Char-0x1D452>
-\\mitEpsilon <Char-0x1D6E6>
-\\mitepsilon <Char-0x1D716>
-\\mitEta <Char-0x1D6E8>
-\\miteta <Char-0x1D702>
-\\mitF <Char-0x1D439>
-\\mitf <Char-0x1D453>
-\\mitG <Char-0x1D43A>
-\\mitg <Char-0x1D454>
-\\mitGamma <Char-0x1D6E4>
-\\mitgamma <Char-0x1D6FE>
-\\mitH <Char-0x1D43B>
-\\mitI <Char-0x1D43C>
-\\miti <Char-0x1D456>
-\\mitIota <Char-0x1D6EA>
-\\mitiota <Char-0x1D704>
-\\mitJ <Char-0x1D43D>
-\\mitj <Char-0x1D457>
-\\mitK <Char-0x1D43E>
-\\mitk <Char-0x1D458>
-\\mitKappa <Char-0x1D6EB>
-\\mitkappa <Char-0x1D705>
-\\mitL <Char-0x1D43F>
-\\mitl <Char-0x1D459>
-\\mitLambda <Char-0x1D6EC>
-\\mitlambda <Char-0x1D706>
-\\mitM <Char-0x1D440>
-\\mitm <Char-0x1D45A>
-\\mitMu <Char-0x1D6ED>
-\\mitmu <Char-0x1D707>
-\\mitN <Char-0x1D441>
-\\mitn <Char-0x1D45B>
-\\mitnabla <Char-0x1D6FB>
-\\mitNu <Char-0x1D6EE>
-\\mitnu <Char-0x1D708>
-\\mitO <Char-0x1D442>
-\\mito <Char-0x1D45C>
-\\mitOmega <Char-0x1D6FA>
-\\mitomega <Char-0x1D714>
-\\mitOmicron <Char-0x1D6F0>
-\\mitomicron <Char-0x1D70A>
-\\mitP <Char-0x1D443>
-\\mitp <Char-0x1D45D>
-\\mitpartial <Char-0x1D715>
-\\mitPhi <Char-0x1D6F7>
-\\mitphi <Char-0x1D719>
-\\mitPi <Char-0x1D6F1>
-\\mitpi <Char-0x1D70B>
-\\mitPsi <Char-0x1D6F9>
-\\mitpsi <Char-0x1D713>
-\\mitQ <Char-0x1D444>
-\\mitq <Char-0x1D45E>
-\\mitR <Char-0x1D445>
-\\mitr <Char-0x1D45F>
-\\mitRho <Char-0x1D6F2>
-\\mitrho <Char-0x1D70C>
-\\mitS <Char-0x1D446>
-\\mits <Char-0x1D460>
-\\mitsansA <Char-0x1D608>
-\\mitsansa <Char-0x1D622>
-\\mitsansB <Char-0x1D609>
-\\mitsansb <Char-0x1D623>
-\\mitsansC <Char-0x1D60A>
-\\mitsansc <Char-0x1D624>
-\\mitsansD <Char-0x1D60B>
-\\mitsansd <Char-0x1D625>
-\\mitsansE <Char-0x1D60C>
-\\mitsanse <Char-0x1D626>
-\\mitsansF <Char-0x1D60D>
-\\mitsansf <Char-0x1D627>
-\\mitsansG <Char-0x1D60E>
-\\mitsansg <Char-0x1D628>
-\\mitsansH <Char-0x1D60F>
-\\mitsansh <Char-0x1D629>
-\\mitsansI <Char-0x1D610>
-\\mitsansi <Char-0x1D62A>
-\\mitsansJ <Char-0x1D611>
-\\mitsansj <Char-0x1D62B>
-\\mitsansK <Char-0x1D612>
-\\mitsansk <Char-0x1D62C>
-\\mitsansL <Char-0x1D613>
-\\mitsansl <Char-0x1D62D>
-\\mitsansM <Char-0x1D614>
-\\mitsansm <Char-0x1D62E>
-\\mitsansN <Char-0x1D615>
-\\mitsansn <Char-0x1D62F>
-\\mitsansO <Char-0x1D616>
-\\mitsanso <Char-0x1D630>
-\\mitsansP <Char-0x1D617>
-\\mitsansp <Char-0x1D631>
-\\mitsansQ <Char-0x1D618>
-\\mitsansq <Char-0x1D632>
-\\mitsansR <Char-0x1D619>
-\\mitsansr <Char-0x1D633>
-\\mitsansS <Char-0x1D61A>
-\\mitsanss <Char-0x1D634>
-\\mitsansT <Char-0x1D61B>
-\\mitsanst <Char-0x1D635>
-\\mitsansU <Char-0x1D61C>
-\\mitsansu <Char-0x1D636>
-\\mitsansV <Char-0x1D61D>
-\\mitsansv <Char-0x1D637>
-\\mitsansW <Char-0x1D61E>
-\\mitsansw <Char-0x1D638>
-\\mitsansX <Char-0x1D61F>
-\\mitsansx <Char-0x1D639>
-\\mitsansY <Char-0x1D620>
-\\mitsansy <Char-0x1D63A>
-\\mitsansZ <Char-0x1D621>
-\\mitsansz <Char-0x1D63B>
-\\mitSigma <Char-0x1D6F4>
-\\mitsigma <Char-0x1D70E>
-\\mitT <Char-0x1D447>
-\\mitt <Char-0x1D461>
-\\mitTau <Char-0x1D6F5>
-\\mittau <Char-0x1D70F>
-\\mitTheta <Char-0x1D6E9>
-\\mittheta <Char-0x1D703>
-\\mitU <Char-0x1D448>
-\\mitu <Char-0x1D462>
-\\mitUpsilon <Char-0x1D6F6>
-\\mitupsilon <Char-0x1D710>
-\\mitV <Char-0x1D449>
-\\mitv <Char-0x1D463>
-\\mitvarepsilon <Char-0x1D700>
-\\mitvarkappa <Char-0x1D718>
-\\mitvarphi <Char-0x1D711>
-\\mitvarpi <Char-0x1D71B>
-\\mitvarrho <Char-0x1D71A>
-\\mitvarsigma <Char-0x1D70D>
-\\mitvarTheta <Char-0x1D6F3>
-\\mitvartheta <Char-0x1D717>
-\\mitW <Char-0x1D44A>
-\\mitw <Char-0x1D464>
-\\mitX <Char-0x1D44B>
-\\mitx <Char-0x1D465>
-\\mitXi <Char-0x1D6EF>
-\\mitxi <Char-0x1D709>
-\\mitY <Char-0x1D44C>
-\\mity <Char-0x1D466>
-\\mitZ <Char-0x1D44D>
-\\mitz <Char-0x1D467>
-\\mitZeta <Char-0x1D6E7>
-\\mitzeta <Char-0x1D701>
-\\mlcp <Char-0x02ADB>
-\\models <Char-0x022A7>
-\\modtwosum <Char-0x02A0A>
-\\mp <Char-0x02213>
-\\msansA <Char-0x1D5A0>
-\\msansa <Char-0x1D5BA>
-\\msansB <Char-0x1D5A1>
-\\msansb <Char-0x1D5BB>
-\\msansC <Char-0x1D5A2>
-\\msansc <Char-0x1D5BC>
-\\msansD <Char-0x1D5A3>
-\\msansd <Char-0x1D5BD>
-\\msansE <Char-0x1D5A4>
-\\msanse <Char-0x1D5BE>
-\\msanseight <Char-0x1D7EA>
-\\msansF <Char-0x1D5A5>
-\\msansf <Char-0x1D5BF>
-\\msansfive <Char-0x1D7E7>
-\\msansfour <Char-0x1D7E6>
-\\msansG <Char-0x1D5A6>
-\\msansg <Char-0x1D5C0>
-\\msansH <Char-0x1D5A7>
-\\msansh <Char-0x1D5C1>
-\\msansI <Char-0x1D5A8>
-\\msansi <Char-0x1D5C2>
-\\msansJ <Char-0x1D5A9>
-\\msansj <Char-0x1D5C3>
-\\msansK <Char-0x1D5AA>
-\\msansk <Char-0x1D5C4>
-\\msansL <Char-0x1D5AB>
-\\msansl <Char-0x1D5C5>
-\\msansM <Char-0x1D5AC>
-\\msansm <Char-0x1D5C6>
-\\msansN <Char-0x1D5AD>
-\\msansn <Char-0x1D5C7>
-\\msansnine <Char-0x1D7EB>
-\\msansO <Char-0x1D5AE>
-\\msanso <Char-0x1D5C8>
-\\msansone <Char-0x1D7E3>
-\\msansP <Char-0x1D5AF>
-\\msansp <Char-0x1D5C9>
-\\msansQ <Char-0x1D5B0>
-\\msansq <Char-0x1D5CA>
-\\msansR <Char-0x1D5B1>
-\\msansr <Char-0x1D5CB>
-\\msansS <Char-0x1D5B2>
-\\msanss <Char-0x1D5CC>
-\\msansseven <Char-0x1D7E9>
-\\msanssix <Char-0x1D7E8>
-\\msansT <Char-0x1D5B3>
-\\msanst <Char-0x1D5CD>
-\\msansthree <Char-0x1D7E5>
-\\msanstwo <Char-0x1D7E4>
-\\msansU <Char-0x1D5B4>
-\\msansu <Char-0x1D5CE>
-\\msansV <Char-0x1D5B5>
-\\msansv <Char-0x1D5CF>
-\\msansW <Char-0x1D5B6>
-\\msansw <Char-0x1D5D0>
-\\msansX <Char-0x1D5B7>
-\\msansx <Char-0x1D5D1>
-\\msansY <Char-0x1D5B8>
-\\msansy <Char-0x1D5D2>
-\\msansZ <Char-0x1D5B9>
-\\msansz <Char-0x1D5D3>
-\\msanszero <Char-0x1D7E2>
-\\mscrA <Char-0x1D49C>
-\\mscra <Char-0x1D4B6>
-\\mscrB <Char-0x0212C>
-\\mscrb <Char-0x1D4B7>
-\\mscrC <Char-0x1D49E>
-\\mscrc <Char-0x1D4B8>
-\\mscrD <Char-0x1D49F>
-\\mscrd <Char-0x1D4B9>
-\\mscre <Char-0x0212F>
-\\mscrE <Char-0x02130>
-\\mscrF <Char-0x02131>
-\\mscrf <Char-0x1D4BB>
-\\mscrg <Char-0x0210A>
-\\mscrG <Char-0x1D4A2>
-\\mscrH <Char-0x0210B>
-\\mscrh <Char-0x1D4BD>
-\\mscrI <Char-0x02110>
-\\mscri <Char-0x1D4BE>
-\\mscrJ <Char-0x1D4A5>
-\\mscrj <Char-0x1D4BF>
-\\mscrK <Char-0x1D4A6>
-\\mscrk <Char-0x1D4C0>
-\\mscrL <Char-0x02112>
-\\mscrl <Char-0x1D4C1>
-\\mscrM <Char-0x02133>
-\\mscrm <Char-0x1D4C2>
-\\mscrN <Char-0x1D4A9>
-\\mscrn <Char-0x1D4C3>
-\\mscro <Char-0x02134>
-\\mscrO <Char-0x1D4AA>
-\\mscrP <Char-0x1D4AB>
-\\mscrp <Char-0x1D4C5>
-\\mscrQ <Char-0x1D4AC>
-\\mscrq <Char-0x1D4C6>
-\\mscrR <Char-0x0211B>
-\\mscrr <Char-0x1D4C7>
-\\mscrS <Char-0x1D4AE>
-\\mscrs <Char-0x1D4C8>
-\\mscrT <Char-0x1D4AF>
-\\mscrt <Char-0x1D4C9>
-\\mscrU <Char-0x1D4B0>
-\\mscru <Char-0x1D4CA>
-\\mscrV <Char-0x1D4B1>
-\\mscrv <Char-0x1D4CB>
-\\mscrW <Char-0x1D4B2>
-\\mscrw <Char-0x1D4CC>
-\\mscrX <Char-0x1D4B3>
-\\mscrx <Char-0x1D4CD>
-\\mscrY <Char-0x1D4B4>
-\\mscry <Char-0x1D4CE>
-\\mscrZ <Char-0x1D4B5>
-\\mscrz <Char-0x1D4CF>
-\\mttA <Char-0x1D670>
-\\mtta <Char-0x1D68A>
-\\mttB <Char-0x1D671>
-\\mttb <Char-0x1D68B>
-\\mttC <Char-0x1D672>
-\\mttc <Char-0x1D68C>
-\\mttD <Char-0x1D673>
-\\mttd <Char-0x1D68D>
-\\mttE <Char-0x1D674>
-\\mtte <Char-0x1D68E>
-\\mtteight <Char-0x1D7FE>
-\\mttF <Char-0x1D675>
-\\mttf <Char-0x1D68F>
-\\mttfive <Char-0x1D7FB>
-\\mttfour <Char-0x1D7FA>
-\\mttG <Char-0x1D676>
-\\mttg <Char-0x1D690>
-\\mttH <Char-0x1D677>
-\\mtth <Char-0x1D691>
-\\mttI <Char-0x1D678>
-\\mtti <Char-0x1D692>
-\\mttJ <Char-0x1D679>
-\\mttj <Char-0x1D693>
-\\mttK <Char-0x1D67A>
-\\mttk <Char-0x1D694>
-\\mttL <Char-0x1D67B>
-\\mttl <Char-0x1D695>
-\\mttM <Char-0x1D67C>
-\\mttm <Char-0x1D696>
-\\mttN <Char-0x1D67D>
-\\mttn <Char-0x1D697>
-\\mttnine <Char-0x1D7FF>
-\\mttO <Char-0x1D67E>
-\\mtto <Char-0x1D698>
-\\mttone <Char-0x1D7F7>
-\\mttP <Char-0x1D67F>
-\\mttp <Char-0x1D699>
-\\mttQ <Char-0x1D680>
-\\mttq <Char-0x1D69A>
-\\mttR <Char-0x1D681>
-\\mttr <Char-0x1D69B>
-\\mttS <Char-0x1D682>
-\\mtts <Char-0x1D69C>
-\\mttseven <Char-0x1D7FD>
-\\mttsix <Char-0x1D7FC>
-\\mttT <Char-0x1D683>
-\\mttt <Char-0x1D69D>
-\\mttthree <Char-0x1D7F9>
-\\mtttwo <Char-0x1D7F8>
-\\mttU <Char-0x1D684>
-\\mttu <Char-0x1D69E>
-\\mttV <Char-0x1D685>
-\\mttv <Char-0x1D69F>
-\\mttW <Char-0x1D686>
-\\mttw <Char-0x1D6A0>
-\\mttX <Char-0x1D687>
-\\mttx <Char-0x1D6A1>
-\\mttY <Char-0x1D688>
-\\mtty <Char-0x1D6A2>
-\\mttZ <Char-0x1D689>
-\\mttz <Char-0x1D6A3>
-\\mttzero <Char-0x1D7F6>
-\\Mu <Char-0x0039C>
-\\mu <Char-0x003BC>
-\\multimap <Char-0x022B8>
-\\multimapinv <Char-0x027DC>
-\\mupAlpha <Char-0x00391>
-\\mupalpha <Char-0x003B1>
-\\mupBeta <Char-0x00392>
-\\mupbeta <Char-0x003B2>
-\\mupChi <Char-0x003A7>
-\\mupchi <Char-0x003C7>
-\\mupDelta <Char-0x00394>
-\\mupdelta <Char-0x003B4>
-\\mupEpsilon <Char-0x00395>
-\\mupepsilon <Char-0x003F5>
-\\mupEta <Char-0x00397>
-\\mupeta <Char-0x003B7>
-\\mupGamma <Char-0x00393>
-\\mupgamma <Char-0x003B3>
-\\mupIota <Char-0x00399>
-\\mupiota <Char-0x003B9>
-\\mupKappa <Char-0x0039A>
-\\mupkappa <Char-0x003BA>
-\\mupLambda <Char-0x0039B>
-\\muplambda <Char-0x003BB>
-\\mupMu <Char-0x0039C>
-\\mupmu <Char-0x003BC>
-\\mupNu <Char-0x0039D>
-\\mupnu <Char-0x003BD>
-\\mupOmega <Char-0x003A9>
-\\mupomega <Char-0x003C9>
-\\mupOmicron <Char-0x0039F>
-\\mupomicron <Char-0x003BF>
-\\mupPhi <Char-0x003A6>
-\\mupphi <Char-0x003D5>
-\\mupPi <Char-0x003A0>
-\\muppi <Char-0x003C0>
-\\mupPsi <Char-0x003A8>
-\\muppsi <Char-0x003C8>
-\\mupRho <Char-0x003A1>
-\\muprho <Char-0x003C1>
-\\mupSigma <Char-0x003A3>
-\\mupsigma <Char-0x003C3>
-\\mupTau <Char-0x003A4>
-\\muptau <Char-0x003C4>
-\\mupTheta <Char-0x00398>
-\\muptheta <Char-0x003B8>
-\\mupUpsilon <Char-0x003A5>
-\\mupupsilon <Char-0x003C5>
-\\mupvarepsilon <Char-0x003B5>
-\\mupvarkappa <Char-0x003F0>
-\\mupvarphi <Char-0x003C6>
-\\mupvarpi <Char-0x003D6>
-\\mupvarrho <Char-0x003F1>
-\\mupvarsigma <Char-0x003C2>
-\\mupvartheta <Char-0x003D1>
-\\mupvarTheta <Char-0x003F4>
-\\mupXi <Char-0x0039E>
-\\mupxi <Char-0x003BE>
-\\mupZeta <Char-0x00396>
-\\mupzeta <Char-0x003B6>
-\\nabla <Char-0x02207>
-\\napprox <Char-0x02249>
-\\nasymp <Char-0x0226D>
-\\natural <Char-0x0266E>
-\\ncong <Char-0x02247>
-\\ne <Char-0x02260>
-\\nearrow <Char-0x02197>
-\\Nearrow <Char-0x021D7>
-\\neg <Char-0x000AC>
-\\neovnwarrow <Char-0x02931>
-\\neovsearrow <Char-0x0292E>
-\\neq <Char-0x02260> " plain.tex alias
-\\nequiv <Char-0x02262>
-\\neswarrow <Char-0x02922>
-\\neuter <Char-0x026B2>
-\\nexists <Char-0x02204>
-\\ngeq <Char-0x02271>
-\\ngtr <Char-0x0226F>
-\\ngtrless <Char-0x02279>
-\\ngtrsim <Char-0x02275>
-\\nHdownarrow <Char-0x021DF>
-\\nhpar <Char-0x02AF2>
-\\nHuparrow <Char-0x021DE>
-\\nhVvert <Char-0x02AF5>
-\\ni <Char-0x0220B>
-\\niobar <Char-0x022FE>
-\\nis <Char-0x022FC>
-\\nisd <Char-0x022FA>
-\\nleftarrow <Char-0x0219A>
-\\nLeftarrow <Char-0x021CD>
-\\nleftrightarrow <Char-0x021AE>
-\\nLeftrightarrow <Char-0x021CE>
-\\nleq <Char-0x02270>
-\\nless <Char-0x0226E>
-\\nlessgtr <Char-0x02278>
-\\nlesssim <Char-0x02274>
-\\nmid <Char-0x02224>
-\\nni <Char-0x0220C>
-\\Not <Char-0x02AEC>
-\\notaccent <Char-0x00338>
-\\notin <Char-0x02209>
-\\nparallel <Char-0x02226>
-\\npolint <Char-0x02A14>
-\\nprec <Char-0x02280>
-\\npreccurlyeq <Char-0x022E0>
-\\nrightarrow <Char-0x0219B>
-\\nRightarrow <Char-0x021CF>
-\\nsim <Char-0x02241>
-\\nsime <Char-0x02244>
-\\nsimeq <Char-0x02244>
-\\nsqsubseteq <Char-0x022E2>
-\\nsqsupseteq <Char-0x022E3>
-\\nsubset <Char-0x02284>
-\\nsubseteq <Char-0x02288>
-\\nsucc <Char-0x02281>
-\\nsucccurlyeq <Char-0x022E1>
-\\nsupset <Char-0x02285>
-\\nsupseteq <Char-0x02289>
-\\ntrianglelefteq <Char-0x022EC>
-\\ntrianglerighteq <Char-0x022ED>
-\\Nu <Char-0x0039D>
-\\nu <Char-0x003BD>
-\\nvartriangleleft <Char-0x022EA>
-\\nvartriangleright <Char-0x022EB>
-\\nvdash <Char-0x022AC>
-\\nvDash <Char-0x022AD>
-\\nVdash <Char-0x022AE>
-\\nVDash <Char-0x022AF>
-\\nvinfty <Char-0x029DE>
-\\nvleftarrow <Char-0x021F7>
-\\nVleftarrow <Char-0x021FA>
-\\nvLeftarrow <Char-0x02902>
-\\nvleftarrowtail <Char-0x02B39>
-\\nVleftarrowtail <Char-0x02B3A>
-\\nvleftrightarrow <Char-0x021F9>
-\\nVleftrightarrow <Char-0x021FC>
-\\nvLeftrightarrow <Char-0x02904>
-\\nvrightarrow <Char-0x021F8>
-\\nVrightarrow <Char-0x021FB>
-\\nvRightarrow <Char-0x02903>
-\\nvrightarrowtail <Char-0x02914>
-\\nVrightarrowtail <Char-0x02915>
-\\nvtwoheadleftarrow <Char-0x02B34>
-\\nVtwoheadleftarrow <Char-0x02B35>
-\\nvtwoheadleftarrowtail <Char-0x02B3C>
-\\nVtwoheadleftarrowtail <Char-0x02B3D>
-\\nvtwoheadrightarrow <Char-0x02900>
-\\nVtwoheadrightarrow <Char-0x02901>
-\\nvtwoheadrightarrowtail <Char-0x02917>
-\\nVtwoheadrightarrowtail <Char-0x02918>
-\\nwarrow <Char-0x02196>
-\\Nwarrow <Char-0x021D6>
-\\nwovnearrow <Char-0x02932>
-\\nwsearrow <Char-0x02921>
-\\obar <Char-0x0233D>
-\\obot <Char-0x029BA>
-\\obrbrak <Char-0x023E0>
-\\obslash <Char-0x029B8>
-\\ocirc <Char-0x0030A>
-\\ocommatopright <Char-0x00315>
-\\odiv <Char-0x02A38>
-\\odot <Char-0x02299>
-\\odotslashdot <Char-0x029BC>
-\\ogreaterthan <Char-0x029C1>
-\\oiiint <Char-0x02230>
-\\oiint <Char-0x0222F>
-\\oint <Char-0x0222E>
-\\ointctrclockwise <Char-0x02233>
-\\ointring <Char-0x020D8>
-\\ointringclockwise <Char-0x020D9>
-\\ointringctrclockwise <Char-0x020DA>
-\\olcross <Char-0x029BB>
-\\olessthan <Char-0x029C0>
-\\Omega <Char-0x003A9>
-\\omega <Char-0x003C9>
-\\Omicron <Char-0x0039F>
-\\omicron <Char-0x003BF>
-\\ominus <Char-0x02296>
-\\operp <Char-0x029B9>
-\\oplus <Char-0x02295>
-\\opluslhrim <Char-0x02A2D>
-\\oplusrhrim <Char-0x02A2E>
-\\origof <Char-0x022B6>
-\\oslash <Char-0x02298>
-\\otimes <Char-0x02297>
-\\Otimes <Char-0x02A37>
-\\otimeshat <Char-0x02A36>
-\\otimeslhrim <Char-0x02A34>
-\\otimesrhrim <Char-0x02A35>
-\\oturnedcomma <Char-0x00312>
-\\overbar <Char-0x00305>
-\\overbrace <Char-0x023DE>
-\\overbracket <Char-0x023B4>
-\\overleftarrow <Char-0x020D6>
-\\overleftharpoon <Char-0x020D0>
-\\overleftrightarrow <Char-0x020E1>
-\\overparen <Char-0x023DC>
-\\overrightarrow <Char-0x020D7>
-\\overrightharpoon <Char-0x020D1>
-\\ovhook <Char-0x00309>
-\\owns <Char-0x0220B> " plain.tex alias
-\\parallel <Char-0x02225>
-\\parallelogram <Char-0x025B1>
-\\parallelogramblack <Char-0x025B0>
-\\parsim <Char-0x02AF3>
-\\partial <Char-0x02202>
-\\partialmeetcontraction <Char-0x02AA3>
-\\pentagon <Char-0x02B20>
-\\pentagonblack <Char-0x02B1F>
-\\perp <Char-0x027C2>
-\\perps <Char-0x02AE1>
-\\Phi <Char-0x003A6>
-\\phi <Char-0x003D5>
-\\Pi <Char-0x003A0>
-\\pi <Char-0x003C0>
-\\pitchfork <Char-0x022D4>
-\\Planckconst <Char-0x0210E>
-\\plusdot <Char-0x02A25>
-\\pluseqq <Char-0x02A72>
-\\plushat <Char-0x02A23>
-\\plussim <Char-0x02A26>
-\\plussubtwo <Char-0x02A27>
-\\plustrif <Char-0x02A28>
-\\pm <Char-0x000B1>
-\\pointint <Char-0x02A15>
-\\postalmark <Char-0x03012>
-\\prec <Char-0x0227A>
-\\Prec <Char-0x02ABB>
-\\precapprox <Char-0x02AB7>
-\\preccurlyeq <Char-0x0227C>
-\\preceq <Char-0x02AAF>
-\\preceqq <Char-0x02AB3>
-\\precnapprox <Char-0x02AB9>
-\\precneq <Char-0x02AB1>
-\\precneqq <Char-0x02AB5>
-\\precnsim <Char-0x022E8>
-\\precsim <Char-0x0227E>
-\\prime <Char-0x02032>
-\\prod <Char-0x0220F>
-\\profline <Char-0x02312>
-\\profsurf <Char-0x02313>
-\\PropertyLine <Char-0x0214A>
-\\propto <Char-0x0221D>
-\\prurel <Char-0x022B0>
-\\Psi <Char-0x003A8>
-\\psi <Char-0x003C8>
-\\pullback <Char-0x027D3>
-\\pushout <Char-0x027D4>
-\\QED <Char-0x0220E>
-\\qprime <Char-0x02057>
-\\quarternote <Char-0x02669>
-\\questeq <Char-0x0225F>
-\\Question <Char-0x02047>
-\\rangle <Char-0x027E9>
-\\rAngle <Char-0x027EB>
-\\rangledot <Char-0x02992>
-\\rangledownzigzagarrow <Char-0x0237C>
-\\rbag <Char-0x027C6>
-\\rblkbrbrak <Char-0x02998>
-\\rbrace <Char-0x0007D>
-\\rBrace <Char-0x02984>
-\\rbracelend <Char-0x023AD>
-\\rbracemid <Char-0x023AC>
-\\rbraceuend <Char-0x023AB>
-\\rbrack <Char-0x0005D>
-\\rBrack <Char-0x027E7>
-\\rbrackextender <Char-0x023A5>
-\\rbracklend <Char-0x023A6>
-\\rbracklrtick <Char-0x0298E>
-\\rbrackubar <Char-0x0298C>
-\\rbrackuend <Char-0x023A4>
-\\rbrackurtick <Char-0x02990>
-\\rbrbrak <Char-0x02773>
-\\Rbrbrak <Char-0x027ED>
-\\rceil <Char-0x02309>
-\\rcurvyangle <Char-0x029FD>
-\\rdiagovfdiag <Char-0x0292B>
-\\rdiagovsearrow <Char-0x02930>
-\\Rdsh <Char-0x021B3>
-\\Re <Char-0x0211C>
-\\revangle <Char-0x029A3>
-\\revangleubar <Char-0x029A5>
-\\revemptyset <Char-0x029B0>
-\\revnmid <Char-0x02AEE>
-\\rfbowtie <Char-0x029D2>
-\\rfloor <Char-0x0230B>
-\\rftimes <Char-0x029D5>
-\\rgroup <Char-0x027EF>
-\\Rho <Char-0x003A1>
-\\rho <Char-0x003C1>
-\\rightangle <Char-0x0221F>
-\\rightanglemdot <Char-0x0299D>
-\\rightanglesqr <Char-0x0299C>
-\\rightarrow <Char-0x02192>
-\\Rightarrow <Char-0x021D2>
-\\rightarrowapprox <Char-0x02975>
-\\rightarrowbackapprox <Char-0x02B48>
-\\rightarrowbar <Char-0x021E5>
-\\rightarrowbsimilar <Char-0x02B4C>
-\\rightarrowdiamond <Char-0x0291E>
-\\rightarrowgtr <Char-0x02B43>
-\\rightarrowonoplus <Char-0x027F4>
-\\rightarrowplus <Char-0x02945>
-\\rightarrowshortleftarrow <Char-0x02942>
-\\rightarrowsimilar <Char-0x02974>
-\\rightarrowsupset <Char-0x02B44>
-\\rightarrowtail <Char-0x021A3>
-\\rightarrowtriangle <Char-0x021FE>
-\\rightarrowx <Char-0x02947>
-\\rightbkarrow <Char-0x0290D>
-\\rightcurvedarrow <Char-0x02933>
-\\rightdasharrow <Char-0x021E2>
-\\rightdbltail <Char-0x0291C>
-\\rightdotarrow <Char-0x02911>
-\\rightdowncurvedarrow <Char-0x02937>
-\\rightfishtail <Char-0x0297D>
-\\rightharpoonaccent <Char-0x020D1>
-\\rightharpoondown <Char-0x021C1>
-\\rightharpoondownbar <Char-0x02957>
-\\rightharpoonsupdown <Char-0x02964>
-\\rightharpoonup <Char-0x021C0>
-\\rightharpoonupbar <Char-0x02953>
-\\rightharpoonupdash <Char-0x0296C>
-\\rightimply <Char-0x02970>
-\\rightleftarrows <Char-0x021C4>
-\\rightleftharpoons <Char-0x021CC>
-\\rightleftharpoonsdown <Char-0x02969>
-\\rightleftharpoonsup <Char-0x02968>
-\\rightmoon <Char-0x0263D>
-\\rightouterjoin <Char-0x027D6>
-\\rightpentagon <Char-0x02B54>
-\\rightpentagonblack <Char-0x02B53>
-\\rightrightarrows <Char-0x021C9>
-\\rightsquigarrow <Char-0x021DD>
-\\righttail <Char-0x0291A>
-\\rightthreearrows <Char-0x021F6>
-\\rightthreetimes <Char-0x022CC>
-\\rightwavearrow <Char-0x0219D>
-\\rightwhitearrow <Char-0x021E8>
-\\ringplus <Char-0x02A22>
-\\risingdotseq <Char-0x02253>
-\\rmoustache <Char-0x023B1>
-\\rparen <Char-0x00029>
-\\rParen <Char-0x02986>
-\\rparenextender <Char-0x0239F>
-\\rparengtr <Char-0x02994>
-\\rparenlend <Char-0x023A0>
-\\Rparenless <Char-0x02996>
-\\rparenuend <Char-0x0239E>
-\\rppolint <Char-0x02A12>
-\\rrangle <Char-0x0298A>
-\\Rrightarrow <Char-0x021DB>
-\\RRightarrow <Char-0x02B46>
-\\rrparenthesis <Char-0x02988>
-\\Rsh <Char-0x021B1>
-\\rsolbar <Char-0x029F7>
-\\rsqhook <Char-0x02ACE>
-\\rsub <Char-0x02A65>
-\\rtimes <Char-0x022CA>
-\\rtriltri <Char-0x029CE>
-\\ruledelayed <Char-0x029F4>
-\\rvboxline <Char-0x023B9>
-\\rvzigzag <Char-0x029D9>
-\\Rvzigzag <Char-0x029DB>
-\\sansLmirrored <Char-0x02143>
-\\sansLturned <Char-0x02142>
-\\scpolint <Char-0x02A13>
-\\scurel <Char-0x022B1>
-\\searrow <Char-0x02198>
-\\Searrow <Char-0x021D8>
-\\seovnearrow <Char-0x0292D>
-\\setminus <Char-0x029F5>
-\\sharp <Char-0x0266F>
-\\shortdowntack <Char-0x02ADF>
-\\shortlefttack <Char-0x02ADE>
-\\shortrightarrowleftarrow <Char-0x02944>
-\\shortuptack <Char-0x02AE0>
-\\shuffle <Char-0x029E2>
-\\Sigma <Char-0x003A3>
-\\sigma <Char-0x003C3>
-\\sim <Char-0x0223C>
-\\sime <Char-0x02243>
-\\simeq <Char-0x02243>
-\\simgE <Char-0x02AA0>
-\\simgtr <Char-0x02A9E>
-\\similarleftarrow <Char-0x02B49>
-\\similarrightarrow <Char-0x02972>
-\\simlE <Char-0x02A9F>
-\\simless <Char-0x02A9D>
-\\simminussim <Char-0x02A6C>
-\\simneqq <Char-0x02246>
-\\simplus <Char-0x02A24>
-\\simrdots <Char-0x02A6B>
-\\sinewave <Char-0x0223F>
-\\smallblacktriangleleft <Char-0x025C2>
-\\smallblacktriangleright <Char-0x025B8>
-\\smallin <Char-0x0220A>
-\\smallni <Char-0x0220D>
-\\smallsetminus <Char-0x02216>
-\\smalltriangleleft <Char-0x025C3>
-\\smalltriangleright <Char-0x025B9>
-\\smashtimes <Char-0x02A33>
-\\smblkcircle <Char-0x02022>
-\\smblkdiamond <Char-0x02B29>
-\\smblklozenge <Char-0x02B2A>
-\\smblksquare <Char-0x025AA>
-\\smeparsl <Char-0x029E4>
-\\smile <Char-0x02323>
-\\smt <Char-0x02AAA>
-\\smte <Char-0x02AAC>
-\\smwhitestar <Char-0x02B52>
-\\smwhtcircle <Char-0x025E6>
-\\smwhtdiamond <Char-0x022C4>
-\\smwhtlozenge <Char-0x02B2B>
-\\smwhtsquare <Char-0x025AB>
-\\spadesuit <Char-0x02660>
-\\sphericalangle <Char-0x02222>
-\\sphericalangleup <Char-0x029A1>
-\\sqcap <Char-0x02293>
-\\Sqcap <Char-0x02A4E>
-\\sqcup <Char-0x02294>
-\\Sqcup <Char-0x02A4F>
-\\sqint <Char-0x02A16>
-\\sqlozenge <Char-0x02311>
-\\sqrt <Char-0x0221A>
-\\sqrtbottom <Char-0x023B7>
-\\sqsubset <Char-0x0228F>
-\\sqsubseteq <Char-0x02291>
-\\sqsubsetneq <Char-0x022E4>
-\\sqsupset <Char-0x02290>
-\\sqsupseteq <Char-0x02292>
-\\sqsupsetneq <Char-0x022E5>
-\\squarebotblack <Char-0x02B13>
-\\squarecrossfill <Char-0x025A9>
-\\squarehfill <Char-0x025A4>
-\\squarehvfill <Char-0x025A6>
-\\squareleftblack <Char-0x025E7>
-\\squarellblack <Char-0x02B15>
-\\squarellquad <Char-0x025F1>
-\\squarelrblack <Char-0x025EA>
-\\squarelrquad <Char-0x025F2>
-\\squareneswfill <Char-0x025A8>
-\\squarenwsefill <Char-0x025A7>
-\\squarerightblack <Char-0x025E8>
-\\squaretopblack <Char-0x02B12>
-\\squareulblack <Char-0x025E9>
-\\squareulquad <Char-0x025F0>
-\\squareurblack <Char-0x02B14>
-\\squareurquad <Char-0x025F3>
-\\squarevfill <Char-0x025A5>
-\\squoval <Char-0x025A2>
-\\sslash <Char-0x02AFD>
-\\star <Char-0x022C6>
-\\stareq <Char-0x0225B>
-\\strns <Char-0x023E4>
-\\subedot <Char-0x02AC3>
-\\submult <Char-0x02AC1>
-\\subrarr <Char-0x02979>
-\\subset <Char-0x02282>
-\\Subset <Char-0x022D0>
-\\subsetapprox <Char-0x02AC9>
-\\subsetcirc <Char-0x027C3>
-\\subsetdot <Char-0x02ABD>
-\\subseteq <Char-0x02286>
-\\subseteqq <Char-0x02AC5>
-\\subsetneq <Char-0x0228A>
-\\subsetneqq <Char-0x02ACB>
-\\subsetplus <Char-0x02ABF>
-\\subsim <Char-0x02AC7>
-\\subsub <Char-0x02AD5>
-\\subsup <Char-0x02AD3>
-\\succ <Char-0x0227B>
-\\Succ <Char-0x02ABC>
-\\succapprox <Char-0x02AB8>
-\\succcurlyeq <Char-0x0227D>
-\\succeq <Char-0x02AB0>
-\\succeqq <Char-0x02AB4>
-\\succnapprox <Char-0x02ABA>
-\\succneq <Char-0x02AB2>
-\\succneqq <Char-0x02AB6>
-\\succnsim <Char-0x022E9>
-\\succsim <Char-0x0227F>
-\\sum <Char-0x02211>
-\\sumbottom <Char-0x023B3>
-\\sumint <Char-0x02A0B>
-\\sumtop <Char-0x023B2>
-\\sun <Char-0x0263C>
-\\supdsub <Char-0x02AD8>
-\\supedot <Char-0x02AC4>
-\\suphsol <Char-0x027C9>
-\\suphsub <Char-0x02AD7>
-\\suplarr <Char-0x0297B>
-\\supmult <Char-0x02AC2>
-\\supset <Char-0x02283>
-\\Supset <Char-0x022D1>
-\\supsetapprox <Char-0x02ACA>
-\\supsetcirc <Char-0x027C4>
-\\supsetdot <Char-0x02ABE>
-\\supseteq <Char-0x02287>
-\\supseteqq <Char-0x02AC6>
-\\supsetneq <Char-0x0228B>
-\\supsetneqq <Char-0x02ACC>
-\\supsetplus <Char-0x02AC0>
-\\supsim <Char-0x02AC8>
-\\supsub <Char-0x02AD4>
-\\supsup <Char-0x02AD6>
-\\surd <Char-0x0221A>
-\\swarrow <Char-0x02199>
-\\Swarrow <Char-0x021D9>
-\\talloblong <Char-0x02AFE>
-\\Tau <Char-0x003A4>
-\\tau <Char-0x003C4>
-\\therefore <Char-0x02234>
-\\thermod <Char-0x029E7>
-\\Theta <Char-0x00398>
-\\theta <Char-0x003B8>
-\\threedangle <Char-0x027C0>
-\\threedotcolon <Char-0x02AF6>
-\\threeunderdot <Char-0x020E8>
-\\tieconcat <Char-0x02040>
-\\tieinfty <Char-0x029DD>
-\\tilde <Char-0x00303>
-\\times <Char-0x000D7>
-\\timesbar <Char-0x02A31>
-\\tminus <Char-0x029FF>
-\\to <Char-0x02192> " plain.tex alias
-\\toea <Char-0x02928>
-\\tona <Char-0x02927>
-\\top <Char-0x022A4>
-\\topbot <Char-0x02336>
-\\topcir <Char-0x02AF1>
-\\topfork <Char-0x02ADA>
-\\topsemicircle <Char-0x025E0>
-\\tosa <Char-0x02929>
-\\towa <Char-0x0292A>
-\\tplus <Char-0x029FE>
-\\trapezium <Char-0x023E2>
-\\trianglecdot <Char-0x025EC>
-\\triangledown <Char-0x025BF>
-\\triangleleft <Char-0x025C1>
-\\triangleleftblack <Char-0x025ED>
-\\trianglelefteq <Char-0x022B4>
-\\triangleminus <Char-0x02A3A>
-\\triangleodot <Char-0x029CA>
-\\triangleplus <Char-0x02A39>
-\\triangleq <Char-0x0225C>
-\\triangleright <Char-0x025B7>
-\\trianglerightblack <Char-0x025EE>
-\\trianglerighteq <Char-0x022B5>
-\\triangles <Char-0x029CC>
-\\triangleserifs <Char-0x029CD>
-\\triangletimes <Char-0x02A3B>
-\\triangleubar <Char-0x029CB>
-\\tripleplus <Char-0x029FB>
-\\trprime <Char-0x02034>
-\\trslash <Char-0x02AFB>
-\\turnangle <Char-0x029A2>
-\\turnediota <Char-0x02129>
-\\turnednot <Char-0x02319>
-\\twocaps <Char-0x02A4B>
-\\twocups <Char-0x02A4A>
-\\twoheaddownarrow <Char-0x021A1>
-\\twoheadleftarrow <Char-0x0219E>
-\\twoheadleftarrowtail <Char-0x02B3B>
-\\twoheadleftdbkarrow <Char-0x02B37>
-\\twoheadmapsfrom <Char-0x02B36>
-\\twoheadmapsto <Char-0x02905>
-\\twoheadrightarrow <Char-0x021A0>
-\\twoheadrightarrowtail <Char-0x02916>
-\\twoheaduparrow <Char-0x0219F>
-\\twoheaduparrowcircle <Char-0x02949>
-\\twolowline <Char-0x02017>
-\\twonotes <Char-0x0266B>
-\\typecolon <Char-0x02982>
-\\ubrbrak <Char-0x023E1>
-\\ularc <Char-0x025DC>
-\\ulblacktriangle <Char-0x025E4>
-\\ulcorner <Char-0x0231C>
-\\ultriangle <Char-0x025F8>
-\\uminus <Char-0x02A41>
-\\underbrace <Char-0x023DF>
-\\underbracket <Char-0x023B5>
-\\underleftarrow <Char-0x020EE>
-\\underleftharpoondown <Char-0x020ED>
-\\underleftrightarrow <Char-0x0034D>
-\\underparen <Char-0x023DD>
-\\underrightarrow <Char-0x020EF>
-\\underrightharpoondown <Char-0x020EC>
-\\unicodecdots <Char-0x022EF>
-\\unicodeellipsis <Char-0x02026>
-\\upand <Char-0x0214B>
-\\uparrow <Char-0x02191>
-\\Uparrow <Char-0x021D1>
-\\uparrowbarred <Char-0x02909>
-\\uparrowoncircle <Char-0x029BD>
-\\upbackepsilon <Char-0x003F6>
-\\updasharrow <Char-0x021E1>
-\\upDigamma <Char-0x003DC>
-\\updigamma <Char-0x003DD>
-\\updownarrow <Char-0x02195>
-\\Updownarrow <Char-0x021D5>
-\\updownarrowbar <Char-0x021A8>
-\\updownarrows <Char-0x021C5>
-\\updownharpoonleftleft <Char-0x02951>
-\\updownharpoonleftright <Char-0x0294D>
-\\updownharpoonrightleft <Char-0x0294C>
-\\updownharpoonrightright <Char-0x0294F>
-\\updownharpoonsleftright <Char-0x0296E>
-\\upfishtail <Char-0x0297E>
-\\upharpoonleft <Char-0x021BF>
-\\upharpoonleftbar <Char-0x02960>
-\\upharpoonright <Char-0x021BE>
-\\upharpoonrightbar <Char-0x0295C>
-\\upharpoonsleftright <Char-0x02963>
-\\upin <Char-0x027D2>
-\\upint <Char-0x02A1B>
-\\uplus <Char-0x0228E>
-\\uprightcurvearrow <Char-0x02934>
-\\Upsilon <Char-0x003A5>
-\\upsilon <Char-0x003C5>
-\\upuparrows <Char-0x021C8>
-\\upwhitearrow <Char-0x021E7>
-\\urarc <Char-0x025DD>
-\\urblacktriangle <Char-0x025E5>
-\\urcorner <Char-0x0231D>
-\\urtriangle <Char-0x025F9>
-\\UUparrow <Char-0x027F0>
-\\Uuparrow <Char-0x0290A>
-\\varbarwedge <Char-0x02305>
-\\varcarriagereturn <Char-0x023CE>
-\\varclubsuit <Char-0x02667>
-\\vardiamondsuit <Char-0x02666>
-\\vardoublebarwedge <Char-0x02306>
-\\varepsilon <Char-0x003B5>
-\\varheartsuit <Char-0x02665>
-\\varhexagon <Char-0x02B21>
-\\varhexagonblack <Char-0x02B22>
-\\varhexagonlrbonds <Char-0x0232C>
-\\varisinobar <Char-0x022F6>
-\\varisins <Char-0x022F3>
-\\varkappa <Char-0x003F0>
-\\varlrtriangle <Char-0x022BF>
-\\varniobar <Char-0x022FD>
-\\varnis <Char-0x022FB>
-\\varnothing <Char-0x02205>
-\\varointclockwise <Char-0x02232>
-\\varphi <Char-0x003C6>
-\\varpi <Char-0x003D6>
-\\varrho <Char-0x003F1>
-\\varsigma <Char-0x003C2>
-\\varspadesuit <Char-0x02664>
-\\varstar <Char-0x02736>
-\\vartheta <Char-0x003D1>
-\\varTheta <Char-0x003F4>
-\\vartriangle <Char-0x025B5>
-\\vartriangleleft <Char-0x022B2>
-\\vartriangleright <Char-0x022B3>
-\\varVdash <Char-0x02AE6>
-\\varveebar <Char-0x02A61>
-\\vBar <Char-0x02AE8>
-\\Vbar <Char-0x02AEB>
-\\vBarv <Char-0x02AE9>
-\\vbraceextender <Char-0x023AA>
-\\vbrtri <Char-0x029D0>
-\\vdash <Char-0x022A2>
-\\vDash <Char-0x022A8>
-\\Vdash <Char-0x022A9>
-\\VDash <Char-0x022AB>
-\\vDdash <Char-0x02AE2>
-\\vdots <Char-0x022EE>
-\\vec <Char-0x020D7>
-\\vectimes <Char-0x02A2F>
-\\vee <Char-0x02228>
-\\Vee <Char-0x02A54>
-\\veebar <Char-0x022BB>
-\\veedot <Char-0x027C7>
-\\veedoublebar <Char-0x02A63>
-\\veeeq <Char-0x0225A>
-\\veemidvert <Char-0x02A5B>
-\\veeodot <Char-0x02A52>
-\\veeonvee <Char-0x02A56>
-\\veeonwedge <Char-0x02A59>
-\\vert <Char-0x0007C>
-\\Vert <Char-0x02016>
-\\vertoverlay <Char-0x020D2>
-\\viewdata <Char-0x02317>
-\\vlongdash <Char-0x027DD>
-\\vrectangle <Char-0x025AF>
-\\vrectangleblack <Char-0x025AE>
-\\Vvdash <Char-0x022AA>
-\\Vvert <Char-0x02980>
-\\vysmblkcircle <Char-0x02219>
-\\vysmblksquare <Char-0x02B1D>
-\\vysmwhtcircle <Char-0x02218>
-\\vysmwhtsquare <Char-0x02B1E>
-\\vzigzag <Char-0x0299A>
-\\wedge <Char-0x02227>
-\\Wedge <Char-0x02A53>
-\\wedgebar <Char-0x02A5F>
-\\wedgedot <Char-0x027D1>
-\\wedgedoublebar <Char-0x02A60>
-\\wedgemidvert <Char-0x02A5A>
-\\wedgeodot <Char-0x02A51>
-\\wedgeonwedge <Char-0x02A55>
-\\wedgeq <Char-0x02259>
-\\whitearrowupfrombar <Char-0x021EA>
-\\whiteinwhitetriangle <Char-0x027C1>
-\\whitepointerleft <Char-0x025C5>
-\\whitepointerright <Char-0x025BB>
-\\whitesquaretickleft <Char-0x027E4>
-\\whitesquaretickright <Char-0x027E5>
-\\whthorzoval <Char-0x02B2D>
-\\whtvertoval <Char-0x02B2F>
-\\wideangledown <Char-0x029A6>
-\\wideangleup <Char-0x029A7>
-\\widebreve <Char-0x00306>
-\\widebridgeabove <Char-0x020E9>
-\\widecheck <Char-0x0030C>
-\\widehat <Char-0x00302>
-\\wideoverbar <Char-0x00305>
-\\widetilde <Char-0x00303>
-\\wideutilde <Char-0x00330>
-\\wp <Char-0x02118>
-\\wr <Char-0x02240>
-\\xbsol <Char-0x029F9>
-\\Xi <Char-0x0039E>
-\\xi <Char-0x003BE>
-\\xsol <Char-0x029F8>
-\\Yup <Char-0x02144>
-\\Zbar <Char-0x001B5>
-\\zcmp <Char-0x02A1F>
-\\Zeta <Char-0x00396>
-\\zeta <Char-0x003B6>
-\\zpipe <Char-0x02A20>
-\\zproject <Char-0x02A21>
+^0                                      <Char-0x02070>      " ⁰
+^1                                      <Char-0x000B9>      " ¹
+^2                                      <Char-0x000B2>      " ²
+^3                                      <Char-0x000B3>      " ³
+^4                                      <Char-0x02074>      " ⁴
+^5                                      <Char-0x02075>      " ⁵
+^6                                      <Char-0x02076>      " ⁶
+^7                                      <Char-0x02077>      " ⁷
+^8                                      <Char-0x02078>      " ⁸
+^9                                      <Char-0x02079>      " ⁹
+^+                                      <Char-0x0207A>      " ⁺
+^-                                      <Char-0x0207B>      " ⁻
+^<                                      <Char-0x002C2>      " ˂
+^>                                      <Char-0x002C3>      " ˃
+^/                                      <Char-0x002CA>      " ˊ
+^^                                      <Char-0x002C4>      " ˄
+^(                                      <Char-0x0207D>      " ⁽
+^)                                      <Char-0x0207E>      " ⁾
+^.                                      <Char-0x002D9>      " ˙
+^=                                      <Char-0x002ED>      " ˭
+^a                                      <Char-0x01D43>      " ᵃ
+^b                                      <Char-0x01D47>      " ᵇ
+^c                                      <Char-0x01D9C>      " ᶜ
+^d                                      <Char-0x01D48>      " ᵈ
+^e                                      <Char-0x01D49>      " ᵉ
+^f                                      <Char-0x01DA0>      " ᶠ
+^g                                      <Char-0x01D4D>      " ᵍ
+^h                                      <Char-0x002B0>      " ʰ
+^i                                      <Char-0x02071>      " ⁱ
+^j                                      <Char-0x002B2>      " ʲ
+^k                                      <Char-0x01D4F>      " ᵏ
+^l                                      <Char-0x002E1>      " ˡ
+^m                                      <Char-0x01D50>      " ᵐ
+^n                                      <Char-0x0207F>      " ⁿ
+^o                                      <Char-0x01D52>      " ᵒ
+^p                                      <Char-0x01D56>      " ᵖ
+^r                                      <Char-0x002B3>      " ʳ
+^s                                      <Char-0x002E2>      " ˢ
+^t                                      <Char-0x01D57>      " ᵗ
+^u                                      <Char-0x01D58>      " ᵘ
+^v                                      <Char-0x01D5B>      " ᵛ
+^w                                      <Char-0x002B7>      " ʷ
+^x                                      <Char-0x002E3>      " ˣ
+^y                                      <Char-0x002B8>      " ʸ
+^z                                      <Char-0x01DBB>      " ᶻ
+^,                                      <Char-0x002BE>      " ʾ
+^A                                      <Char-0x01D2C>      " ᴬ
+^B                                      <Char-0x01D2E>      " ᴮ
+^D                                      <Char-0x01D30>      " ᴰ
+^E                                      <Char-0x01D31>      " ᴱ
+^G                                      <Char-0x01D33>      " ᴳ
+^H                                      <Char-0x01D34>      " ᴴ
+^I                                      <Char-0x01D35>      " ᴵ
+^J                                      <Char-0x01D36>      " ᴶ
+^K                                      <Char-0x01D37>      " ᴷ
+^L                                      <Char-0x01D38>      " ᴸ
+^M                                      <Char-0x01D39>      " ᴹ
+^N                                      <Char-0x01D3A>      " ᴺ
+^O                                      <Char-0x01D3C>      " ᴼ
+^P                                      <Char-0x01D3E>      " ᴾ
+^R                                      <Char-0x01D3F>      " ᴿ
+^T                                      <Char-0x01D40>      " ᵀ
+^U                                      <Char-0x01D41>      " ᵁ
+^V                                      <Char-0x02C7D>      " ⱽ
+^W                                      <Char-0x01D42>      " ᵂ
+^\\beta                                 <Char-0x01D5D>      " ᵝ
+^\\gamma                                <Char-0x01D5E>      " ᵞ
+^\\delta                                <Char-0x01D5F>      " ᵟ
+^\\phi                                  <Char-0x01D60>      " ᵠ
+^\\chi                                  <Char-0x01D61>      " ᵡ
+_0                                      <Char-0x02080>      " ₀
+_1                                      <Char-0x02081>      " ₁
+_2                                      <Char-0x02082>      " ₂
+_3                                      <Char-0x02083>      " ₃
+_4                                      <Char-0x02084>      " ₄
+_5                                      <Char-0x02085>      " ₅
+_6                                      <Char-0x02086>      " ₆
+_7                                      <Char-0x02087>      " ₇
+_8                                      <Char-0x02088>      " ₈
+_9                                      <Char-0x02089>      " ₉
+_+                                      <Char-0x0208A>      " ₊
+_-                                      <Char-0x0208B>      " ₋
+_/                                      <Char-0x002CF>      " ˏ
+_(                                      <Char-0x0208D>      " ₍
+_)                                      <Char-0x0208E>      " ₎
+_^                                      <Char-0x02038>      " ‸
+_a                                      <Char-0x02090>      " ₐ
+_e                                      <Char-0x02091>      " ₑ
+_h                                      <Char-0x02095>      " ₕ
+_i                                      <Char-0x01D62>      " ᵢ
+_k                                      <Char-0x02096>      " ₖ
+_l                                      <Char-0x02097>      " ₗ
+_m                                      <Char-0x02098>      " ₘ
+_n                                      <Char-0x02099>      " ₙ
+_o                                      <Char-0x02092>      " ₒ
+_p                                      <Char-0x0209A>      " ₚ
+_r                                      <Char-0x01D63>      " ᵣ
+_s                                      <Char-0x0209B>      " ₛ
+_t                                      <Char-0x0209C>      " ₜ
+_u                                      <Char-0x01D64>      " ᵤ
+_v                                      <Char-0x01D65>      " ᵥ
+_x                                      <Char-0x02093>      " ₓ
+_\\beta                                 <Char-0x01D66>      " ᵦ
+_\\gamma                                <Char-0x01D67>      " ᵧ
+_\\delta                                <Char-0x01D68>      " ᵨ
+_\\phi                                  <Char-0x01D69>      " ᵩ
+_\\chi                                  <Char-0x01D6A>      " ᵪ
+\\accurrent                             <Char-0x023E6>      " ⏦
+\\acidfree                              <Char-0x0267E>      " ♾
+\\acute                                 <Char-0x00301>      "  ́
+\\acwcirclearrow                        <Char-0x02940>      " ⥀
+\\acwgapcirclearrow                     <Char-0x027F2>      " ⟲
+\\acwleftarcarrow                       <Char-0x02939>      " ⤹
+\\acwopencirclearrow                    <Char-0x021BA>      " ↺
+\\acwoverarcarrow                       <Char-0x0293A>      " ⤺
+\\acwunderarcarrow                      <Char-0x0293B>      " ⤻
+\\adots                                 <Char-0x022F0>      " ⋰
+\\aleph                                 <Char-0x02135>      " ℵ
+\\Alpha                                 <Char-0x00391>      " Α
+\\alpha                                 <Char-0x003B1>      " α
+\\amalg                                 <Char-0x02A3F>      " ⨿
+\\angdnr                                <Char-0x0299F>      " ⦟
+\\angle                                 <Char-0x02220>      " ∠
+\\angles                                <Char-0x0299E>      " ⦞
+\\angleubar                             <Char-0x029A4>      " ⦤
+\\Angstrom                              <Char-0x0212B>      " Å
+\\annuity                               <Char-0x020E7>      "  ⃧
+\\APLboxquestion                        <Char-0x02370>      " ⍰
+\\APLboxupcaret                         <Char-0x02353>      " ⍓
+\\APLnotbackslash                       <Char-0x02340>      " ⍀
+\\APLnotslash                           <Char-0x0233F>      " ⌿
+\\approx                                <Char-0x02248>      " ≈
+\\approxeq                              <Char-0x0224A>      " ≊
+\\approxeqq                             <Char-0x02A70>      " ⩰
+\\approxident                           <Char-0x0224B>      " ≋
+\\arabichad                             <Char-0x1EEF1>      " 𞻱
+\\arabicmaj                             <Char-0x1EEF0>      " 𞻰
+\\arceq                                 <Char-0x02258>      " ≘
+\\assert                                <Char-0x022A6>      " ⊦
+\\ast                                   <Char-0x02217>      " ∗
+\\asteq                                 <Char-0x02A6E>      " ⩮
+\\asteraccent                           <Char-0x020F0>      "  ⃰
+\\astrosun                              <Char-0x02609>      " ☉
+\\asymp                                 <Char-0x0224D>      " ≍
+\\awint                                 <Char-0x02A11>      " ⨑
+\\backcong                              <Char-0x0224C>      " ≌
+\\backdprime                            <Char-0x02036>      " ‶
+\\backprime                             <Char-0x02035>      " ‵
+\\backsim                               <Char-0x0223D>      " ∽
+\\backsimeq                             <Char-0x022CD>      " ⋍
+\\backslash                             <Char-0x0005C>      " \
+\\backtrprime                           <Char-0x02037>      " ‷
+\\bagmember                             <Char-0x022FF>      " ⋿
+\\bar                                   <Char-0x00304>      "  ̄
+\\barcap                                <Char-0x02A43>      " ⩃
+\\barcup                                <Char-0x02A42>      " ⩂
+\\bardownharpoonleft                    <Char-0x02961>      " ⥡
+\\bardownharpoonright                   <Char-0x0295D>      " ⥝
+\\barleftarrow                          <Char-0x021E4>      " ⇤
+\\barleftarrowrightarrowbar             <Char-0x021B9>      " ↹
+\\barleftharpoondown                    <Char-0x02956>      " ⥖
+\\barleftharpoonup                      <Char-0x02952>      " ⥒
+\\barovernorthwestarrow                 <Char-0x021B8>      " ↸
+\\barrightarrowdiamond                  <Char-0x02920>      " ⤠
+\\barrightharpoondown                   <Char-0x0295F>      " ⥟
+\\barrightharpoonup                     <Char-0x0295B>      " ⥛
+\\baruparrow                            <Char-0x02912>      " ⤒
+\\barupharpoonleft                      <Char-0x02958>      " ⥘
+\\barupharpoonright                     <Char-0x02954>      " ⥔
+\\Barv                                  <Char-0x02AE7>      " ⫧
+\\barV                                  <Char-0x02AEA>      " ⫪
+\\barvee                                <Char-0x022BD>      " ⊽
+\\barwedge                              <Char-0x022BC>      " ⊼
+\\BbbA                                  <Char-0x1D538>      " 𝔸
+\\Bbba                                  <Char-0x1D552>      " 𝕒
+\\BbbB                                  <Char-0x1D539>      " 𝔹
+\\Bbbb                                  <Char-0x1D553>      " 𝕓
+\\BbbC                                  <Char-0x02102>      " ℂ
+\\Bbbc                                  <Char-0x1D554>      " 𝕔
+\\BbbD                                  <Char-0x1D53B>      " 𝔻
+\\Bbbd                                  <Char-0x1D555>      " 𝕕
+\\BbbE                                  <Char-0x1D53C>      " 𝔼
+\\Bbbe                                  <Char-0x1D556>      " 𝕖
+\\Bbbeight                              <Char-0x1D7E0>      " 𝟠
+\\BbbF                                  <Char-0x1D53D>      " 𝔽
+\\Bbbf                                  <Char-0x1D557>      " 𝕗
+\\Bbbfive                               <Char-0x1D7DD>      " 𝟝
+\\Bbbfour                               <Char-0x1D7DC>      " 𝟜
+\\BbbG                                  <Char-0x1D53E>      " 𝔾
+\\Bbbg                                  <Char-0x1D558>      " 𝕘
+\\Bbbgamma                              <Char-0x0213D>      " ℽ
+\\BbbGamma                              <Char-0x0213E>      " ℾ
+\\BbbH                                  <Char-0x0210D>      " ℍ
+\\Bbbh                                  <Char-0x1D559>      " 𝕙
+\\BbbI                                  <Char-0x1D540>      " 𝕀
+\\Bbbi                                  <Char-0x1D55A>      " 𝕚
+\\BbbJ                                  <Char-0x1D541>      " 𝕁
+\\Bbbj                                  <Char-0x1D55B>      " 𝕛
+\\BbbK                                  <Char-0x1D542>      " 𝕂
+\\Bbbk                                  <Char-0x1D55C>      " 𝕜
+\\BbbL                                  <Char-0x1D543>      " 𝕃
+\\Bbbl                                  <Char-0x1D55D>      " 𝕝
+\\BbbM                                  <Char-0x1D544>      " 𝕄
+\\Bbbm                                  <Char-0x1D55E>      " 𝕞
+\\BbbN                                  <Char-0x02115>      " ℕ
+\\Bbbn                                  <Char-0x1D55F>      " 𝕟
+\\Bbbnine                               <Char-0x1D7E1>      " 𝟡
+\\BbbO                                  <Char-0x1D546>      " 𝕆
+\\Bbbo                                  <Char-0x1D560>      " 𝕠
+\\Bbbone                                <Char-0x1D7D9>      " 𝟙
+\\BbbP                                  <Char-0x02119>      " ℙ
+\\Bbbp                                  <Char-0x1D561>      " 𝕡
+\\Bbbpi                                 <Char-0x0213C>      " ℼ
+\\BbbPi                                 <Char-0x0213F>      " ℿ
+\\BbbQ                                  <Char-0x0211A>      " ℚ
+\\Bbbq                                  <Char-0x1D562>      " 𝕢
+\\BbbR                                  <Char-0x0211D>      " ℝ
+\\Bbbr                                  <Char-0x1D563>      " 𝕣
+\\BbbS                                  <Char-0x1D54A>      " 𝕊
+\\Bbbs                                  <Char-0x1D564>      " 𝕤
+\\Bbbseven                              <Char-0x1D7DF>      " 𝟟
+\\Bbbsix                                <Char-0x1D7DE>      " 𝟞
+\\Bbbsum                                <Char-0x02140>      " ⅀
+\\BbbT                                  <Char-0x1D54B>      " 𝕋
+\\Bbbt                                  <Char-0x1D565>      " 𝕥
+\\Bbbthree                              <Char-0x1D7DB>      " 𝟛
+\\Bbbtwo                                <Char-0x1D7DA>      " 𝟚
+\\BbbU                                  <Char-0x1D54C>      " 𝕌
+\\Bbbu                                  <Char-0x1D566>      " 𝕦
+\\BbbV                                  <Char-0x1D54D>      " 𝕍
+\\Bbbv                                  <Char-0x1D567>      " 𝕧
+\\BbbW                                  <Char-0x1D54E>      " 𝕎
+\\Bbbw                                  <Char-0x1D568>      " 𝕨
+\\BbbX                                  <Char-0x1D54F>      " 𝕏
+\\Bbbx                                  <Char-0x1D569>      " 𝕩
+\\BbbY                                  <Char-0x1D550>      " 𝕐
+\\Bbby                                  <Char-0x1D56A>      " 𝕪
+\\BbbZ                                  <Char-0x02124>      " ℤ
+\\Bbbz                                  <Char-0x1D56B>      " 𝕫
+\\Bbbzero                               <Char-0x1D7D8>      " 𝟘
+\\bbrktbrk                              <Char-0x023B6>      " ⎶
+\\bdtriplevdash                         <Char-0x02506>      " ┆
+\\because                               <Char-0x02235>      " ∵
+\\benzenr                               <Char-0x023E3>      " ⏣
+\\Beta                                  <Char-0x00392>      " Β
+\\beta                                  <Char-0x003B2>      " β
+\\beth                                  <Char-0x02136>      " ℶ
+\\between                               <Char-0x0226C>      " ≬
+\\bigblacktriangledown                  <Char-0x025BC>      " ▼
+\\bigblacktriangleup                    <Char-0x025B2>      " ▲
+\\bigbot                                <Char-0x027D8>      " ⟘
+\\bigcap                                <Char-0x022C2>      " ⋂
+\\bigcup                                <Char-0x022C3>      " ⋃
+\\bigcupdot                             <Char-0x02A03>      " ⨃
+\\biginterleave                         <Char-0x02AFC>      " ⫼
+\\bigodot                               <Char-0x02A00>      " ⨀
+\\bigoplus                              <Char-0x02A01>      " ⨁
+\\bigotimes                             <Char-0x02A02>      " ⨂
+\\bigslopedvee                          <Char-0x02A57>      " ⩗
+\\bigslopedwedge                        <Char-0x02A58>      " ⩘
+\\bigsqcap                              <Char-0x02A05>      " ⨅
+\\bigsqcup                              <Char-0x02A06>      " ⨆
+\\bigstar                               <Char-0x02605>      " ★
+\\bigtalloblong                         <Char-0x02AFF>      " ⫿
+\\bigtimes                              <Char-0x02A09>      " ⨉
+\\bigtop                                <Char-0x027D9>      " ⟙
+\\bigtriangledown                       <Char-0x025BD>      " ▽
+\\bigtriangleleft                       <Char-0x02A1E>      " ⨞
+\\bigtriangleup                         <Char-0x025B3>      " △
+\\biguplus                              <Char-0x02A04>      " ⨄
+\\bigvee                                <Char-0x022C1>      " ⋁
+\\bigwedge                              <Char-0x022C0>      " ⋀
+\\bigwhitestar                          <Char-0x02606>      " ☆
+\\blackcircledownarrow                  <Char-0x029ED>      " ⧭
+\\blackcircledrightdot                  <Char-0x02688>      " ⚈
+\\blackcircledtwodots                   <Char-0x02689>      " ⚉
+\\blackcircleulquadwhite                <Char-0x025D5>      " ◕
+\\blackdiamonddownarrow                 <Char-0x029EA>      " ⧪
+\\blackhourglass                        <Char-0x029D7>      " ⧗
+\\blackinwhitediamond                   <Char-0x025C8>      " ◈
+\\blackinwhitesquare                    <Char-0x025A3>      " ▣
+\\blacklefthalfcircle                   <Char-0x025D6>      " ◖
+\\blackpointerleft                      <Char-0x025C4>      " ◄
+\\blackpointerright                     <Char-0x025BA>      " ►
+\\blackrighthalfcircle                  <Char-0x025D7>      " ◗
+\\blacksmiley                           <Char-0x0263B>      " ☻
+\\blacktriangle                         <Char-0x025B4>      " ▴
+\\blacktriangledown                     <Char-0x025BE>      " ▾
+\\blacktriangleleft                     <Char-0x025C0>      " ◀
+\\blacktriangleright                    <Char-0x025B6>      " ▶
+\\blanksymbol                           <Char-0x02422>      " ␢
+\\blkhorzoval                           <Char-0x02B2C>      " ⬬
+\\blkvertoval                           <Char-0x02B2E>      " ⬮
+\\blockfull                             <Char-0x02588>      " █
+\\blockhalfshaded                       <Char-0x02592>      " ▒
+\\blocklefthalf                         <Char-0x0258C>      " ▌
+\\blocklowhalf                          <Char-0x02584>      " ▄
+\\blockqtrshaded                        <Char-0x02591>      " ░
+\\blockrighthalf                        <Char-0x02590>      " ▐
+\\blockthreeqtrshaded                   <Char-0x02593>      " ▓
+\\blockuphalf                           <Char-0x02580>      " ▀
+\\bNot                                  <Char-0x02AED>      " ⫭
+\\bot                                   <Char-0x022A5>      " ⊥
+\\botsemicircle                         <Char-0x025E1>      " ◡
+\\bowtie                                <Char-0x022C8>      " ⋈
+\\boxast                                <Char-0x029C6>      " ⧆
+\\boxbar                                <Char-0x025EB>      " ◫
+\\boxbox                                <Char-0x029C8>      " ⧈
+\\boxbslash                             <Char-0x029C5>      " ⧅
+\\boxcircle                             <Char-0x029C7>      " ⧇
+\\boxdiag                               <Char-0x029C4>      " ⧄
+\\boxdot                                <Char-0x022A1>      " ⊡
+\\boxminus                              <Char-0x0229F>      " ⊟
+\\boxonbox                              <Char-0x029C9>      " ⧉
+\\boxplus                               <Char-0x0229E>      " ⊞
+\\boxtimes                              <Char-0x022A0>      " ⊠
+\\breve                                 <Char-0x00306>      "  ̆
+\\bsimilarleftarrow                     <Char-0x02B41>      " ⭁
+\\bsimilarrightarrow                    <Char-0x02B47>      " ⭇
+\\bsolhsub                              <Char-0x027C8>      " ⟈
+\\btimes                                <Char-0x02A32>      " ⨲
+\\bullseye                              <Char-0x025CE>      " ◎
+\\Bumpeq                                <Char-0x0224E>      " ≎
+\\bumpeq                                <Char-0x0224F>      " ≏
+\\bumpeqq                               <Char-0x02AAE>      " ⪮
+\\candra                                <Char-0x00310>      "  ̐
+\\cap                                   <Char-0x02229>      " ∩
+\\Cap                                   <Char-0x022D2>      " ⋒
+\\capbarcup                             <Char-0x02A49>      " ⩉
+\\capdot                                <Char-0x02A40>      " ⩀
+\\capovercup                            <Char-0x02A47>      " ⩇
+\\capwedge                              <Char-0x02A44>      " ⩄
+\\caretinsert                           <Char-0x02038>      " ‸
+\\carriagereturn                        <Char-0x021B5>      " ↵
+\\ccwundercurvearrow                    <Char-0x0293F>      " ⤿
+\\cdot                                  <Char-0x022C5>      " ⋅
+\\cdotp                                 <Char-0x000B7>      " ·
+\\check                                 <Char-0x0030C>      "  ̌
+\\checkmark                             <Char-0x02713>      " ✓
+\\Chi                                   <Char-0x003A7>      " Χ
+\\chi                                   <Char-0x003C7>      " χ
+\\cirbot                                <Char-0x027DF>      " ⟟
+\\circ                                  <Char-0x02218>      " ∘
+\\circeq                                <Char-0x02257>      " ≗
+\\circlebottomhalfblack                 <Char-0x025D2>      " ◒
+\\circledast                            <Char-0x0229B>      " ⊛
+\\circledbullet                         <Char-0x029BF>      " ⦿
+\\circledcirc                           <Char-0x0229A>      " ⊚
+\\circleddash                           <Char-0x0229D>      " ⊝
+\\circledequal                          <Char-0x0229C>      " ⊜
+\\circledownarrow                       <Char-0x029EC>      " ⧬
+\\circledparallel                       <Char-0x029B7>      " ⦷
+\\circledrightdot                       <Char-0x02686>      " ⚆
+\\circledstar                           <Char-0x0272A>      " ✪
+\\circledtwodots                        <Char-0x02687>      " ⚇
+\\circledvert                           <Char-0x029B6>      " ⦶
+\\circledwhitebullet                    <Char-0x029BE>      " ⦾
+\\circlehbar                            <Char-0x029B5>      " ⦵
+\\circlelefthalfblack                   <Char-0x025D0>      " ◐
+\\circlellquad                          <Char-0x025F5>      " ◵
+\\circlelrquad                          <Char-0x025F6>      " ◶
+\\circleonleftarrow                     <Char-0x02B30>      " ⬰
+\\circleonrightarrow                    <Char-0x021F4>      " ⇴
+\\circlerighthalfblack                  <Char-0x025D1>      " ◑
+\\circletophalfblack                    <Char-0x025D3>      " ◓
+\\circleulquad                          <Char-0x025F4>      " ◴
+\\circleurquad                          <Char-0x025F7>      " ◷
+\\circleurquadblack                     <Char-0x025D4>      " ◔
+\\circlevertfill                        <Char-0x025CD>      " ◍
+\\cirE                                  <Char-0x029C3>      " ⧃
+\\cirfnint                              <Char-0x02A10>      " ⨐
+\\cirmid                                <Char-0x02AEF>      " ⫯
+\\cirscir                               <Char-0x029C2>      " ⧂
+\\closedvarcap                          <Char-0x02A4D>      " ⩍
+\\closedvarcup                          <Char-0x02A4C>      " ⩌
+\\closedvarcupsmashprod                 <Char-0x02A50>      " ⩐
+\\closure                               <Char-0x02050>      " ⁐
+\\clubsuit                              <Char-0x02663>      " ♣
+\\Colon                                 <Char-0x02237>      " ∷
+\\coloneq                               <Char-0x02254>      " ≔
+\\Coloneq                               <Char-0x02A74>      " ⩴
+\\commaminus                            <Char-0x02A29>      " ⨩
+\\complement                            <Char-0x02201>      " ∁
+\\concavediamond                        <Char-0x027E1>      " ⟡
+\\concavediamondtickleft                <Char-0x027E2>      " ⟢
+\\concavediamondtickright               <Char-0x027E3>      " ⟣
+\\cong                                  <Char-0x02245>      " ≅
+\\congdot                               <Char-0x02A6D>      " ⩭
+\\conictaper                            <Char-0x02332>      " ⌲
+\\conjquant                             <Char-0x02A07>      " ⨇
+\\coprod                                <Char-0x02210>      " ∐
+\\csub                                  <Char-0x02ACF>      " ⫏
+\\csube                                 <Char-0x02AD1>      " ⫑
+\\csup                                  <Char-0x02AD0>      " ⫐
+\\csupe                                 <Char-0x02AD2>      " ⫒
+\\cuberoot                              <Char-0x0221B>      " ∛
+\\cup                                   <Char-0x0222A>      " ∪
+\\Cup                                   <Char-0x022D3>      " ⋓
+\\cupbarcap                             <Char-0x02A48>      " ⩈
+\\cupdot                                <Char-0x0228D>      " ⊍
+\\cupleftarrow                          <Char-0x0228C>      " ⊌
+\\cupovercap                            <Char-0x02A46>      " ⩆
+\\cupvee                                <Char-0x02A45>      " ⩅
+\\curlyeqprec                           <Char-0x022DE>      " ⋞
+\\curlyeqsucc                           <Char-0x022DF>      " ⋟
+\\curlyvee                              <Char-0x022CE>      " ⋎
+\\curlywedge                            <Char-0x022CF>      " ⋏
+\\curvearrowleft                        <Char-0x021B6>      " ↶
+\\curvearrowleftplus                    <Char-0x0293D>      " ⤽
+\\curvearrowright                       <Char-0x021B7>      " ↷
+\\curvearrowrightminus                  <Char-0x0293C>      " ⤼
+\\cwcirclearrow                         <Char-0x02941>      " ⥁
+\\cwgapcirclearrow                      <Char-0x027F3>      " ⟳
+\\cwopencirclearrow                     <Char-0x021BB>      " ↻
+\\cwrightarcarrow                       <Char-0x02938>      " ⤸
+\\cwundercurvearrow                     <Char-0x0293E>      " ⤾
+\\dagger                                <Char-0x02020>      " †
+\\daleth                                <Char-0x02138>      " ℸ
+\\danger                                <Char-0x02621>      " ☡
+\\dashcolon                             <Char-0x02239>      " ∹
+\\dashleftharpoondown                   <Char-0x0296B>      " ⥫
+\\dashrightharpoondown                  <Char-0x0296D>      " ⥭
+\\dashv                                 <Char-0x022A3>      " ⊣
+\\dashV                                 <Char-0x02AE3>      " ⫣
+\\Dashv                                 <Char-0x02AE4>      " ⫤
+\\DashV                                 <Char-0x02AE5>      " ⫥
+\\DashVDash                             <Char-0x027DA>      " ⟚
+\\dashVdash                             <Char-0x027DB>      " ⟛
+\\dbkarrow                              <Char-0x0290F>      " ⤏
+\\ddagger                               <Char-0x02021>      " ‡
+\\ddddot                                <Char-0x020DC>      "  ⃜
+\\dddot                                 <Char-0x020DB>      "  ⃛
+\\ddot                                  <Char-0x00308>      "  ̈
+\\ddots                                 <Char-0x022F1>      " ⋱
+\\ddotseq                               <Char-0x02A77>      " ⩷
+\\DDownarrow                            <Char-0x027F1>      " ⟱
+\\Ddownarrow                            <Char-0x0290B>      " ⤋
+\\Delta                                 <Char-0x00394>      " Δ
+\\delta                                 <Char-0x003B4>      " δ
+\\diameter                              <Char-0x02300>      " ⌀
+\\diamondbotblack                       <Char-0x02B19>      " ⬙
+\\diamondcdot                           <Char-0x027D0>      " ⟐
+\\diamondleftarrow                      <Char-0x0291D>      " ⤝
+\\diamondleftarrowbar                   <Char-0x0291F>      " ⤟
+\\diamondleftblack                      <Char-0x02B16>      " ⬖
+\\diamondrightblack                     <Char-0x02B17>      " ⬗
+\\diamondsuit                           <Char-0x02662>      " ♢
+\\diamondtopblack                       <Char-0x02B18>      " ⬘
+\\dicei                                 <Char-0x02680>      " ⚀
+\\diceii                                <Char-0x02681>      " ⚁
+\\diceiii                               <Char-0x02682>      " ⚂
+\\diceiv                                <Char-0x02683>      " ⚃
+\\dicev                                 <Char-0x02684>      " ⚄
+\\dicevi                                <Char-0x02685>      " ⚅
+\\dingasterisk                          <Char-0x0273D>      " ✽
+\\disin                                 <Char-0x022F2>      " ⋲
+\\disjquant                             <Char-0x02A08>      " ⨈
+\\div                                   <Char-0x000F7>      " ÷
+\\divideontimes                         <Char-0x022C7>      " ⋇
+\\divslash                              <Char-0x02215>      " ∕
+\\dot                                   <Char-0x00307>      "  ̇
+\\doteq                                 <Char-0x02250>      " ≐
+\\Doteq                                 <Char-0x02251>      " ≑
+\\dotequiv                              <Char-0x02A67>      " ⩧
+\\dotminus                              <Char-0x02238>      " ∸
+\\dotplus                               <Char-0x02214>      " ∔
+\\dotsim                                <Char-0x02A6A>      " ⩪
+\\dotsminusdots                         <Char-0x0223A>      " ∺
+\\dottedcircle                          <Char-0x025CC>      " ◌
+\\dottedsquare                          <Char-0x02B1A>      " ⬚
+\\dottimes                              <Char-0x02A30>      " ⨰
+\\doublebarvee                          <Char-0x02A62>      " ⩢
+\\doublebarwedge                        <Char-0x02A5E>      " ⩞
+\\doubleplus                            <Char-0x029FA>      " ⧺
+\\downarrow                             <Char-0x02193>      " ↓
+\\Downarrow                             <Char-0x021D3>      " ⇓
+\\downarrowbar                          <Char-0x02913>      " ⤓
+\\downarrowbarred                       <Char-0x02908>      " ⤈
+\\downdasharrow                         <Char-0x021E3>      " ⇣
+\\downdownarrows                        <Char-0x021CA>      " ⇊
+\\downfishtail                          <Char-0x0297F>      " ⥿
+\\downharpoonleft                       <Char-0x021C3>      " ⇃
+\\downharpoonleftbar                    <Char-0x02959>      " ⥙
+\\downharpoonright                      <Char-0x021C2>      " ⇂
+\\downharpoonrightbar                   <Char-0x02955>      " ⥕
+\\downharpoonsleftright                 <Char-0x02965>      " ⥥
+\\downrightcurvedarrow                  <Char-0x02935>      " ⤵
+\\downtriangleleftblack                 <Char-0x029E8>      " ⧨
+\\downtrianglerightblack                <Char-0x029E9>      " ⧩
+\\downuparrows                          <Char-0x021F5>      " ⇵
+\\downupharpoonsleftright               <Char-0x0296F>      " ⥯
+\\downwhitearrow                        <Char-0x021E9>      " ⇩
+\\downzigzagarrow                       <Char-0x021AF>      " ↯
+\\dprime                                <Char-0x02033>      " ″
+\\draftingarrow                         <Char-0x0279B>      " ➛
+\\drbkarrow                             <Char-0x02910>      " ⤐
+\\droang                                <Char-0x0031A>      "  ̚
+\\dsol                                  <Char-0x029F6>      " ⧶
+\\dsub                                  <Char-0x02A64>      " ⩤
+\\dualmap                               <Char-0x029DF>      " ⧟
+\\egsdot                                <Char-0x02A98>      " ⪘
+\\eighthnote                            <Char-0x0266A>      " ♪
+\\elinters                              <Char-0x023E7>      " ⏧
+\\ell                                   <Char-0x02113>      " ℓ
+\\elsdot                                <Char-0x02A97>      " ⪗
+\\emptysetoarr                          <Char-0x029B3>      " ⦳
+\\emptysetoarrl                         <Char-0x029B4>      " ⦴
+\\emptysetobar                          <Char-0x029B1>      " ⦱
+\\emptysetocirc                         <Char-0x029B2>      " ⦲
+\\enclosecircle                         <Char-0x020DD>      " ⃝
+\\enclosediamond                        <Char-0x020DF>      " ⃟
+\\enclosesquare                         <Char-0x020DE>      " ⃞
+\\enclosetriangle                       <Char-0x020E4>      " ⃤
+\\enleadertwodots                       <Char-0x02025>      " ‥
+\\eparsl                                <Char-0x029E3>      " ⧣
+\\Epsilon                               <Char-0x00395>      " Ε
+\\epsilon                               <Char-0x003F5>      " ϵ
+\\eqcirc                                <Char-0x02256>      " ≖
+\\eqcolon                               <Char-0x02255>      " ≕
+\\eqdef                                 <Char-0x0225D>      " ≝
+\\eqdot                                 <Char-0x02A66>      " ⩦
+\\eqeq                                  <Char-0x02A75>      " ⩵
+\\eqeqeq                                <Char-0x02A76>      " ⩶
+\\eqgtr                                 <Char-0x022DD>      " ⋝
+\\eqless                                <Char-0x022DC>      " ⋜
+\\eqqgtr                                <Char-0x02A9A>      " ⪚
+\\eqqless                               <Char-0x02A99>      " ⪙
+\\eqqplus                               <Char-0x02A71>      " ⩱
+\\eqqsim                                <Char-0x02A73>      " ⩳
+\\eqqslantgtr                           <Char-0x02A9C>      " ⪜
+\\eqqslantless                          <Char-0x02A9B>      " ⪛
+\\eqsim                                 <Char-0x02242>      " ≂
+\\eqslantgtr                            <Char-0x02A96>      " ⪖
+\\eqslantless                           <Char-0x02A95>      " ⪕
+\\equal                                 <Char-0x0003D>      " =
+\\equalleftarrow                        <Char-0x02B40>      " ⭀
+\\equalparallel                         <Char-0x022D5>      " ⋕
+\\equalrightarrow                       <Char-0x02971>      " ⥱
+\\equiv                                 <Char-0x02261>      " ≡
+\\Equiv                                 <Char-0x02263>      " ≣
+\\equivDD                               <Char-0x02A78>      " ⩸
+\\equivVert                             <Char-0x02A68>      " ⩨
+\\equivVvert                            <Char-0x02A69>      " ⩩
+\\eqvparsl                              <Char-0x029E5>      " ⧥
+\\errbarblackcircle                     <Char-0x029F3>      " ⧳
+\\errbarblackdiamond                    <Char-0x029F1>      " ⧱
+\\errbarblacksquare                     <Char-0x029EF>      " ⧯
+\\errbarcircle                          <Char-0x029F2>      " ⧲
+\\errbardiamond                         <Char-0x029F0>      " ⧰
+\\errbarsquare                          <Char-0x029EE>      " ⧮
+\\Eta                                   <Char-0x00397>      " Η
+\\eta                                   <Char-0x003B7>      " η
+\\Eulerconst                            <Char-0x02107>      " ℇ
+\\euro                                  <Char-0x020AC>      " €
+\\Exclam                                <Char-0x0203C>      " ‼
+\\exists                                <Char-0x02203>      " ∃
+\\fallingdotseq                         <Char-0x02252>      " ≒
+\\fbowtie                               <Char-0x029D3>      " ⧓
+\\fcmp                                  <Char-0x02A3E>      " ⨾
+\\fdiagovnearrow                        <Char-0x0292F>      " ⤯
+\\fdiagovrdiag                          <Char-0x0292C>      " ⤬
+\\female                                <Char-0x02640>      " ♀
+\\fint                                  <Char-0x02A0F>      " ⨏
+\\Finv                                  <Char-0x02132>      " Ⅎ
+\\fisheye                               <Char-0x025C9>      " ◉
+\\flat                                  <Char-0x0266D>      " ♭
+\\fltns                                 <Char-0x023E5>      " ⏥
+\\forall                                <Char-0x02200>      " ∀
+\\forks                                 <Char-0x02ADC>      " ⫝̸
+\\forksnot                              <Char-0x02ADD>      " ⫝
+\\forkv                                 <Char-0x02AD9>      " ⫙
+\\fourthroot                            <Char-0x0221C>      " ∜
+\\fourvdots                             <Char-0x02999>      " ⦙
+\\fracslash                             <Char-0x02044>      " ⁄
+\\frown                                 <Char-0x02322>      " ⌢
+\\fullouterjoin                         <Char-0x027D7>      " ⟗
+\\Game                                  <Char-0x02141>      " ⅁
+\\Gamma                                 <Char-0x00393>      " Γ
+\\gamma                                 <Char-0x003B3>      " γ
+\\ge                                    <Char-0x02265>      " ≥
+\\geq                                   <Char-0x02265>      " ≥
+\\geqq                                  <Char-0x02267>      " ≧
+\\geqqslant                             <Char-0x02AFA>      " ⫺
+\\geqslant                              <Char-0x02A7E>      " ⩾
+\\gescc                                 <Char-0x02AA9>      " ⪩
+\\gesdot                                <Char-0x02A80>      " ⪀
+\\gesdoto                               <Char-0x02A82>      " ⪂
+\\gesdotol                              <Char-0x02A84>      " ⪄
+\\gesles                                <Char-0x02A94>      " ⪔
+\\gets                                  <Char-0x02190>      " ←
+\\gg                                    <Char-0x0226B>      " ≫
+\\ggg                                   <Char-0x022D9>      " ⋙
+\\gggnest                               <Char-0x02AF8>      " ⫸
+\\gimel                                 <Char-0x02137>      " ℷ
+\\gla                                   <Char-0x02AA5>      " ⪥
+\\glE                                   <Char-0x02A92>      " ⪒
+\\gleichstark                           <Char-0x029E6>      " ⧦
+\\glj                                   <Char-0x02AA4>      " ⪤
+\\gnapprox                              <Char-0x02A8A>      " ⪊
+\\gneq                                  <Char-0x02A88>      " ⪈
+\\gneqq                                 <Char-0x02269>      " ≩
+\\gnsim                                 <Char-0x022E7>      " ⋧
+\\grave                                 <Char-0x00300>      "  ̀
+\\greater                               <Char-0x0003E>      " >
+\\gsime                                 <Char-0x02A8E>      " ⪎
+\\gsiml                                 <Char-0x02A90>      " ⪐
+\\Gt                                    <Char-0x02AA2>      " ⪢
+\\gtcc                                  <Char-0x02AA7>      " ⪧
+\\gtcir                                 <Char-0x02A7A>      " ⩺
+\\gtlpar                                <Char-0x029A0>      " ⦠
+\\gtquest                               <Char-0x02A7C>      " ⩼
+\\gtrapprox                             <Char-0x02A86>      " ⪆
+\\gtrarr                                <Char-0x02978>      " ⥸
+\\gtrdot                                <Char-0x022D7>      " ⋗
+\\gtreqless                             <Char-0x022DB>      " ⋛
+\\gtreqqless                            <Char-0x02A8C>      " ⪌
+\\gtrless                               <Char-0x02277>      " ≷
+\\gtrsim                                <Char-0x02273>      " ≳
+\\harrowextender                        <Char-0x023AF>      " ⎯
+\\hat                                   <Char-0x00302>      "  ̂
+\\hatapprox                             <Char-0x02A6F>      " ⩯
+\\heartsuit                             <Char-0x02661>      " ♡
+\\Hermaphrodite                         <Char-0x026A5>      " ⚥
+\\hermitmatrix                          <Char-0x022B9>      " ⊹
+\\hexagon                               <Char-0x02394>      " ⎔
+\\hexagonblack                          <Char-0x02B23>      " ⬣
+\\hknearrow                             <Char-0x02924>      " ⤤
+\\hknwarrow                             <Char-0x02923>      " ⤣
+\\hksearrow                             <Char-0x02925>      " ⤥
+\\hkswarrow                             <Char-0x02926>      " ⤦
+\\hookleftarrow                         <Char-0x021A9>      " ↩
+\\hookrightarrow                        <Char-0x021AA>      " ↪
+\\horizbar                              <Char-0x02015>      " ―
+\\hourglass                             <Char-0x029D6>      " ⧖
+\\house                                 <Char-0x02302>      " ⌂
+\\hrectangle                            <Char-0x025AD>      " ▭
+\\hrectangleblack                       <Char-0x025AC>      " ▬
+\\hslash                                <Char-0x0210F>      " ℏ
+\\hyphenbullet                          <Char-0x02043>      " ⁃
+\\hzigzag                               <Char-0x03030>      " 〰
+\\iiiint                                <Char-0x02A0C>      " ⨌
+\\iiint                                 <Char-0x0222D>      " ∭
+\\iinfin                                <Char-0x029DC>      " ⧜
+\\iint                                  <Char-0x0222C>      " ∬
+\\Im                                    <Char-0x02111>      " ℑ
+\\imageof                               <Char-0x022B7>      " ⊷
+\\imath                                 <Char-0x1D6A4>      " 𝚤
+\\in                                    <Char-0x02208>      " ∈
+\\increment                             <Char-0x02206>      " ∆
+\\infty                                 <Char-0x0221E>      " ∞
+\\int                                   <Char-0x0222B>      " ∫
+\\intbar                                <Char-0x02A0D>      " ⨍
+\\intBar                                <Char-0x02A0E>      " ⨎
+\\intbottom                             <Char-0x02321>      " ⌡
+\\intcap                                <Char-0x02A19>      " ⨙
+\\intclockwise                          <Char-0x02231>      " ∱
+\\intcup                                <Char-0x02A1A>      " ⨚
+\\intercal                              <Char-0x022BA>      " ⊺
+\\interleave                            <Char-0x02AF4>      " ⫴
+\\intextender                           <Char-0x023AE>      " ⎮
+\\intlarhk                              <Char-0x02A17>      " ⨗
+\\intprod                               <Char-0x02A3C>      " ⨼
+\\intprodr                              <Char-0x02A3D>      " ⨽
+\\inttop                                <Char-0x02320>      " ⌠
+\\intx                                  <Char-0x02A18>      " ⨘
+\\inversebullet                         <Char-0x025D8>      " ◘
+\\inversewhitecircle                    <Char-0x025D9>      " ◙
+\\invlazys                              <Char-0x0223E>      " ∾
+\\invnot                                <Char-0x02310>      " ⌐
+\\invwhitelowerhalfcircle               <Char-0x025DB>      " ◛
+\\invwhiteupperhalfcircle               <Char-0x025DA>      " ◚
+\\Iota                                  <Char-0x00399>      " Ι
+\\iota                                  <Char-0x003B9>      " ι
+\\isindot                               <Char-0x022F5>      " ⋵
+\\isinE                                 <Char-0x022F9>      " ⋹
+\\isinobar                              <Char-0x022F7>      " ⋷
+\\isins                                 <Char-0x022F4>      " ⋴
+\\isinvb                                <Char-0x022F8>      " ⋸
+\\jmath                                 <Char-0x1D6A5>      " 𝚥
+\\Join                                  <Char-0x02A1D>      " ⨝
+\\Kappa                                 <Char-0x0039A>      " Κ
+\\kappa                                 <Char-0x003BA>      " κ
+\\kernelcontraction                     <Char-0x0223B>      " ∻
+\\Lambda                                <Char-0x0039B>      " Λ
+\\lambda                                <Char-0x003BB>      " λ
+\\land                                  <Char-0x02227>      " ∧
+\\langle                                <Char-0x027E8>      " ⟨
+\\lAngle                                <Char-0x027EA>      " ⟪
+\\langledot                             <Char-0x02991>      " ⦑
+\\laplac                                <Char-0x029E0>      " ⧠
+\\lat                                   <Char-0x02AAB>      " ⪫
+\\late                                  <Char-0x02AAD>      " ⪭
+\\lbag                                  <Char-0x027C5>      " ⟅
+\\lblkbrbrak                            <Char-0x02997>      " ⦗
+\\lbrace                                <Char-0x0007B>      " {
+\\lBrace                                <Char-0x02983>      " ⦃
+\\lbracelend                            <Char-0x023A9>      " ⎩
+\\lbracemid                             <Char-0x023A8>      " ⎨
+\\lbraceuend                            <Char-0x023A7>      " ⎧
+\\lbrack                                <Char-0x0005B>      " [
+\\lBrack                                <Char-0x027E6>      " ⟦
+\\lbrackextender                        <Char-0x023A2>      " ⎢
+\\lbracklend                            <Char-0x023A3>      " ⎣
+\\lbracklltick                          <Char-0x0298F>      " ⦏
+\\lbrackubar                            <Char-0x0298B>      " ⦋
+\\lbrackuend                            <Char-0x023A1>      " ⎡
+\\lbrackultick                          <Char-0x0298D>      " ⦍
+\\lbrbrak                               <Char-0x02772>      " ❲
+\\Lbrbrak                               <Char-0x027EC>      " ⟬
+\\lceil                                 <Char-0x02308>      " ⌈
+\\lcurvyangle                           <Char-0x029FC>      " ⧼
+\\Ldsh                                  <Char-0x021B2>      " ↲
+\\le                                    <Char-0x02264>      " ≤
+\\leftarrow                             <Char-0x02190>      " ←
+\\Leftarrow                             <Char-0x021D0>      " ⇐
+\\leftarrowapprox                       <Char-0x02B4A>      " ⭊
+\\leftarrowbackapprox                   <Char-0x02B42>      " ⭂
+\\leftarrowbsimilar                     <Char-0x02B4B>      " ⭋
+\\leftarrowless                         <Char-0x02977>      " ⥷
+\\leftarrowonoplus                      <Char-0x02B32>      " ⬲
+\\leftarrowplus                         <Char-0x02946>      " ⥆
+\\leftarrowshortrightarrow              <Char-0x02943>      " ⥃
+\\leftarrowsimilar                      <Char-0x02973>      " ⥳
+\\leftarrowsubset                       <Char-0x0297A>      " ⥺
+\\leftarrowtail                         <Char-0x021A2>      " ↢
+\\leftarrowtriangle                     <Char-0x021FD>      " ⇽
+\\leftarrowx                            <Char-0x02B3E>      " ⬾
+\\leftbkarrow                           <Char-0x0290C>      " ⤌
+\\leftcurvedarrow                       <Char-0x02B3F>      " ⬿
+\\leftdasharrow                         <Char-0x021E0>      " ⇠
+\\leftdbkarrow                          <Char-0x0290E>      " ⤎
+\\leftdbltail                           <Char-0x0291B>      " ⤛
+\\leftdotarrow                          <Char-0x02B38>      " ⬸
+\\leftdowncurvedarrow                   <Char-0x02936>      " ⤶
+\\leftfishtail                          <Char-0x0297C>      " ⥼
+\\leftharpoonaccent                     <Char-0x020D0>      "  ⃐
+\\leftharpoondown                       <Char-0x021BD>      " ↽
+\\leftharpoondownbar                    <Char-0x0295E>      " ⥞
+\\leftharpoonsupdown                    <Char-0x02962>      " ⥢
+\\leftharpoonup                         <Char-0x021BC>      " ↼
+\\leftharpoonupbar                      <Char-0x0295A>      " ⥚
+\\leftharpoonupdash                     <Char-0x0296A>      " ⥪
+\\leftleftarrows                        <Char-0x021C7>      " ⇇
+\\leftmoon                              <Char-0x0263E>      " ☾
+\\leftouterjoin                         <Char-0x027D5>      " ⟕
+\\leftrightarrow                        <Char-0x02194>      " ↔
+\\Leftrightarrow                        <Char-0x021D4>      " ⇔
+\\leftrightarrowcircle                  <Char-0x02948>      " ⥈
+\\leftrightarrows                       <Char-0x021C6>      " ⇆
+\\leftrightarrowtriangle                <Char-0x021FF>      " ⇿
+\\leftrightharpoondowndown              <Char-0x02950>      " ⥐
+\\leftrightharpoondownup                <Char-0x0294B>      " ⥋
+\\leftrightharpoons                     <Char-0x021CB>      " ⇋
+\\leftrightharpoonsdown                 <Char-0x02967>      " ⥧
+\\leftrightharpoonsup                   <Char-0x02966>      " ⥦
+\\leftrightharpoonupdown                <Char-0x0294A>      " ⥊
+\\leftrightharpoonupup                  <Char-0x0294E>      " ⥎
+\\leftrightsquigarrow                   <Char-0x021AD>      " ↭
+\\leftsquigarrow                        <Char-0x021DC>      " ⇜
+\\lefttail                              <Char-0x02919>      " ⤙
+\\leftthreearrows                       <Char-0x02B31>      " ⬱
+\\leftthreetimes                        <Char-0x022CB>      " ⋋
+\\leftwavearrow                         <Char-0x0219C>      " ↜
+\\leftwhitearrow                        <Char-0x021E6>      " ⇦
+\\leq                                   <Char-0x02264>      " ≤
+\\leqq                                  <Char-0x02266>      " ≦
+\\leqqslant                             <Char-0x02AF9>      " ⫹
+\\leqslant                              <Char-0x02A7D>      " ⩽
+\\lescc                                 <Char-0x02AA8>      " ⪨
+\\lesdot                                <Char-0x02A7F>      " ⩿
+\\lesdoto                               <Char-0x02A81>      " ⪁
+\\lesdotor                              <Char-0x02A83>      " ⪃
+\\lesges                                <Char-0x02A93>      " ⪓
+\\less                                  <Char-0x0003C>      " <
+\\lessapprox                            <Char-0x02A85>      " ⪅
+\\lessdot                               <Char-0x022D6>      " ⋖
+\\lesseqgtr                             <Char-0x022DA>      " ⋚
+\\lesseqqgtr                            <Char-0x02A8B>      " ⪋
+\\lessgtr                               <Char-0x02276>      " ≶
+\\lesssim                               <Char-0x02272>      " ≲
+\\lfbowtie                              <Char-0x029D1>      " ⧑
+\\lfloor                                <Char-0x0230A>      " ⌊
+\\lftimes                               <Char-0x029D4>      " ⧔
+\\lgblkcircle                           <Char-0x02B24>      " ⬤
+\\lgblksquare                           <Char-0x02B1B>      " ⬛
+\\lgE                                   <Char-0x02A91>      " ⪑
+\\lgroup                                <Char-0x027EE>      " ⟮
+\\lgwhtcircle                           <Char-0x025EF>      " ◯
+\\lgwhtsquare                           <Char-0x02B1C>      " ⬜
+\\linefeed                              <Char-0x021B4>      " ↴
+\\ll                                    <Char-0x0226A>      " ≪
+\\llangle                               <Char-0x02989>      " ⦉
+\\llarc                                 <Char-0x025DF>      " ◟
+\\llblacktriangle                       <Char-0x025E3>      " ◣
+\\llcorner                              <Char-0x0231E>      " ⌞
+\\Lleftarrow                            <Char-0x021DA>      " ⇚
+\\LLeftarrow                            <Char-0x02B45>      " ⭅
+\\lll                                   <Char-0x022D8>      " ⋘
+\\lllnest                               <Char-0x02AF7>      " ⫷
+\\llparenthesis                         <Char-0x02987>      " ⦇
+\\lltriangle                            <Char-0x025FA>      " ◺
+\\lmoustache                            <Char-0x023B0>      " ⎰
+\\lnapprox                              <Char-0x02A89>      " ⪉
+\\lneq                                  <Char-0x02A87>      " ⪇
+\\lneqq                                 <Char-0x02268>      " ≨
+\\lnot                                  <Char-0x000AC>      " ¬
+\\lnsim                                 <Char-0x022E6>      " ⋦
+\\longdashv                             <Char-0x027DE>      " ⟞
+\\longdivision                          <Char-0x027CC>      " ⟌
+\\longleftarrow                         <Char-0x027F5>      " ⟵
+\\Longleftarrow                         <Char-0x027F8>      " ⟸
+\\longleftrightarrow                    <Char-0x027F7>      " ⟷
+\\Longleftrightarrow                    <Char-0x027FA>      " ⟺
+\\longleftsquigarrow                    <Char-0x02B33>      " ⬳
+\\longmapsfrom                          <Char-0x027FB>      " ⟻
+\\Longmapsfrom                          <Char-0x027FD>      " ⟽
+\\longmapsto                            <Char-0x027FC>      " ⟼
+\\Longmapsto                            <Char-0x027FE>      " ⟾
+\\longrightarrow                        <Char-0x027F6>      " ⟶
+\\Longrightarrow                        <Char-0x027F9>      " ⟹
+\\longrightsquigarrow                   <Char-0x027FF>      " ⟿
+\\looparrowleft                         <Char-0x021AB>      " ↫
+\\looparrowright                        <Char-0x021AC>      " ↬
+\\lor                                   <Char-0x02228>      " ∨
+\\lowint                                <Char-0x02A1C>      " ⨜
+\\lozengeminus                          <Char-0x027E0>      " ⟠
+\\lparen                                <Char-0x00028>      " (
+\\lParen                                <Char-0x02985>      " ⦅
+\\lparenextender                        <Char-0x0239C>      " ⎜
+\\Lparengtr                             <Char-0x02995>      " ⦕
+\\lparenlend                            <Char-0x0239D>      " ⎝
+\\lparenless                            <Char-0x02993>      " ⦓
+\\lparenuend                            <Char-0x0239B>      " ⎛
+\\lrarc                                 <Char-0x025DE>      " ◞
+\\lrblacktriangle                       <Char-0x025E2>      " ◢
+\\lrcorner                              <Char-0x0231F>      " ⌟
+\\lrtriangle                            <Char-0x025FF>      " ◿
+\\lrtriangleeq                          <Char-0x029E1>      " ⧡
+\\Lsh                                   <Char-0x021B0>      " ↰
+\\lsime                                 <Char-0x02A8D>      " ⪍
+\\lsimg                                 <Char-0x02A8F>      " ⪏
+\\lsqhook                               <Char-0x02ACD>      " ⫍
+\\Lt                                    <Char-0x02AA1>      " ⪡
+\\ltcc                                  <Char-0x02AA6>      " ⪦
+\\ltcir                                 <Char-0x02A79>      " ⩹
+\\ltimes                                <Char-0x022C9>      " ⋉
+\\ltlarr                                <Char-0x02976>      " ⥶
+\\ltquest                               <Char-0x02A7B>      " ⩻
+\\ltrivb                                <Char-0x029CF>      " ⧏
+\\lvboxline                             <Char-0x023B8>      " ⎸
+\\lvzigzag                              <Char-0x029D8>      " ⧘
+\\Lvzigzag                              <Char-0x029DA>      " ⧚
+\\male                                  <Char-0x02642>      " ♂
+\\maltese                               <Char-0x02720>      " ✠
+\\mapsdown                              <Char-0x021A7>      " ↧
+\\mapsfrom                              <Char-0x021A4>      " ↤
+\\Mapsfrom                              <Char-0x02906>      " ⤆
+\\mapsto                                <Char-0x021A6>      " ↦
+\\Mapsto                                <Char-0x02907>      " ⤇
+\\mapsup                                <Char-0x021A5>      " ↥
+\\mathampersand                         <Char-0x00026>      " &
+\\mathatsign                            <Char-0x00040>      " @
+\\mathcolon                             <Char-0x0003A>      " :
+\\mathcomma                             <Char-0x0002C>      " ,
+\\mathdollar                            <Char-0x00024>      " $
+\\matheth                               <Char-0x000F0>      " ð
+\\mathexclam                            <Char-0x00021>      " !
+\\mathhyphen                            <Char-0x02010>      " ‐
+\\mathoctothorpe                        <Char-0x00023>      " #
+\\mathparagraph                         <Char-0x000B6>      " ¶
+\\mathpercent                           <Char-0x00025>      " %
+\\mathperiod                            <Char-0x0002E>      " .
+\\mathplus                              <Char-0x0002B>      " +
+\\mathquestion                          <Char-0x0003F>      " ?
+\\mathratio                             <Char-0x02236>      " ∶
+\\mathsection                           <Char-0x000A7>      " §
+\\mathsemicolon                         <Char-0x0003B>      " ;
+\\mathslash                             <Char-0x0002F>      " /
+\\mathsterling                          <Char-0x000A3>      " £
+\\mathunderbar                          <Char-0x00332>      "  ̲
+\\mathvisiblespace                      <Char-0x02423>      " ␣
+\\mathyen                               <Char-0x000A5>      " ¥
+\\mbfA                                  <Char-0x1D400>      " 𝐀
+\\mbfa                                  <Char-0x1D41A>      " 𝐚
+\\mbfAlpha                              <Char-0x1D6A8>      " 𝚨
+\\mbfalpha                              <Char-0x1D6C2>      " 𝛂
+\\mbfB                                  <Char-0x1D401>      " 𝐁
+\\mbfb                                  <Char-0x1D41B>      " 𝐛
+\\mbfBeta                               <Char-0x1D6A9>      " 𝚩
+\\mbfbeta                               <Char-0x1D6C3>      " 𝛃
+\\mbfC                                  <Char-0x1D402>      " 𝐂
+\\mbfc                                  <Char-0x1D41C>      " 𝐜
+\\mbfChi                                <Char-0x1D6BE>      " 𝚾
+\\mbfchi                                <Char-0x1D6D8>      " 𝛘
+\\mbfD                                  <Char-0x1D403>      " 𝐃
+\\mbfd                                  <Char-0x1D41D>      " 𝐝
+\\mbfDelta                              <Char-0x1D6AB>      " 𝚫
+\\mbfdelta                              <Char-0x1D6C5>      " 𝛅
+\\mbfDigamma                            <Char-0x1D7CA>      " 𝟊
+\\mbfdigamma                            <Char-0x1D7CB>      " 𝟋
+\\mbfE                                  <Char-0x1D404>      " 𝐄
+\\mbfe                                  <Char-0x1D41E>      " 𝐞
+\\mbfeight                              <Char-0x1D7D6>      " 𝟖
+\\mbfEpsilon                            <Char-0x1D6AC>      " 𝚬
+\\mbfepsilon                            <Char-0x1D6DC>      " 𝛜
+\\mbfEta                                <Char-0x1D6AE>      " 𝚮
+\\mbfeta                                <Char-0x1D6C8>      " 𝛈
+\\mbfF                                  <Char-0x1D405>      " 𝐅
+\\mbff                                  <Char-0x1D41F>      " 𝐟
+\\mbffive                               <Char-0x1D7D3>      " 𝟓
+\\mbffour                               <Char-0x1D7D2>      " 𝟒
+\\mbffrakA                              <Char-0x1D56C>      " 𝕬
+\\mbffraka                              <Char-0x1D586>      " 𝖆
+\\mbffrakB                              <Char-0x1D56D>      " 𝕭
+\\mbffrakb                              <Char-0x1D587>      " 𝖇
+\\mbffrakC                              <Char-0x1D56E>      " 𝕮
+\\mbffrakc                              <Char-0x1D588>      " 𝖈
+\\mbffrakD                              <Char-0x1D56F>      " 𝕯
+\\mbffrakd                              <Char-0x1D589>      " 𝖉
+\\mbffrakE                              <Char-0x1D570>      " 𝕰
+\\mbffrake                              <Char-0x1D58A>      " 𝖊
+\\mbffrakF                              <Char-0x1D571>      " 𝕱
+\\mbffrakf                              <Char-0x1D58B>      " 𝖋
+\\mbffrakG                              <Char-0x1D572>      " 𝕲
+\\mbffrakg                              <Char-0x1D58C>      " 𝖌
+\\mbffrakH                              <Char-0x1D573>      " 𝕳
+\\mbffrakh                              <Char-0x1D58D>      " 𝖍
+\\mbffrakI                              <Char-0x1D574>      " 𝕴
+\\mbffraki                              <Char-0x1D58E>      " 𝖎
+\\mbffrakJ                              <Char-0x1D575>      " 𝕵
+\\mbffrakj                              <Char-0x1D58F>      " 𝖏
+\\mbffrakK                              <Char-0x1D576>      " 𝕶
+\\mbffrakk                              <Char-0x1D590>      " 𝖐
+\\mbffrakL                              <Char-0x1D577>      " 𝕷
+\\mbffrakl                              <Char-0x1D591>      " 𝖑
+\\mbffrakM                              <Char-0x1D578>      " 𝕸
+\\mbffrakm                              <Char-0x1D592>      " 𝖒
+\\mbffrakN                              <Char-0x1D579>      " 𝕹
+\\mbffrakn                              <Char-0x1D593>      " 𝖓
+\\mbffrakO                              <Char-0x1D57A>      " 𝕺
+\\mbffrako                              <Char-0x1D594>      " 𝖔
+\\mbffrakP                              <Char-0x1D57B>      " 𝕻
+\\mbffrakp                              <Char-0x1D595>      " 𝖕
+\\mbffrakQ                              <Char-0x1D57C>      " 𝕼
+\\mbffrakq                              <Char-0x1D596>      " 𝖖
+\\mbffrakR                              <Char-0x1D57D>      " 𝕽
+\\mbffrakr                              <Char-0x1D597>      " 𝖗
+\\mbffrakS                              <Char-0x1D57E>      " 𝕾
+\\mbffraks                              <Char-0x1D598>      " 𝖘
+\\mbffrakT                              <Char-0x1D57F>      " 𝕿
+\\mbffrakt                              <Char-0x1D599>      " 𝖙
+\\mbffrakU                              <Char-0x1D580>      " 𝖀
+\\mbffraku                              <Char-0x1D59A>      " 𝖚
+\\mbffrakV                              <Char-0x1D581>      " 𝖁
+\\mbffrakv                              <Char-0x1D59B>      " 𝖛
+\\mbffrakW                              <Char-0x1D582>      " 𝖂
+\\mbffrakw                              <Char-0x1D59C>      " 𝖜
+\\mbffrakX                              <Char-0x1D583>      " 𝖃
+\\mbffrakx                              <Char-0x1D59D>      " 𝖝
+\\mbffrakY                              <Char-0x1D584>      " 𝖄
+\\mbffraky                              <Char-0x1D59E>      " 𝖞
+\\mbffrakZ                              <Char-0x1D585>      " 𝖅
+\\mbffrakz                              <Char-0x1D59F>      " 𝖟
+\\mbfG                                  <Char-0x1D406>      " 𝐆
+\\mbfg                                  <Char-0x1D420>      " 𝐠
+\\mbfGamma                              <Char-0x1D6AA>      " 𝚪
+\\mbfgamma                              <Char-0x1D6C4>      " 𝛄
+\\mbfH                                  <Char-0x1D407>      " 𝐇
+\\mbfh                                  <Char-0x1D421>      " 𝐡
+\\mbfI                                  <Char-0x1D408>      " 𝐈
+\\mbfi                                  <Char-0x1D422>      " 𝐢
+\\mbfIota                               <Char-0x1D6B0>      " 𝚰
+\\mbfiota                               <Char-0x1D6CA>      " 𝛊
+\\mbfitA                                <Char-0x1D468>      " 𝑨
+\\mbfita                                <Char-0x1D482>      " 𝒂
+\\mbfitAlpha                            <Char-0x1D71C>      " 𝜜
+\\mbfitalpha                            <Char-0x1D736>      " 𝜶
+\\mbfitB                                <Char-0x1D469>      " 𝑩
+\\mbfitb                                <Char-0x1D483>      " 𝒃
+\\mbfitBeta                             <Char-0x1D71D>      " 𝜝
+\\mbfitbeta                             <Char-0x1D737>      " 𝜷
+\\mbfitC                                <Char-0x1D46A>      " 𝑪
+\\mbfitc                                <Char-0x1D484>      " 𝒄
+\\mbfitChi                              <Char-0x1D732>      " 𝜲
+\\mbfitchi                              <Char-0x1D74C>      " 𝝌
+\\mbfitD                                <Char-0x1D46B>      " 𝑫
+\\mbfitd                                <Char-0x1D485>      " 𝒅
+\\mbfitDelta                            <Char-0x1D71F>      " 𝜟
+\\mbfitdelta                            <Char-0x1D739>      " 𝜹
+\\mbfitE                                <Char-0x1D46C>      " 𝑬
+\\mbfite                                <Char-0x1D486>      " 𝒆
+\\mbfitEpsilon                          <Char-0x1D720>      " 𝜠
+\\mbfitepsilon                          <Char-0x1D750>      " 𝝐
+\\mbfitEta                              <Char-0x1D722>      " 𝜢
+\\mbfiteta                              <Char-0x1D73C>      " 𝜼
+\\mbfitF                                <Char-0x1D46D>      " 𝑭
+\\mbfitf                                <Char-0x1D487>      " 𝒇
+\\mbfitG                                <Char-0x1D46E>      " 𝑮
+\\mbfitg                                <Char-0x1D488>      " 𝒈
+\\mbfitGamma                            <Char-0x1D71E>      " 𝜞
+\\mbfitgamma                            <Char-0x1D738>      " 𝜸
+\\mbfitH                                <Char-0x1D46F>      " 𝑯
+\\mbfith                                <Char-0x1D489>      " 𝒉
+\\mbfitI                                <Char-0x1D470>      " 𝑰
+\\mbfiti                                <Char-0x1D48A>      " 𝒊
+\\mbfitIota                             <Char-0x1D724>      " 𝜤
+\\mbfitiota                             <Char-0x1D73E>      " 𝜾
+\\mbfitJ                                <Char-0x1D471>      " 𝑱
+\\mbfitj                                <Char-0x1D48B>      " 𝒋
+\\mbfitK                                <Char-0x1D472>      " 𝑲
+\\mbfitk                                <Char-0x1D48C>      " 𝒌
+\\mbfitKappa                            <Char-0x1D725>      " 𝜥
+\\mbfitkappa                            <Char-0x1D73F>      " 𝜿
+\\mbfitL                                <Char-0x1D473>      " 𝑳
+\\mbfitl                                <Char-0x1D48D>      " 𝒍
+\\mbfitLambda                           <Char-0x1D726>      " 𝜦
+\\mbfitlambda                           <Char-0x1D740>      " 𝝀
+\\mbfitM                                <Char-0x1D474>      " 𝑴
+\\mbfitm                                <Char-0x1D48E>      " 𝒎
+\\mbfitMu                               <Char-0x1D727>      " 𝜧
+\\mbfitmu                               <Char-0x1D741>      " 𝝁
+\\mbfitN                                <Char-0x1D475>      " 𝑵
+\\mbfitn                                <Char-0x1D48F>      " 𝒏
+\\mbfitnabla                            <Char-0x1D735>      " 𝜵
+\\mbfitNu                               <Char-0x1D728>      " 𝜨
+\\mbfitnu                               <Char-0x1D742>      " 𝝂
+\\mbfitO                                <Char-0x1D476>      " 𝑶
+\\mbfito                                <Char-0x1D490>      " 𝒐
+\\mbfitOmega                            <Char-0x1D734>      " 𝜴
+\\mbfitomega                            <Char-0x1D74E>      " 𝝎
+\\mbfitOmicron                          <Char-0x1D72A>      " 𝜪
+\\mbfitomicron                          <Char-0x1D744>      " 𝝄
+\\mbfitP                                <Char-0x1D477>      " 𝑷
+\\mbfitp                                <Char-0x1D491>      " 𝒑
+\\mbfitpartial                          <Char-0x1D74F>      " 𝝏
+\\mbfitPhi                              <Char-0x1D731>      " 𝜱
+\\mbfitphi                              <Char-0x1D753>      " 𝝓
+\\mbfitPi                               <Char-0x1D72B>      " 𝜫
+\\mbfitpi                               <Char-0x1D745>      " 𝝅
+\\mbfitPsi                              <Char-0x1D733>      " 𝜳
+\\mbfitpsi                              <Char-0x1D74D>      " 𝝍
+\\mbfitQ                                <Char-0x1D478>      " 𝑸
+\\mbfitq                                <Char-0x1D492>      " 𝒒
+\\mbfitR                                <Char-0x1D479>      " 𝑹
+\\mbfitr                                <Char-0x1D493>      " 𝒓
+\\mbfitRho                              <Char-0x1D72C>      " 𝜬
+\\mbfitrho                              <Char-0x1D746>      " 𝝆
+\\mbfitS                                <Char-0x1D47A>      " 𝑺
+\\mbfits                                <Char-0x1D494>      " 𝒔
+\\mbfitsansA                            <Char-0x1D63C>      " 𝘼
+\\mbfitsansa                            <Char-0x1D656>      " 𝙖
+\\mbfitsansAlpha                        <Char-0x1D790>      " 𝞐
+\\mbfitsansalpha                        <Char-0x1D7AA>      " 𝞪
+\\mbfitsansB                            <Char-0x1D63D>      " 𝘽
+\\mbfitsansb                            <Char-0x1D657>      " 𝙗
+\\mbfitsansBeta                         <Char-0x1D791>      " 𝞑
+\\mbfitsansbeta                         <Char-0x1D7AB>      " 𝞫
+\\mbfitsansC                            <Char-0x1D63E>      " 𝘾
+\\mbfitsansc                            <Char-0x1D658>      " 𝙘
+\\mbfitsansChi                          <Char-0x1D7A6>      " 𝞦
+\\mbfitsanschi                          <Char-0x1D7C0>      " 𝟀
+\\mbfitsansD                            <Char-0x1D63F>      " 𝘿
+\\mbfitsansd                            <Char-0x1D659>      " 𝙙
+\\mbfitsansDelta                        <Char-0x1D793>      " 𝞓
+\\mbfitsansdelta                        <Char-0x1D7AD>      " 𝞭
+\\mbfitsansE                            <Char-0x1D640>      " 𝙀
+\\mbfitsanse                            <Char-0x1D65A>      " 𝙚
+\\mbfitsansEpsilon                      <Char-0x1D794>      " 𝞔
+\\mbfitsansepsilon                      <Char-0x1D7C4>      " 𝟄
+\\mbfitsansEta                          <Char-0x1D796>      " 𝞖
+\\mbfitsanseta                          <Char-0x1D7B0>      " 𝞰
+\\mbfitsansF                            <Char-0x1D641>      " 𝙁
+\\mbfitsansf                            <Char-0x1D65B>      " 𝙛
+\\mbfitsansG                            <Char-0x1D642>      " 𝙂
+\\mbfitsansg                            <Char-0x1D65C>      " 𝙜
+\\mbfitsansGamma                        <Char-0x1D792>      " 𝞒
+\\mbfitsansgamma                        <Char-0x1D7AC>      " 𝞬
+\\mbfitsansH                            <Char-0x1D643>      " 𝙃
+\\mbfitsansh                            <Char-0x1D65D>      " 𝙝
+\\mbfitsansI                            <Char-0x1D644>      " 𝙄
+\\mbfitsansi                            <Char-0x1D65E>      " 𝙞
+\\mbfitsansIota                         <Char-0x1D798>      " 𝞘
+\\mbfitsansiota                         <Char-0x1D7B2>      " 𝞲
+\\mbfitsansJ                            <Char-0x1D645>      " 𝙅
+\\mbfitsansj                            <Char-0x1D65F>      " 𝙟
+\\mbfitsansK                            <Char-0x1D646>      " 𝙆
+\\mbfitsansk                            <Char-0x1D660>      " 𝙠
+\\mbfitsansKappa                        <Char-0x1D799>      " 𝞙
+\\mbfitsanskappa                        <Char-0x1D7B3>      " 𝞳
+\\mbfitsansL                            <Char-0x1D647>      " 𝙇
+\\mbfitsansl                            <Char-0x1D661>      " 𝙡
+\\mbfitsansLambda                       <Char-0x1D79A>      " 𝞚
+\\mbfitsanslambda                       <Char-0x1D7B4>      " 𝞴
+\\mbfitsansM                            <Char-0x1D648>      " 𝙈
+\\mbfitsansm                            <Char-0x1D662>      " 𝙢
+\\mbfitsansMu                           <Char-0x1D79B>      " 𝞛
+\\mbfitsansmu                           <Char-0x1D7B5>      " 𝞵
+\\mbfitsansN                            <Char-0x1D649>      " 𝙉
+\\mbfitsansn                            <Char-0x1D663>      " 𝙣
+\\mbfitsansnabla                        <Char-0x1D7A9>      " 𝞩
+\\mbfitsansNu                           <Char-0x1D79C>      " 𝞜
+\\mbfitsansnu                           <Char-0x1D7B6>      " 𝞶
+\\mbfitsansO                            <Char-0x1D64A>      " 𝙊
+\\mbfitsanso                            <Char-0x1D664>      " 𝙤
+\\mbfitsansOmega                        <Char-0x1D7A8>      " 𝞨
+\\mbfitsansomega                        <Char-0x1D7C2>      " 𝟂
+\\mbfitsansOmicron                      <Char-0x1D79E>      " 𝞞
+\\mbfitsansomicron                      <Char-0x1D7B8>      " 𝞸
+\\mbfitsansP                            <Char-0x1D64B>      " 𝙋
+\\mbfitsansp                            <Char-0x1D665>      " 𝙥
+\\mbfitsanspartial                      <Char-0x1D7C3>      " 𝟃
+\\mbfitsansPhi                          <Char-0x1D7A5>      " 𝞥
+\\mbfitsansphi                          <Char-0x1D7C7>      " 𝟇
+\\mbfitsansPi                           <Char-0x1D79F>      " 𝞟
+\\mbfitsanspi                           <Char-0x1D7B9>      " 𝞹
+\\mbfitsansPsi                          <Char-0x1D7A7>      " 𝞧
+\\mbfitsanspsi                          <Char-0x1D7C1>      " 𝟁
+\\mbfitsansQ                            <Char-0x1D64C>      " 𝙌
+\\mbfitsansq                            <Char-0x1D666>      " 𝙦
+\\mbfitsansR                            <Char-0x1D64D>      " 𝙍
+\\mbfitsansr                            <Char-0x1D667>      " 𝙧
+\\mbfitsansRho                          <Char-0x1D7A0>      " 𝞠
+\\mbfitsansrho                          <Char-0x1D7BA>      " 𝞺
+\\mbfitsansS                            <Char-0x1D64E>      " 𝙎
+\\mbfitsanss                            <Char-0x1D668>      " 𝙨
+\\mbfitsansSigma                        <Char-0x1D7A2>      " 𝞢
+\\mbfitsanssigma                        <Char-0x1D7BC>      " 𝞼
+\\mbfitsansT                            <Char-0x1D64F>      " 𝙏
+\\mbfitsanst                            <Char-0x1D669>      " 𝙩
+\\mbfitsansTau                          <Char-0x1D7A3>      " 𝞣
+\\mbfitsanstau                          <Char-0x1D7BD>      " 𝞽
+\\mbfitsansTheta                        <Char-0x1D797>      " 𝞗
+\\mbfitsanstheta                        <Char-0x1D7B1>      " 𝞱
+\\mbfitsansU                            <Char-0x1D650>      " 𝙐
+\\mbfitsansu                            <Char-0x1D66A>      " 𝙪
+\\mbfitsansUpsilon                      <Char-0x1D7A4>      " 𝞤
+\\mbfitsansupsilon                      <Char-0x1D7BE>      " 𝞾
+\\mbfitsansV                            <Char-0x1D651>      " 𝙑
+\\mbfitsansv                            <Char-0x1D66B>      " 𝙫
+\\mbfitsansvarepsilon                   <Char-0x1D7AE>      " 𝞮
+\\mbfitsansvarkappa                     <Char-0x1D7C6>      " 𝟆
+\\mbfitsansvarphi                       <Char-0x1D7BF>      " 𝞿
+\\mbfitsansvarpi                        <Char-0x1D7C9>      " 𝟉
+\\mbfitsansvarrho                       <Char-0x1D7C8>      " 𝟈
+\\mbfitsansvarsigma                     <Char-0x1D7BB>      " 𝞻
+\\mbfitsansvarTheta                     <Char-0x1D7A1>      " 𝞡
+\\mbfitsansvartheta                     <Char-0x1D7C5>      " 𝟅
+\\mbfitsansW                            <Char-0x1D652>      " 𝙒
+\\mbfitsansw                            <Char-0x1D66C>      " 𝙬
+\\mbfitsansX                            <Char-0x1D653>      " 𝙓
+\\mbfitsansx                            <Char-0x1D66D>      " 𝙭
+\\mbfitsansXi                           <Char-0x1D79D>      " 𝞝
+\\mbfitsansxi                           <Char-0x1D7B7>      " 𝞷
+\\mbfitsansY                            <Char-0x1D654>      " 𝙔
+\\mbfitsansy                            <Char-0x1D66E>      " 𝙮
+\\mbfitsansZ                            <Char-0x1D655>      " 𝙕
+\\mbfitsansz                            <Char-0x1D66F>      " 𝙯
+\\mbfitsansZeta                         <Char-0x1D795>      " 𝞕
+\\mbfitsanszeta                         <Char-0x1D7AF>      " 𝞯
+\\mbfitSigma                            <Char-0x1D72E>      " 𝜮
+\\mbfitsigma                            <Char-0x1D748>      " 𝝈
+\\mbfitT                                <Char-0x1D47B>      " 𝑻
+\\mbfitt                                <Char-0x1D495>      " 𝒕
+\\mbfitTau                              <Char-0x1D72F>      " 𝜯
+\\mbfittau                              <Char-0x1D749>      " 𝝉
+\\mbfitTheta                            <Char-0x1D723>      " 𝜣
+\\mbfittheta                            <Char-0x1D73D>      " 𝜽
+\\mbfitU                                <Char-0x1D47C>      " 𝑼
+\\mbfitu                                <Char-0x1D496>      " 𝒖
+\\mbfitUpsilon                          <Char-0x1D730>      " 𝜰
+\\mbfitupsilon                          <Char-0x1D74A>      " 𝝊
+\\mbfitV                                <Char-0x1D47D>      " 𝑽
+\\mbfitv                                <Char-0x1D497>      " 𝒗
+\\mbfitvarepsilon                       <Char-0x1D73A>      " 𝜺
+\\mbfitvarkappa                         <Char-0x1D752>      " 𝝒
+\\mbfitvarphi                           <Char-0x1D74B>      " 𝝋
+\\mbfitvarpi                            <Char-0x1D755>      " 𝝕
+\\mbfitvarrho                           <Char-0x1D754>      " 𝝔
+\\mbfitvarsigma                         <Char-0x1D747>      " 𝝇
+\\mbfitvarTheta                         <Char-0x1D72D>      " 𝜭
+\\mbfitvartheta                         <Char-0x1D751>      " 𝝑
+\\mbfitW                                <Char-0x1D47E>      " 𝑾
+\\mbfitw                                <Char-0x1D498>      " 𝒘
+\\mbfitX                                <Char-0x1D47F>      " 𝑿
+\\mbfitx                                <Char-0x1D499>      " 𝒙
+\\mbfitXi                               <Char-0x1D729>      " 𝜩
+\\mbfitxi                               <Char-0x1D743>      " 𝝃
+\\mbfitY                                <Char-0x1D480>      " 𝒀
+\\mbfity                                <Char-0x1D49A>      " 𝒚
+\\mbfitZ                                <Char-0x1D481>      " 𝒁
+\\mbfitz                                <Char-0x1D49B>      " 𝒛
+\\mbfitZeta                             <Char-0x1D721>      " 𝜡
+\\mbfitzeta                             <Char-0x1D73B>      " 𝜻
+\\mbfJ                                  <Char-0x1D409>      " 𝐉
+\\mbfj                                  <Char-0x1D423>      " 𝐣
+\\mbfK                                  <Char-0x1D40A>      " 𝐊
+\\mbfk                                  <Char-0x1D424>      " 𝐤
+\\mbfKappa                              <Char-0x1D6B1>      " 𝚱
+\\mbfkappa                              <Char-0x1D6CB>      " 𝛋
+\\mbfL                                  <Char-0x1D40B>      " 𝐋
+\\mbfl                                  <Char-0x1D425>      " 𝐥
+\\mbfLambda                             <Char-0x1D6B2>      " 𝚲
+\\mbflambda                             <Char-0x1D6CC>      " 𝛌
+\\mbfM                                  <Char-0x1D40C>      " 𝐌
+\\mbfm                                  <Char-0x1D426>      " 𝐦
+\\mbfMu                                 <Char-0x1D6B3>      " 𝚳
+\\mbfmu                                 <Char-0x1D6CD>      " 𝛍
+\\mbfN                                  <Char-0x1D40D>      " 𝐍
+\\mbfn                                  <Char-0x1D427>      " 𝐧
+\\mbfnabla                              <Char-0x1D6C1>      " 𝛁
+\\mbfnine                               <Char-0x1D7D7>      " 𝟗
+\\mbfNu                                 <Char-0x1D6B4>      " 𝚴
+\\mbfnu                                 <Char-0x1D6CE>      " 𝛎
+\\mbfO                                  <Char-0x1D40E>      " 𝐎
+\\mbfo                                  <Char-0x1D428>      " 𝐨
+\\mbfOmega                              <Char-0x1D6C0>      " 𝛀
+\\mbfomega                              <Char-0x1D6DA>      " 𝛚
+\\mbfOmicron                            <Char-0x1D6B6>      " 𝚶
+\\mbfomicron                            <Char-0x1D6D0>      " 𝛐
+\\mbfone                                <Char-0x1D7CF>      " 𝟏
+\\mbfP                                  <Char-0x1D40F>      " 𝐏
+\\mbfp                                  <Char-0x1D429>      " 𝐩
+\\mbfpartial                            <Char-0x1D6DB>      " 𝛛
+\\mbfPhi                                <Char-0x1D6BD>      " 𝚽
+\\mbfphi                                <Char-0x1D6DF>      " 𝛟
+\\mbfPi                                 <Char-0x1D6B7>      " 𝚷
+\\mbfpi                                 <Char-0x1D6D1>      " 𝛑
+\\mbfPsi                                <Char-0x1D6BF>      " 𝚿
+\\mbfpsi                                <Char-0x1D6D9>      " 𝛙
+\\mbfQ                                  <Char-0x1D410>      " 𝐐
+\\mbfq                                  <Char-0x1D42A>      " 𝐪
+\\mbfR                                  <Char-0x1D411>      " 𝐑
+\\mbfr                                  <Char-0x1D42B>      " 𝐫
+\\mbfRho                                <Char-0x1D6B8>      " 𝚸
+\\mbfrho                                <Char-0x1D6D2>      " 𝛒
+\\mbfS                                  <Char-0x1D412>      " 𝐒
+\\mbfs                                  <Char-0x1D42C>      " 𝐬
+\\mbfsansA                              <Char-0x1D5D4>      " 𝗔
+\\mbfsansa                              <Char-0x1D5EE>      " 𝗮
+\\mbfsansAlpha                          <Char-0x1D756>      " 𝝖
+\\mbfsansalpha                          <Char-0x1D770>      " 𝝰
+\\mbfsansB                              <Char-0x1D5D5>      " 𝗕
+\\mbfsansb                              <Char-0x1D5EF>      " 𝗯
+\\mbfsansBeta                           <Char-0x1D757>      " 𝝗
+\\mbfsansbeta                           <Char-0x1D771>      " 𝝱
+\\mbfsansC                              <Char-0x1D5D6>      " 𝗖
+\\mbfsansc                              <Char-0x1D5F0>      " 𝗰
+\\mbfsansChi                            <Char-0x1D76C>      " 𝝬
+\\mbfsanschi                            <Char-0x1D786>      " 𝞆
+\\mbfsansD                              <Char-0x1D5D7>      " 𝗗
+\\mbfsansd                              <Char-0x1D5F1>      " 𝗱
+\\mbfsansDelta                          <Char-0x1D759>      " 𝝙
+\\mbfsansdelta                          <Char-0x1D773>      " 𝝳
+\\mbfsansE                              <Char-0x1D5D8>      " 𝗘
+\\mbfsanse                              <Char-0x1D5F2>      " 𝗲
+\\mbfsanseight                          <Char-0x1D7F4>      " 𝟴
+\\mbfsansEpsilon                        <Char-0x1D75A>      " 𝝚
+\\mbfsansepsilon                        <Char-0x1D78A>      " 𝞊
+\\mbfsansEta                            <Char-0x1D75C>      " 𝝜
+\\mbfsanseta                            <Char-0x1D776>      " 𝝶
+\\mbfsansF                              <Char-0x1D5D9>      " 𝗙
+\\mbfsansf                              <Char-0x1D5F3>      " 𝗳
+\\mbfsansfive                           <Char-0x1D7F1>      " 𝟱
+\\mbfsansfour                           <Char-0x1D7F0>      " 𝟰
+\\mbfsansG                              <Char-0x1D5DA>      " 𝗚
+\\mbfsansg                              <Char-0x1D5F4>      " 𝗴
+\\mbfsansGamma                          <Char-0x1D758>      " 𝝘
+\\mbfsansgamma                          <Char-0x1D772>      " 𝝲
+\\mbfsansH                              <Char-0x1D5DB>      " 𝗛
+\\mbfsansh                              <Char-0x1D5F5>      " 𝗵
+\\mbfsansI                              <Char-0x1D5DC>      " 𝗜
+\\mbfsansi                              <Char-0x1D5F6>      " 𝗶
+\\mbfsansIota                           <Char-0x1D75E>      " 𝝞
+\\mbfsansiota                           <Char-0x1D778>      " 𝝸
+\\mbfsansJ                              <Char-0x1D5DD>      " 𝗝
+\\mbfsansj                              <Char-0x1D5F7>      " 𝗷
+\\mbfsansK                              <Char-0x1D5DE>      " 𝗞
+\\mbfsansk                              <Char-0x1D5F8>      " 𝗸
+\\mbfsansKappa                          <Char-0x1D75F>      " 𝝟
+\\mbfsanskappa                          <Char-0x1D779>      " 𝝹
+\\mbfsansL                              <Char-0x1D5DF>      " 𝗟
+\\mbfsansl                              <Char-0x1D5F9>      " 𝗹
+\\mbfsansLambda                         <Char-0x1D760>      " 𝝠
+\\mbfsanslambda                         <Char-0x1D77A>      " 𝝺
+\\mbfsansM                              <Char-0x1D5E0>      " 𝗠
+\\mbfsansm                              <Char-0x1D5FA>      " 𝗺
+\\mbfsansMu                             <Char-0x1D761>      " 𝝡
+\\mbfsansmu                             <Char-0x1D77B>      " 𝝻
+\\mbfsansN                              <Char-0x1D5E1>      " 𝗡
+\\mbfsansn                              <Char-0x1D5FB>      " 𝗻
+\\mbfsansnabla                          <Char-0x1D76F>      " 𝝯
+\\mbfsansnine                           <Char-0x1D7F5>      " 𝟵
+\\mbfsansNu                             <Char-0x1D762>      " 𝝢
+\\mbfsansnu                             <Char-0x1D77C>      " 𝝼
+\\mbfsansO                              <Char-0x1D5E2>      " 𝗢
+\\mbfsanso                              <Char-0x1D5FC>      " 𝗼
+\\mbfsansOmega                          <Char-0x1D76E>      " 𝝮
+\\mbfsansomega                          <Char-0x1D788>      " 𝞈
+\\mbfsansOmicron                        <Char-0x1D764>      " 𝝤
+\\mbfsansomicron                        <Char-0x1D77E>      " 𝝾
+\\mbfsansone                            <Char-0x1D7ED>      " 𝟭
+\\mbfsansP                              <Char-0x1D5E3>      " 𝗣
+\\mbfsansp                              <Char-0x1D5FD>      " 𝗽
+\\mbfsanspartial                        <Char-0x1D789>      " 𝞉
+\\mbfsansPhi                            <Char-0x1D76B>      " 𝝫
+\\mbfsansphi                            <Char-0x1D78D>      " 𝞍
+\\mbfsansPi                             <Char-0x1D765>      " 𝝥
+\\mbfsanspi                             <Char-0x1D77F>      " 𝝿
+\\mbfsansPsi                            <Char-0x1D76D>      " 𝝭
+\\mbfsanspsi                            <Char-0x1D787>      " 𝞇
+\\mbfsansQ                              <Char-0x1D5E4>      " 𝗤
+\\mbfsansq                              <Char-0x1D5FE>      " 𝗾
+\\mbfsansR                              <Char-0x1D5E5>      " 𝗥
+\\mbfsansr                              <Char-0x1D5FF>      " 𝗿
+\\mbfsansRho                            <Char-0x1D766>      " 𝝦
+\\mbfsansrho                            <Char-0x1D780>      " 𝞀
+\\mbfsansS                              <Char-0x1D5E6>      " 𝗦
+\\mbfsanss                              <Char-0x1D600>      " 𝘀
+\\mbfsansseven                          <Char-0x1D7F3>      " 𝟳
+\\mbfsansSigma                          <Char-0x1D768>      " 𝝨
+\\mbfsanssigma                          <Char-0x1D782>      " 𝞂
+\\mbfsanssix                            <Char-0x1D7F2>      " 𝟲
+\\mbfsansT                              <Char-0x1D5E7>      " 𝗧
+\\mbfsanst                              <Char-0x1D601>      " 𝘁
+\\mbfsansTau                            <Char-0x1D769>      " 𝝩
+\\mbfsanstau                            <Char-0x1D783>      " 𝞃
+\\mbfsansTheta                          <Char-0x1D75D>      " 𝝝
+\\mbfsanstheta                          <Char-0x1D777>      " 𝝷
+\\mbfsansthree                          <Char-0x1D7EF>      " 𝟯
+\\mbfsanstwo                            <Char-0x1D7EE>      " 𝟮
+\\mbfsansU                              <Char-0x1D5E8>      " 𝗨
+\\mbfsansu                              <Char-0x1D602>      " 𝘂
+\\mbfsansUpsilon                        <Char-0x1D76A>      " 𝝪
+\\mbfsansupsilon                        <Char-0x1D784>      " 𝞄
+\\mbfsansV                              <Char-0x1D5E9>      " 𝗩
+\\mbfsansv                              <Char-0x1D603>      " 𝘃
+\\mbfsansvarepsilon                     <Char-0x1D774>      " 𝝴
+\\mbfsansvarkappa                       <Char-0x1D78C>      " 𝞌
+\\mbfsansvarphi                         <Char-0x1D785>      " 𝞅
+\\mbfsansvarpi                          <Char-0x1D78F>      " 𝞏
+\\mbfsansvarrho                         <Char-0x1D78E>      " 𝞎
+\\mbfsansvarsigma                       <Char-0x1D781>      " 𝞁
+\\mbfsansvarTheta                       <Char-0x1D767>      " 𝝧
+\\mbfsansvartheta                       <Char-0x1D78B>      " 𝞋
+\\mbfsansW                              <Char-0x1D5EA>      " 𝗪
+\\mbfsansw                              <Char-0x1D604>      " 𝘄
+\\mbfsansX                              <Char-0x1D5EB>      " 𝗫
+\\mbfsansx                              <Char-0x1D605>      " 𝘅
+\\mbfsansXi                             <Char-0x1D763>      " 𝝣
+\\mbfsansxi                             <Char-0x1D77D>      " 𝝽
+\\mbfsansY                              <Char-0x1D5EC>      " 𝗬
+\\mbfsansy                              <Char-0x1D606>      " 𝘆
+\\mbfsansZ                              <Char-0x1D5ED>      " 𝗭
+\\mbfsansz                              <Char-0x1D607>      " 𝘇
+\\mbfsanszero                           <Char-0x1D7EC>      " 𝟬
+\\mbfsansZeta                           <Char-0x1D75B>      " 𝝛
+\\mbfsanszeta                           <Char-0x1D775>      " 𝝵
+\\mbfscrA                               <Char-0x1D4D0>      " 𝓐
+\\mbfscra                               <Char-0x1D4EA>      " 𝓪
+\\mbfscrB                               <Char-0x1D4D1>      " 𝓑
+\\mbfscrb                               <Char-0x1D4EB>      " 𝓫
+\\mbfscrC                               <Char-0x1D4D2>      " 𝓒
+\\mbfscrc                               <Char-0x1D4EC>      " 𝓬
+\\mbfscrD                               <Char-0x1D4D3>      " 𝓓
+\\mbfscrd                               <Char-0x1D4ED>      " 𝓭
+\\mbfscrE                               <Char-0x1D4D4>      " 𝓔
+\\mbfscre                               <Char-0x1D4EE>      " 𝓮
+\\mbfscrF                               <Char-0x1D4D5>      " 𝓕
+\\mbfscrf                               <Char-0x1D4EF>      " 𝓯
+\\mbfscrG                               <Char-0x1D4D6>      " 𝓖
+\\mbfscrg                               <Char-0x1D4F0>      " 𝓰
+\\mbfscrH                               <Char-0x1D4D7>      " 𝓗
+\\mbfscrh                               <Char-0x1D4F1>      " 𝓱
+\\mbfscrI                               <Char-0x1D4D8>      " 𝓘
+\\mbfscri                               <Char-0x1D4F2>      " 𝓲
+\\mbfscrJ                               <Char-0x1D4D9>      " 𝓙
+\\mbfscrj                               <Char-0x1D4F3>      " 𝓳
+\\mbfscrK                               <Char-0x1D4DA>      " 𝓚
+\\mbfscrk                               <Char-0x1D4F4>      " 𝓴
+\\mbfscrL                               <Char-0x1D4DB>      " 𝓛
+\\mbfscrl                               <Char-0x1D4F5>      " 𝓵
+\\mbfscrM                               <Char-0x1D4DC>      " 𝓜
+\\mbfscrm                               <Char-0x1D4F6>      " 𝓶
+\\mbfscrN                               <Char-0x1D4DD>      " 𝓝
+\\mbfscrn                               <Char-0x1D4F7>      " 𝓷
+\\mbfscrO                               <Char-0x1D4DE>      " 𝓞
+\\mbfscro                               <Char-0x1D4F8>      " 𝓸
+\\mbfscrP                               <Char-0x1D4DF>      " 𝓟
+\\mbfscrp                               <Char-0x1D4F9>      " 𝓹
+\\mbfscrQ                               <Char-0x1D4E0>      " 𝓠
+\\mbfscrq                               <Char-0x1D4FA>      " 𝓺
+\\mbfscrR                               <Char-0x1D4E1>      " 𝓡
+\\mbfscrr                               <Char-0x1D4FB>      " 𝓻
+\\mbfscrS                               <Char-0x1D4E2>      " 𝓢
+\\mbfscrs                               <Char-0x1D4FC>      " 𝓼
+\\mbfscrT                               <Char-0x1D4E3>      " 𝓣
+\\mbfscrt                               <Char-0x1D4FD>      " 𝓽
+\\mbfscrU                               <Char-0x1D4E4>      " 𝓤
+\\mbfscru                               <Char-0x1D4FE>      " 𝓾
+\\mbfscrV                               <Char-0x1D4E5>      " 𝓥
+\\mbfscrv                               <Char-0x1D4FF>      " 𝓿
+\\mbfscrW                               <Char-0x1D4E6>      " 𝓦
+\\mbfscrw                               <Char-0x1D500>      " 𝔀
+\\mbfscrX                               <Char-0x1D4E7>      " 𝓧
+\\mbfscrx                               <Char-0x1D501>      " 𝔁
+\\mbfscrY                               <Char-0x1D4E8>      " 𝓨
+\\mbfscry                               <Char-0x1D502>      " 𝔂
+\\mbfscrZ                               <Char-0x1D4E9>      " 𝓩
+\\mbfscrz                               <Char-0x1D503>      " 𝔃
+\\mbfseven                              <Char-0x1D7D5>      " 𝟕
+\\mbfSigma                              <Char-0x1D6BA>      " 𝚺
+\\mbfsigma                              <Char-0x1D6D4>      " 𝛔
+\\mbfsix                                <Char-0x1D7D4>      " 𝟔
+\\mbfT                                  <Char-0x1D413>      " 𝐓
+\\mbft                                  <Char-0x1D42D>      " 𝐭
+\\mbfTau                                <Char-0x1D6BB>      " 𝚻
+\\mbftau                                <Char-0x1D6D5>      " 𝛕
+\\mbfTheta                              <Char-0x1D6AF>      " 𝚯
+\\mbftheta                              <Char-0x1D6C9>      " 𝛉
+\\mbfthree                              <Char-0x1D7D1>      " 𝟑
+\\mbftwo                                <Char-0x1D7D0>      " 𝟐
+\\mbfU                                  <Char-0x1D414>      " 𝐔
+\\mbfu                                  <Char-0x1D42E>      " 𝐮
+\\mbfUpsilon                            <Char-0x1D6BC>      " 𝚼
+\\mbfupsilon                            <Char-0x1D6D6>      " 𝛖
+\\mbfV                                  <Char-0x1D415>      " 𝐕
+\\mbfv                                  <Char-0x1D42F>      " 𝐯
+\\mbfvarepsilon                         <Char-0x1D6C6>      " 𝛆
+\\mbfvarkappa                           <Char-0x1D6DE>      " 𝛞
+\\mbfvarphi                             <Char-0x1D6D7>      " 𝛗
+\\mbfvarpi                              <Char-0x1D6E1>      " 𝛡
+\\mbfvarrho                             <Char-0x1D6E0>      " 𝛠
+\\mbfvarsigma                           <Char-0x1D6D3>      " 𝛓
+\\mbfvarTheta                           <Char-0x1D6B9>      " 𝚹
+\\mbfvartheta                           <Char-0x1D6DD>      " 𝛝
+\\mbfW                                  <Char-0x1D416>      " 𝐖
+\\mbfw                                  <Char-0x1D430>      " 𝐰
+\\mbfX                                  <Char-0x1D417>      " 𝐗
+\\mbfx                                  <Char-0x1D431>      " 𝐱
+\\mbfXi                                 <Char-0x1D6B5>      " 𝚵
+\\mbfxi                                 <Char-0x1D6CF>      " 𝛏
+\\mbfY                                  <Char-0x1D418>      " 𝐘
+\\mbfy                                  <Char-0x1D432>      " 𝐲
+\\mbfZ                                  <Char-0x1D419>      " 𝐙
+\\mbfz                                  <Char-0x1D433>      " 𝐳
+\\mbfzero                               <Char-0x1D7CE>      " 𝟎
+\\mbfZeta                               <Char-0x1D6AD>      " 𝚭
+\\mbfzeta                               <Char-0x1D6C7>      " 𝛇
+\\mdblkcircle                           <Char-0x026AB>      " ⚫
+\\mdblkdiamond                          <Char-0x02B25>      " ⬥
+\\mdblklozenge                          <Char-0x02B27>      " ⬧
+\\mdblksquare                           <Char-0x025FC>      " ◼
+\\mdlgblkcircle                         <Char-0x025CF>      " ●
+\\mdlgblkdiamond                        <Char-0x025C6>      " ◆
+\\mdlgblklozenge                        <Char-0x029EB>      " ⧫
+\\mdlgblksquare                         <Char-0x025A0>      " ■
+\\mdlgwhtcircle                         <Char-0x025CB>      " ○
+\\mdlgwhtdiamond                        <Char-0x025C7>      " ◇
+\\mdlgwhtlozenge                        <Char-0x025CA>      " ◊
+\\mdlgwhtsquare                         <Char-0x025A1>      " □
+\\mdsmblkcircle                         <Char-0x02981>      " ⦁
+\\mdsmblksquare                         <Char-0x025FE>      " ◾
+\\mdsmwhtcircle                         <Char-0x026AC>      " ⚬
+\\mdsmwhtsquare                         <Char-0x025FD>      " ◽
+\\mdwhtcircle                           <Char-0x026AA>      " ⚪
+\\mdwhtdiamond                          <Char-0x02B26>      " ⬦
+\\mdwhtlozenge                          <Char-0x02B28>      " ⬨
+\\mdwhtsquare                           <Char-0x025FB>      " ◻
+\\measangledltosw                       <Char-0x029AF>      " ⦯
+\\measangledrtose                       <Char-0x029AE>      " ⦮
+\\measangleldtosw                       <Char-0x029AB>      " ⦫
+\\measanglelutonw                       <Char-0x029A9>      " ⦩
+\\measanglerdtose                       <Char-0x029AA>      " ⦪
+\\measanglerutone                       <Char-0x029A8>      " ⦨
+\\measangleultonw                       <Char-0x029AD>      " ⦭
+\\measangleurtone                       <Char-0x029AC>      " ⦬
+\\measeq                                <Char-0x0225E>      " ≞
+\\measuredangle                         <Char-0x02221>      " ∡
+\\measuredangleleft                     <Char-0x0299B>      " ⦛
+\\measuredrightangle                    <Char-0x022BE>      " ⊾
+\\medblackstar                          <Char-0x02B51>      " ⭑
+\\medwhitestar                          <Char-0x02B50>      " ⭐
+\\mfrakA                                <Char-0x1D504>      " 𝔄
+\\mfraka                                <Char-0x1D51E>      " 𝔞
+\\mfrakB                                <Char-0x1D505>      " 𝔅
+\\mfrakb                                <Char-0x1D51F>      " 𝔟
+\\mfrakC                                <Char-0x0212D>      " ℭ
+\\mfrakc                                <Char-0x1D520>      " 𝔠
+\\mfrakD                                <Char-0x1D507>      " 𝔇
+\\mfrakd                                <Char-0x1D521>      " 𝔡
+\\mfrakE                                <Char-0x1D508>      " 𝔈
+\\mfrake                                <Char-0x1D522>      " 𝔢
+\\mfrakF                                <Char-0x1D509>      " 𝔉
+\\mfrakf                                <Char-0x1D523>      " 𝔣
+\\mfrakG                                <Char-0x1D50A>      " 𝔊
+\\mfrakg                                <Char-0x1D524>      " 𝔤
+\\mfrakH                                <Char-0x0210C>      " ℌ
+\\mfrakh                                <Char-0x1D525>      " 𝔥
+\\mfraki                                <Char-0x1D526>      " 𝔦
+\\mfrakJ                                <Char-0x1D50D>      " 𝔍
+\\mfrakj                                <Char-0x1D527>      " 𝔧
+\\mfrakK                                <Char-0x1D50E>      " 𝔎
+\\mfrakk                                <Char-0x1D528>      " 𝔨
+\\mfrakL                                <Char-0x1D50F>      " 𝔏
+\\mfrakl                                <Char-0x1D529>      " 𝔩
+\\mfrakM                                <Char-0x1D510>      " 𝔐
+\\mfrakm                                <Char-0x1D52A>      " 𝔪
+\\mfrakN                                <Char-0x1D511>      " 𝔑
+\\mfrakn                                <Char-0x1D52B>      " 𝔫
+\\mfrakO                                <Char-0x1D512>      " 𝔒
+\\mfrako                                <Char-0x1D52C>      " 𝔬
+\\mfrakP                                <Char-0x1D513>      " 𝔓
+\\mfrakp                                <Char-0x1D52D>      " 𝔭
+\\mfrakQ                                <Char-0x1D514>      " 𝔔
+\\mfrakq                                <Char-0x1D52E>      " 𝔮
+\\mfrakr                                <Char-0x1D52F>      " 𝔯
+\\mfrakS                                <Char-0x1D516>      " 𝔖
+\\mfraks                                <Char-0x1D530>      " 𝔰
+\\mfrakT                                <Char-0x1D517>      " 𝔗
+\\mfrakt                                <Char-0x1D531>      " 𝔱
+\\mfrakU                                <Char-0x1D518>      " 𝔘
+\\mfraku                                <Char-0x1D532>      " 𝔲
+\\mfrakV                                <Char-0x1D519>      " 𝔙
+\\mfrakv                                <Char-0x1D533>      " 𝔳
+\\mfrakW                                <Char-0x1D51A>      " 𝔚
+\\mfrakw                                <Char-0x1D534>      " 𝔴
+\\mfrakX                                <Char-0x1D51B>      " 𝔛
+\\mfrakx                                <Char-0x1D535>      " 𝔵
+\\mfrakY                                <Char-0x1D51C>      " 𝔜
+\\mfraky                                <Char-0x1D536>      " 𝔶
+\\mfrakZ                                <Char-0x02128>      " ℨ
+\\mfrakz                                <Char-0x1D537>      " 𝔷
+\\mho                                   <Char-0x02127>      " ℧
+\\mid                                   <Char-0x02223>      " ∣
+\\midbarvee                             <Char-0x02A5D>      " ⩝
+\\midbarwedge                           <Char-0x02A5C>      " ⩜
+\\midcir                                <Char-0x02AF0>      " ⫰
+\\minus                                 <Char-0x02212>      " −
+\\minusdot                              <Char-0x02A2A>      " ⨪
+\\minusfdots                            <Char-0x02A2B>      " ⨫
+\\minusrdots                            <Char-0x02A2C>      " ⨬
+\\mitA                                  <Char-0x1D434>      " 𝐴
+\\mita                                  <Char-0x1D44E>      " 𝑎
+\\mitAlpha                              <Char-0x1D6E2>      " 𝛢
+\\mitalpha                              <Char-0x1D6FC>      " 𝛼
+\\mitB                                  <Char-0x1D435>      " 𝐵
+\\mitb                                  <Char-0x1D44F>      " 𝑏
+\\mitBbbD                               <Char-0x02145>      " ⅅ
+\\mitBbbd                               <Char-0x02146>      " ⅆ
+\\mitBbbe                               <Char-0x02147>      " ⅇ
+\\mitBbbi                               <Char-0x02148>      " ⅈ
+\\mitBbbj                               <Char-0x02149>      " ⅉ
+\\mitBeta                               <Char-0x1D6E3>      " 𝛣
+\\mitbeta                               <Char-0x1D6FD>      " 𝛽
+\\mitC                                  <Char-0x1D436>      " 𝐶
+\\mitc                                  <Char-0x1D450>      " 𝑐
+\\mitChi                                <Char-0x1D6F8>      " 𝛸
+\\mitchi                                <Char-0x1D712>      " 𝜒
+\\mitD                                  <Char-0x1D437>      " 𝐷
+\\mitd                                  <Char-0x1D451>      " 𝑑
+\\mitDelta                              <Char-0x1D6E5>      " 𝛥
+\\mitdelta                              <Char-0x1D6FF>      " 𝛿
+\\mitE                                  <Char-0x1D438>      " 𝐸
+\\mite                                  <Char-0x1D452>      " 𝑒
+\\mitEpsilon                            <Char-0x1D6E6>      " 𝛦
+\\mitepsilon                            <Char-0x1D716>      " 𝜖
+\\mitEta                                <Char-0x1D6E8>      " 𝛨
+\\miteta                                <Char-0x1D702>      " 𝜂
+\\mitF                                  <Char-0x1D439>      " 𝐹
+\\mitf                                  <Char-0x1D453>      " 𝑓
+\\mitG                                  <Char-0x1D43A>      " 𝐺
+\\mitg                                  <Char-0x1D454>      " 𝑔
+\\mitGamma                              <Char-0x1D6E4>      " 𝛤
+\\mitgamma                              <Char-0x1D6FE>      " 𝛾
+\\mitH                                  <Char-0x1D43B>      " 𝐻
+\\mitI                                  <Char-0x1D43C>      " 𝐼
+\\miti                                  <Char-0x1D456>      " 𝑖
+\\mitIota                               <Char-0x1D6EA>      " 𝛪
+\\mitiota                               <Char-0x1D704>      " 𝜄
+\\mitJ                                  <Char-0x1D43D>      " 𝐽
+\\mitj                                  <Char-0x1D457>      " 𝑗
+\\mitK                                  <Char-0x1D43E>      " 𝐾
+\\mitk                                  <Char-0x1D458>      " 𝑘
+\\mitKappa                              <Char-0x1D6EB>      " 𝛫
+\\mitkappa                              <Char-0x1D705>      " 𝜅
+\\mitL                                  <Char-0x1D43F>      " 𝐿
+\\mitl                                  <Char-0x1D459>      " 𝑙
+\\mitLambda                             <Char-0x1D6EC>      " 𝛬
+\\mitlambda                             <Char-0x1D706>      " 𝜆
+\\mitM                                  <Char-0x1D440>      " 𝑀
+\\mitm                                  <Char-0x1D45A>      " 𝑚
+\\mitMu                                 <Char-0x1D6ED>      " 𝛭
+\\mitmu                                 <Char-0x1D707>      " 𝜇
+\\mitN                                  <Char-0x1D441>      " 𝑁
+\\mitn                                  <Char-0x1D45B>      " 𝑛
+\\mitnabla                              <Char-0x1D6FB>      " 𝛻
+\\mitNu                                 <Char-0x1D6EE>      " 𝛮
+\\mitnu                                 <Char-0x1D708>      " 𝜈
+\\mitO                                  <Char-0x1D442>      " 𝑂
+\\mito                                  <Char-0x1D45C>      " 𝑜
+\\mitOmega                              <Char-0x1D6FA>      " 𝛺
+\\mitomega                              <Char-0x1D714>      " 𝜔
+\\mitOmicron                            <Char-0x1D6F0>      " 𝛰
+\\mitomicron                            <Char-0x1D70A>      " 𝜊
+\\mitP                                  <Char-0x1D443>      " 𝑃
+\\mitp                                  <Char-0x1D45D>      " 𝑝
+\\mitpartial                            <Char-0x1D715>      " 𝜕
+\\mitPhi                                <Char-0x1D6F7>      " 𝛷
+\\mitphi                                <Char-0x1D719>      " 𝜙
+\\mitPi                                 <Char-0x1D6F1>      " 𝛱
+\\mitpi                                 <Char-0x1D70B>      " 𝜋
+\\mitPsi                                <Char-0x1D6F9>      " 𝛹
+\\mitpsi                                <Char-0x1D713>      " 𝜓
+\\mitQ                                  <Char-0x1D444>      " 𝑄
+\\mitq                                  <Char-0x1D45E>      " 𝑞
+\\mitR                                  <Char-0x1D445>      " 𝑅
+\\mitr                                  <Char-0x1D45F>      " 𝑟
+\\mitRho                                <Char-0x1D6F2>      " 𝛲
+\\mitrho                                <Char-0x1D70C>      " 𝜌
+\\mitS                                  <Char-0x1D446>      " 𝑆
+\\mits                                  <Char-0x1D460>      " 𝑠
+\\mitsansA                              <Char-0x1D608>      " 𝘈
+\\mitsansa                              <Char-0x1D622>      " 𝘢
+\\mitsansB                              <Char-0x1D609>      " 𝘉
+\\mitsansb                              <Char-0x1D623>      " 𝘣
+\\mitsansC                              <Char-0x1D60A>      " 𝘊
+\\mitsansc                              <Char-0x1D624>      " 𝘤
+\\mitsansD                              <Char-0x1D60B>      " 𝘋
+\\mitsansd                              <Char-0x1D625>      " 𝘥
+\\mitsansE                              <Char-0x1D60C>      " 𝘌
+\\mitsanse                              <Char-0x1D626>      " 𝘦
+\\mitsansF                              <Char-0x1D60D>      " 𝘍
+\\mitsansf                              <Char-0x1D627>      " 𝘧
+\\mitsansG                              <Char-0x1D60E>      " 𝘎
+\\mitsansg                              <Char-0x1D628>      " 𝘨
+\\mitsansH                              <Char-0x1D60F>      " 𝘏
+\\mitsansh                              <Char-0x1D629>      " 𝘩
+\\mitsansI                              <Char-0x1D610>      " 𝘐
+\\mitsansi                              <Char-0x1D62A>      " 𝘪
+\\mitsansJ                              <Char-0x1D611>      " 𝘑
+\\mitsansj                              <Char-0x1D62B>      " 𝘫
+\\mitsansK                              <Char-0x1D612>      " 𝘒
+\\mitsansk                              <Char-0x1D62C>      " 𝘬
+\\mitsansL                              <Char-0x1D613>      " 𝘓
+\\mitsansl                              <Char-0x1D62D>      " 𝘭
+\\mitsansM                              <Char-0x1D614>      " 𝘔
+\\mitsansm                              <Char-0x1D62E>      " 𝘮
+\\mitsansN                              <Char-0x1D615>      " 𝘕
+\\mitsansn                              <Char-0x1D62F>      " 𝘯
+\\mitsansO                              <Char-0x1D616>      " 𝘖
+\\mitsanso                              <Char-0x1D630>      " 𝘰
+\\mitsansP                              <Char-0x1D617>      " 𝘗
+\\mitsansp                              <Char-0x1D631>      " 𝘱
+\\mitsansQ                              <Char-0x1D618>      " 𝘘
+\\mitsansq                              <Char-0x1D632>      " 𝘲
+\\mitsansR                              <Char-0x1D619>      " 𝘙
+\\mitsansr                              <Char-0x1D633>      " 𝘳
+\\mitsansS                              <Char-0x1D61A>      " 𝘚
+\\mitsanss                              <Char-0x1D634>      " 𝘴
+\\mitsansT                              <Char-0x1D61B>      " 𝘛
+\\mitsanst                              <Char-0x1D635>      " 𝘵
+\\mitsansU                              <Char-0x1D61C>      " 𝘜
+\\mitsansu                              <Char-0x1D636>      " 𝘶
+\\mitsansV                              <Char-0x1D61D>      " 𝘝
+\\mitsansv                              <Char-0x1D637>      " 𝘷
+\\mitsansW                              <Char-0x1D61E>      " 𝘞
+\\mitsansw                              <Char-0x1D638>      " 𝘸
+\\mitsansX                              <Char-0x1D61F>      " 𝘟
+\\mitsansx                              <Char-0x1D639>      " 𝘹
+\\mitsansY                              <Char-0x1D620>      " 𝘠
+\\mitsansy                              <Char-0x1D63A>      " 𝘺
+\\mitsansZ                              <Char-0x1D621>      " 𝘡
+\\mitsansz                              <Char-0x1D63B>      " 𝘻
+\\mitSigma                              <Char-0x1D6F4>      " 𝛴
+\\mitsigma                              <Char-0x1D70E>      " 𝜎
+\\mitT                                  <Char-0x1D447>      " 𝑇
+\\mitt                                  <Char-0x1D461>      " 𝑡
+\\mitTau                                <Char-0x1D6F5>      " 𝛵
+\\mittau                                <Char-0x1D70F>      " 𝜏
+\\mitTheta                              <Char-0x1D6E9>      " 𝛩
+\\mittheta                              <Char-0x1D703>      " 𝜃
+\\mitU                                  <Char-0x1D448>      " 𝑈
+\\mitu                                  <Char-0x1D462>      " 𝑢
+\\mitUpsilon                            <Char-0x1D6F6>      " 𝛶
+\\mitupsilon                            <Char-0x1D710>      " 𝜐
+\\mitV                                  <Char-0x1D449>      " 𝑉
+\\mitv                                  <Char-0x1D463>      " 𝑣
+\\mitvarepsilon                         <Char-0x1D700>      " 𝜀
+\\mitvarkappa                           <Char-0x1D718>      " 𝜘
+\\mitvarphi                             <Char-0x1D711>      " 𝜑
+\\mitvarpi                              <Char-0x1D71B>      " 𝜛
+\\mitvarrho                             <Char-0x1D71A>      " 𝜚
+\\mitvarsigma                           <Char-0x1D70D>      " 𝜍
+\\mitvarTheta                           <Char-0x1D6F3>      " 𝛳
+\\mitvartheta                           <Char-0x1D717>      " 𝜗
+\\mitW                                  <Char-0x1D44A>      " 𝑊
+\\mitw                                  <Char-0x1D464>      " 𝑤
+\\mitX                                  <Char-0x1D44B>      " 𝑋
+\\mitx                                  <Char-0x1D465>      " 𝑥
+\\mitXi                                 <Char-0x1D6EF>      " 𝛯
+\\mitxi                                 <Char-0x1D709>      " 𝜉
+\\mitY                                  <Char-0x1D44C>      " 𝑌
+\\mity                                  <Char-0x1D466>      " 𝑦
+\\mitZ                                  <Char-0x1D44D>      " 𝑍
+\\mitz                                  <Char-0x1D467>      " 𝑧
+\\mitZeta                               <Char-0x1D6E7>      " 𝛧
+\\mitzeta                               <Char-0x1D701>      " 𝜁
+\\mlcp                                  <Char-0x02ADB>      " ⫛
+\\models                                <Char-0x022A7>      " ⊧
+\\modtwosum                             <Char-0x02A0A>      " ⨊
+\\mp                                    <Char-0x02213>      " ∓
+\\msansA                                <Char-0x1D5A0>      " 𝖠
+\\msansa                                <Char-0x1D5BA>      " 𝖺
+\\msansB                                <Char-0x1D5A1>      " 𝖡
+\\msansb                                <Char-0x1D5BB>      " 𝖻
+\\msansC                                <Char-0x1D5A2>      " 𝖢
+\\msansc                                <Char-0x1D5BC>      " 𝖼
+\\msansD                                <Char-0x1D5A3>      " 𝖣
+\\msansd                                <Char-0x1D5BD>      " 𝖽
+\\msansE                                <Char-0x1D5A4>      " 𝖤
+\\msanse                                <Char-0x1D5BE>      " 𝖾
+\\msanseight                            <Char-0x1D7EA>      " 𝟪
+\\msansF                                <Char-0x1D5A5>      " 𝖥
+\\msansf                                <Char-0x1D5BF>      " 𝖿
+\\msansfive                             <Char-0x1D7E7>      " 𝟧
+\\msansfour                             <Char-0x1D7E6>      " 𝟦
+\\msansG                                <Char-0x1D5A6>      " 𝖦
+\\msansg                                <Char-0x1D5C0>      " 𝗀
+\\msansH                                <Char-0x1D5A7>      " 𝖧
+\\msansh                                <Char-0x1D5C1>      " 𝗁
+\\msansI                                <Char-0x1D5A8>      " 𝖨
+\\msansi                                <Char-0x1D5C2>      " 𝗂
+\\msansJ                                <Char-0x1D5A9>      " 𝖩
+\\msansj                                <Char-0x1D5C3>      " 𝗃
+\\msansK                                <Char-0x1D5AA>      " 𝖪
+\\msansk                                <Char-0x1D5C4>      " 𝗄
+\\msansL                                <Char-0x1D5AB>      " 𝖫
+\\msansl                                <Char-0x1D5C5>      " 𝗅
+\\msansM                                <Char-0x1D5AC>      " 𝖬
+\\msansm                                <Char-0x1D5C6>      " 𝗆
+\\msansN                                <Char-0x1D5AD>      " 𝖭
+\\msansn                                <Char-0x1D5C7>      " 𝗇
+\\msansnine                             <Char-0x1D7EB>      " 𝟫
+\\msansO                                <Char-0x1D5AE>      " 𝖮
+\\msanso                                <Char-0x1D5C8>      " 𝗈
+\\msansone                              <Char-0x1D7E3>      " 𝟣
+\\msansP                                <Char-0x1D5AF>      " 𝖯
+\\msansp                                <Char-0x1D5C9>      " 𝗉
+\\msansQ                                <Char-0x1D5B0>      " 𝖰
+\\msansq                                <Char-0x1D5CA>      " 𝗊
+\\msansR                                <Char-0x1D5B1>      " 𝖱
+\\msansr                                <Char-0x1D5CB>      " 𝗋
+\\msansS                                <Char-0x1D5B2>      " 𝖲
+\\msanss                                <Char-0x1D5CC>      " 𝗌
+\\msansseven                            <Char-0x1D7E9>      " 𝟩
+\\msanssix                              <Char-0x1D7E8>      " 𝟨
+\\msansT                                <Char-0x1D5B3>      " 𝖳
+\\msanst                                <Char-0x1D5CD>      " 𝗍
+\\msansthree                            <Char-0x1D7E5>      " 𝟥
+\\msanstwo                              <Char-0x1D7E4>      " 𝟤
+\\msansU                                <Char-0x1D5B4>      " 𝖴
+\\msansu                                <Char-0x1D5CE>      " 𝗎
+\\msansV                                <Char-0x1D5B5>      " 𝖵
+\\msansv                                <Char-0x1D5CF>      " 𝗏
+\\msansW                                <Char-0x1D5B6>      " 𝖶
+\\msansw                                <Char-0x1D5D0>      " 𝗐
+\\msansX                                <Char-0x1D5B7>      " 𝖷
+\\msansx                                <Char-0x1D5D1>      " 𝗑
+\\msansY                                <Char-0x1D5B8>      " 𝖸
+\\msansy                                <Char-0x1D5D2>      " 𝗒
+\\msansZ                                <Char-0x1D5B9>      " 𝖹
+\\msansz                                <Char-0x1D5D3>      " 𝗓
+\\msanszero                             <Char-0x1D7E2>      " 𝟢
+\\mscrA                                 <Char-0x1D49C>      " 𝒜
+\\mscra                                 <Char-0x1D4B6>      " 𝒶
+\\mscrB                                 <Char-0x0212C>      " ℬ
+\\mscrb                                 <Char-0x1D4B7>      " 𝒷
+\\mscrC                                 <Char-0x1D49E>      " 𝒞
+\\mscrc                                 <Char-0x1D4B8>      " 𝒸
+\\mscrD                                 <Char-0x1D49F>      " 𝒟
+\\mscrd                                 <Char-0x1D4B9>      " 𝒹
+\\mscre                                 <Char-0x0212F>      " ℯ
+\\mscrE                                 <Char-0x02130>      " ℰ
+\\mscrF                                 <Char-0x02131>      " ℱ
+\\mscrf                                 <Char-0x1D4BB>      " 𝒻
+\\mscrg                                 <Char-0x0210A>      " ℊ
+\\mscrG                                 <Char-0x1D4A2>      " 𝒢
+\\mscrH                                 <Char-0x0210B>      " ℋ
+\\mscrh                                 <Char-0x1D4BD>      " 𝒽
+\\mscrI                                 <Char-0x02110>      " ℐ
+\\mscri                                 <Char-0x1D4BE>      " 𝒾
+\\mscrJ                                 <Char-0x1D4A5>      " 𝒥
+\\mscrj                                 <Char-0x1D4BF>      " 𝒿
+\\mscrK                                 <Char-0x1D4A6>      " 𝒦
+\\mscrk                                 <Char-0x1D4C0>      " 𝓀
+\\mscrL                                 <Char-0x02112>      " ℒ
+\\mscrl                                 <Char-0x1D4C1>      " 𝓁
+\\mscrM                                 <Char-0x02133>      " ℳ
+\\mscrm                                 <Char-0x1D4C2>      " 𝓂
+\\mscrN                                 <Char-0x1D4A9>      " 𝒩
+\\mscrn                                 <Char-0x1D4C3>      " 𝓃
+\\mscro                                 <Char-0x02134>      " ℴ
+\\mscrO                                 <Char-0x1D4AA>      " 𝒪
+\\mscrP                                 <Char-0x1D4AB>      " 𝒫
+\\mscrp                                 <Char-0x1D4C5>      " 𝓅
+\\mscrQ                                 <Char-0x1D4AC>      " 𝒬
+\\mscrq                                 <Char-0x1D4C6>      " 𝓆
+\\mscrR                                 <Char-0x0211B>      " ℛ
+\\mscrr                                 <Char-0x1D4C7>      " 𝓇
+\\mscrS                                 <Char-0x1D4AE>      " 𝒮
+\\mscrs                                 <Char-0x1D4C8>      " 𝓈
+\\mscrT                                 <Char-0x1D4AF>      " 𝒯
+\\mscrt                                 <Char-0x1D4C9>      " 𝓉
+\\mscrU                                 <Char-0x1D4B0>      " 𝒰
+\\mscru                                 <Char-0x1D4CA>      " 𝓊
+\\mscrV                                 <Char-0x1D4B1>      " 𝒱
+\\mscrv                                 <Char-0x1D4CB>      " 𝓋
+\\mscrW                                 <Char-0x1D4B2>      " 𝒲
+\\mscrw                                 <Char-0x1D4CC>      " 𝓌
+\\mscrX                                 <Char-0x1D4B3>      " 𝒳
+\\mscrx                                 <Char-0x1D4CD>      " 𝓍
+\\mscrY                                 <Char-0x1D4B4>      " 𝒴
+\\mscry                                 <Char-0x1D4CE>      " 𝓎
+\\mscrZ                                 <Char-0x1D4B5>      " 𝒵
+\\mscrz                                 <Char-0x1D4CF>      " 𝓏
+\\mttA                                  <Char-0x1D670>      " 𝙰
+\\mtta                                  <Char-0x1D68A>      " 𝚊
+\\mttB                                  <Char-0x1D671>      " 𝙱
+\\mttb                                  <Char-0x1D68B>      " 𝚋
+\\mttC                                  <Char-0x1D672>      " 𝙲
+\\mttc                                  <Char-0x1D68C>      " 𝚌
+\\mttD                                  <Char-0x1D673>      " 𝙳
+\\mttd                                  <Char-0x1D68D>      " 𝚍
+\\mttE                                  <Char-0x1D674>      " 𝙴
+\\mtte                                  <Char-0x1D68E>      " 𝚎
+\\mtteight                              <Char-0x1D7FE>      " 𝟾
+\\mttF                                  <Char-0x1D675>      " 𝙵
+\\mttf                                  <Char-0x1D68F>      " 𝚏
+\\mttfive                               <Char-0x1D7FB>      " 𝟻
+\\mttfour                               <Char-0x1D7FA>      " 𝟺
+\\mttG                                  <Char-0x1D676>      " 𝙶
+\\mttg                                  <Char-0x1D690>      " 𝚐
+\\mttH                                  <Char-0x1D677>      " 𝙷
+\\mtth                                  <Char-0x1D691>      " 𝚑
+\\mttI                                  <Char-0x1D678>      " 𝙸
+\\mtti                                  <Char-0x1D692>      " 𝚒
+\\mttJ                                  <Char-0x1D679>      " 𝙹
+\\mttj                                  <Char-0x1D693>      " 𝚓
+\\mttK                                  <Char-0x1D67A>      " 𝙺
+\\mttk                                  <Char-0x1D694>      " 𝚔
+\\mttL                                  <Char-0x1D67B>      " 𝙻
+\\mttl                                  <Char-0x1D695>      " 𝚕
+\\mttM                                  <Char-0x1D67C>      " 𝙼
+\\mttm                                  <Char-0x1D696>      " 𝚖
+\\mttN                                  <Char-0x1D67D>      " 𝙽
+\\mttn                                  <Char-0x1D697>      " 𝚗
+\\mttnine                               <Char-0x1D7FF>      " 𝟿
+\\mttO                                  <Char-0x1D67E>      " 𝙾
+\\mtto                                  <Char-0x1D698>      " 𝚘
+\\mttone                                <Char-0x1D7F7>      " 𝟷
+\\mttP                                  <Char-0x1D67F>      " 𝙿
+\\mttp                                  <Char-0x1D699>      " 𝚙
+\\mttQ                                  <Char-0x1D680>      " 𝚀
+\\mttq                                  <Char-0x1D69A>      " 𝚚
+\\mttR                                  <Char-0x1D681>      " 𝚁
+\\mttr                                  <Char-0x1D69B>      " 𝚛
+\\mttS                                  <Char-0x1D682>      " 𝚂
+\\mtts                                  <Char-0x1D69C>      " 𝚜
+\\mttseven                              <Char-0x1D7FD>      " 𝟽
+\\mttsix                                <Char-0x1D7FC>      " 𝟼
+\\mttT                                  <Char-0x1D683>      " 𝚃
+\\mttt                                  <Char-0x1D69D>      " 𝚝
+\\mttthree                              <Char-0x1D7F9>      " 𝟹
+\\mtttwo                                <Char-0x1D7F8>      " 𝟸
+\\mttU                                  <Char-0x1D684>      " 𝚄
+\\mttu                                  <Char-0x1D69E>      " 𝚞
+\\mttV                                  <Char-0x1D685>      " 𝚅
+\\mttv                                  <Char-0x1D69F>      " 𝚟
+\\mttW                                  <Char-0x1D686>      " 𝚆
+\\mttw                                  <Char-0x1D6A0>      " 𝚠
+\\mttX                                  <Char-0x1D687>      " 𝚇
+\\mttx                                  <Char-0x1D6A1>      " 𝚡
+\\mttY                                  <Char-0x1D688>      " 𝚈
+\\mtty                                  <Char-0x1D6A2>      " 𝚢
+\\mttZ                                  <Char-0x1D689>      " 𝚉
+\\mttz                                  <Char-0x1D6A3>      " 𝚣
+\\mttzero                               <Char-0x1D7F6>      " 𝟶
+\\Mu                                    <Char-0x0039C>      " Μ
+\\mu                                    <Char-0x003BC>      " μ
+\\multimap                              <Char-0x022B8>      " ⊸
+\\multimapinv                           <Char-0x027DC>      " ⟜
+\\mupAlpha                              <Char-0x00391>      " Α
+\\mupalpha                              <Char-0x003B1>      " α
+\\mupBeta                               <Char-0x00392>      " Β
+\\mupbeta                               <Char-0x003B2>      " β
+\\mupChi                                <Char-0x003A7>      " Χ
+\\mupchi                                <Char-0x003C7>      " χ
+\\mupDelta                              <Char-0x00394>      " Δ
+\\mupdelta                              <Char-0x003B4>      " δ
+\\mupEpsilon                            <Char-0x00395>      " Ε
+\\mupepsilon                            <Char-0x003F5>      " ϵ
+\\mupEta                                <Char-0x00397>      " Η
+\\mupeta                                <Char-0x003B7>      " η
+\\mupGamma                              <Char-0x00393>      " Γ
+\\mupgamma                              <Char-0x003B3>      " γ
+\\mupIota                               <Char-0x00399>      " Ι
+\\mupiota                               <Char-0x003B9>      " ι
+\\mupKappa                              <Char-0x0039A>      " Κ
+\\mupkappa                              <Char-0x003BA>      " κ
+\\mupLambda                             <Char-0x0039B>      " Λ
+\\muplambda                             <Char-0x003BB>      " λ
+\\mupMu                                 <Char-0x0039C>      " Μ
+\\mupmu                                 <Char-0x003BC>      " μ
+\\mupNu                                 <Char-0x0039D>      " Ν
+\\mupnu                                 <Char-0x003BD>      " ν
+\\mupOmega                              <Char-0x003A9>      " Ω
+\\mupomega                              <Char-0x003C9>      " ω
+\\mupOmicron                            <Char-0x0039F>      " Ο
+\\mupomicron                            <Char-0x003BF>      " ο
+\\mupPhi                                <Char-0x003A6>      " Φ
+\\mupphi                                <Char-0x003D5>      " ϕ
+\\mupPi                                 <Char-0x003A0>      " Π
+\\muppi                                 <Char-0x003C0>      " π
+\\mupPsi                                <Char-0x003A8>      " Ψ
+\\muppsi                                <Char-0x003C8>      " ψ
+\\mupRho                                <Char-0x003A1>      " Ρ
+\\muprho                                <Char-0x003C1>      " ρ
+\\mupSigma                              <Char-0x003A3>      " Σ
+\\mupsigma                              <Char-0x003C3>      " σ
+\\mupTau                                <Char-0x003A4>      " Τ
+\\muptau                                <Char-0x003C4>      " τ
+\\mupTheta                              <Char-0x00398>      " Θ
+\\muptheta                              <Char-0x003B8>      " θ
+\\mupUpsilon                            <Char-0x003A5>      " Υ
+\\mupupsilon                            <Char-0x003C5>      " υ
+\\mupvarepsilon                         <Char-0x003B5>      " ε
+\\mupvarkappa                           <Char-0x003F0>      " ϰ
+\\mupvarphi                             <Char-0x003C6>      " φ
+\\mupvarpi                              <Char-0x003D6>      " ϖ
+\\mupvarrho                             <Char-0x003F1>      " ϱ
+\\mupvarsigma                           <Char-0x003C2>      " ς
+\\mupvartheta                           <Char-0x003D1>      " ϑ
+\\mupvarTheta                           <Char-0x003F4>      " ϴ
+\\mupXi                                 <Char-0x0039E>      " Ξ
+\\mupxi                                 <Char-0x003BE>      " ξ
+\\mupZeta                               <Char-0x00396>      " Ζ
+\\mupzeta                               <Char-0x003B6>      " ζ
+\\nabla                                 <Char-0x02207>      " ∇
+\\napprox                               <Char-0x02249>      " ≉
+\\nasymp                                <Char-0x0226D>      " ≭
+\\natural                               <Char-0x0266E>      " ♮
+\\ncong                                 <Char-0x02247>      " ≇
+\\ne                                    <Char-0x02260>      " ≠
+\\nearrow                               <Char-0x02197>      " ↗
+\\Nearrow                               <Char-0x021D7>      " ⇗
+\\neg                                   <Char-0x000AC>      " ¬
+\\neovnwarrow                           <Char-0x02931>      " ⤱
+\\neovsearrow                           <Char-0x0292E>      " ⤮
+\\neq                                   <Char-0x02260>      " ≠
+\\nequiv                                <Char-0x02262>      " ≢
+\\neswarrow                             <Char-0x02922>      " ⤢
+\\neuter                                <Char-0x026B2>      " ⚲
+\\nexists                               <Char-0x02204>      " ∄
+\\ngeq                                  <Char-0x02271>      " ≱
+\\ngtr                                  <Char-0x0226F>      " ≯
+\\ngtrless                              <Char-0x02279>      " ≹
+\\ngtrsim                               <Char-0x02275>      " ≵
+\\nHdownarrow                           <Char-0x021DF>      " ⇟
+\\nhpar                                 <Char-0x02AF2>      " ⫲
+\\nHuparrow                             <Char-0x021DE>      " ⇞
+\\nhVvert                               <Char-0x02AF5>      " ⫵
+\\ni                                    <Char-0x0220B>      " ∋
+\\niobar                                <Char-0x022FE>      " ⋾
+\\nis                                   <Char-0x022FC>      " ⋼
+\\nisd                                  <Char-0x022FA>      " ⋺
+\\nleftarrow                            <Char-0x0219A>      " ↚
+\\nLeftarrow                            <Char-0x021CD>      " ⇍
+\\nleftrightarrow                       <Char-0x021AE>      " ↮
+\\nLeftrightarrow                       <Char-0x021CE>      " ⇎
+\\nleq                                  <Char-0x02270>      " ≰
+\\nless                                 <Char-0x0226E>      " ≮
+\\nlessgtr                              <Char-0x02278>      " ≸
+\\nlesssim                              <Char-0x02274>      " ≴
+\\nmid                                  <Char-0x02224>      " ∤
+\\nni                                   <Char-0x0220C>      " ∌
+\\Not                                   <Char-0x02AEC>      " ⫬
+\\notaccent                             <Char-0x00338>      "  ̸
+\\notin                                 <Char-0x02209>      " ∉
+\\nparallel                             <Char-0x02226>      " ∦
+\\npolint                               <Char-0x02A14>      " ⨔
+\\nprec                                 <Char-0x02280>      " ⊀
+\\npreccurlyeq                          <Char-0x022E0>      " ⋠
+\\nrightarrow                           <Char-0x0219B>      " ↛
+\\nRightarrow                           <Char-0x021CF>      " ⇏
+\\nsim                                  <Char-0x02241>      " ≁
+\\nsime                                 <Char-0x02244>      " ≄
+\\nsimeq                                <Char-0x02244>      " ≄
+\\nsqsubseteq                           <Char-0x022E2>      " ⋢
+\\nsqsupseteq                           <Char-0x022E3>      " ⋣
+\\nsubset                               <Char-0x02284>      " ⊄
+\\nsubseteq                             <Char-0x02288>      " ⊈
+\\nsucc                                 <Char-0x02281>      " ⊁
+\\nsucccurlyeq                          <Char-0x022E1>      " ⋡
+\\nsupset                               <Char-0x02285>      " ⊅
+\\nsupseteq                             <Char-0x02289>      " ⊉
+\\ntrianglelefteq                       <Char-0x022EC>      " ⋬
+\\ntrianglerighteq                      <Char-0x022ED>      " ⋭
+\\Nu                                    <Char-0x0039D>      " Ν
+\\nu                                    <Char-0x003BD>      " ν
+\\nvartriangleleft                      <Char-0x022EA>      " ⋪
+\\nvartriangleright                     <Char-0x022EB>      " ⋫
+\\nvdash                                <Char-0x022AC>      " ⊬
+\\nvDash                                <Char-0x022AD>      " ⊭
+\\nVdash                                <Char-0x022AE>      " ⊮
+\\nVDash                                <Char-0x022AF>      " ⊯
+\\nvinfty                               <Char-0x029DE>      " ⧞
+\\nvleftarrow                           <Char-0x021F7>      " ⇷
+\\nVleftarrow                           <Char-0x021FA>      " ⇺
+\\nvLeftarrow                           <Char-0x02902>      " ⤂
+\\nvleftarrowtail                       <Char-0x02B39>      " ⬹
+\\nVleftarrowtail                       <Char-0x02B3A>      " ⬺
+\\nvleftrightarrow                      <Char-0x021F9>      " ⇹
+\\nVleftrightarrow                      <Char-0x021FC>      " ⇼
+\\nvLeftrightarrow                      <Char-0x02904>      " ⤄
+\\nvrightarrow                          <Char-0x021F8>      " ⇸
+\\nVrightarrow                          <Char-0x021FB>      " ⇻
+\\nvRightarrow                          <Char-0x02903>      " ⤃
+\\nvrightarrowtail                      <Char-0x02914>      " ⤔
+\\nVrightarrowtail                      <Char-0x02915>      " ⤕
+\\nvtwoheadleftarrow                    <Char-0x02B34>      " ⬴
+\\nVtwoheadleftarrow                    <Char-0x02B35>      " ⬵
+\\nvtwoheadleftarrowtail                <Char-0x02B3C>      " ⬼
+\\nVtwoheadleftarrowtail                <Char-0x02B3D>      " ⬽
+\\nvtwoheadrightarrow                   <Char-0x02900>      " ⤀
+\\nVtwoheadrightarrow                   <Char-0x02901>      " ⤁
+\\nvtwoheadrightarrowtail               <Char-0x02917>      " ⤗
+\\nVtwoheadrightarrowtail               <Char-0x02918>      " ⤘
+\\nwarrow                               <Char-0x02196>      " ↖
+\\Nwarrow                               <Char-0x021D6>      " ⇖
+\\nwovnearrow                           <Char-0x02932>      " ⤲
+\\nwsearrow                             <Char-0x02921>      " ⤡
+\\obar                                  <Char-0x0233D>      " ⌽
+\\obot                                  <Char-0x029BA>      " ⦺
+\\obrbrak                               <Char-0x023E0>      " ⏠
+\\obslash                               <Char-0x029B8>      " ⦸
+\\ocirc                                 <Char-0x0030A>      "  ̊
+\\ocommatopright                        <Char-0x00315>      "  ̕
+\\odiv                                  <Char-0x02A38>      " ⨸
+\\odot                                  <Char-0x02299>      " ⊙
+\\odotslashdot                          <Char-0x029BC>      " ⦼
+\\ogreaterthan                          <Char-0x029C1>      " ⧁
+\\oiiint                                <Char-0x02230>      " ∰
+\\oiint                                 <Char-0x0222F>      " ∯
+\\oint                                  <Char-0x0222E>      " ∮
+\\ointctrclockwise                      <Char-0x02233>      " ∳
+\\ointring                              <Char-0x020D8>      "  ⃘
+\\ointringclockwise                     <Char-0x020D9>      "  ⃙
+\\ointringctrclockwise                  <Char-0x020DA>      "  ⃚
+\\olcross                               <Char-0x029BB>      " ⦻
+\\olessthan                             <Char-0x029C0>      " ⧀
+\\Omega                                 <Char-0x003A9>      " Ω
+\\omega                                 <Char-0x003C9>      " ω
+\\Omicron                               <Char-0x0039F>      " Ο
+\\omicron                               <Char-0x003BF>      " ο
+\\ominus                                <Char-0x02296>      " ⊖
+\\operp                                 <Char-0x029B9>      " ⦹
+\\oplus                                 <Char-0x02295>      " ⊕
+\\opluslhrim                            <Char-0x02A2D>      " ⨭
+\\oplusrhrim                            <Char-0x02A2E>      " ⨮
+\\origof                                <Char-0x022B6>      " ⊶
+\\oslash                                <Char-0x02298>      " ⊘
+\\otimes                                <Char-0x02297>      " ⊗
+\\Otimes                                <Char-0x02A37>      " ⨷
+\\otimeshat                             <Char-0x02A36>      " ⨶
+\\otimeslhrim                           <Char-0x02A34>      " ⨴
+\\otimesrhrim                           <Char-0x02A35>      " ⨵
+\\oturnedcomma                          <Char-0x00312>      "  ̒
+\\overbar                               <Char-0x00305>      "  ̅
+\\overbrace                             <Char-0x023DE>      " ⏞
+\\overbracket                           <Char-0x023B4>      " ⎴
+\\overleftarrow                         <Char-0x020D6>      "  ⃖
+\\overleftharpoon                       <Char-0x020D0>      "  ⃐
+\\overleftrightarrow                    <Char-0x020E1>      "  ⃡
+\\overparen                             <Char-0x023DC>      " ⏜
+\\overrightarrow                        <Char-0x020D7>      "  ⃗
+\\overrightharpoon                      <Char-0x020D1>      "  ⃑
+\\ovhook                                <Char-0x00309>      "  ̉
+\\owns                                  <Char-0x0220B>      " ∋
+\\parallel                              <Char-0x02225>      " ∥
+\\parallelogram                         <Char-0x025B1>      " ▱
+\\parallelogramblack                    <Char-0x025B0>      " ▰
+\\parsim                                <Char-0x02AF3>      " ⫳
+\\partial                               <Char-0x02202>      " ∂
+\\partialmeetcontraction                <Char-0x02AA3>      " ⪣
+\\pentagon                              <Char-0x02B20>      " ⬠
+\\pentagonblack                         <Char-0x02B1F>      " ⬟
+\\perp                                  <Char-0x027C2>      " ⟂
+\\perps                                 <Char-0x02AE1>      " ⫡
+\\Phi                                   <Char-0x003A6>      " Φ
+\\phi                                   <Char-0x003D5>      " ϕ
+\\Pi                                    <Char-0x003A0>      " Π
+\\pi                                    <Char-0x003C0>      " π
+\\pitchfork                             <Char-0x022D4>      " ⋔
+\\Planckconst                           <Char-0x0210E>      " ℎ
+\\plusdot                               <Char-0x02A25>      " ⨥
+\\pluseqq                               <Char-0x02A72>      " ⩲
+\\plushat                               <Char-0x02A23>      " ⨣
+\\plussim                               <Char-0x02A26>      " ⨦
+\\plussubtwo                            <Char-0x02A27>      " ⨧
+\\plustrif                              <Char-0x02A28>      " ⨨
+\\pm                                    <Char-0x000B1>      " ±
+\\pointint                              <Char-0x02A15>      " ⨕
+\\postalmark                            <Char-0x03012>      " 〒
+\\prec                                  <Char-0x0227A>      " ≺
+\\Prec                                  <Char-0x02ABB>      " ⪻
+\\precapprox                            <Char-0x02AB7>      " ⪷
+\\preccurlyeq                           <Char-0x0227C>      " ≼
+\\preceq                                <Char-0x02AAF>      " ⪯
+\\preceqq                               <Char-0x02AB3>      " ⪳
+\\precnapprox                           <Char-0x02AB9>      " ⪹
+\\precneq                               <Char-0x02AB1>      " ⪱
+\\precneqq                              <Char-0x02AB5>      " ⪵
+\\precnsim                              <Char-0x022E8>      " ⋨
+\\precsim                               <Char-0x0227E>      " ≾
+\\prime                                 <Char-0x02032>      " ′
+\\prod                                  <Char-0x0220F>      " ∏
+\\profline                              <Char-0x02312>      " ⌒
+\\profsurf                              <Char-0x02313>      " ⌓
+\\PropertyLine                          <Char-0x0214A>      " ⅊
+\\propto                                <Char-0x0221D>      " ∝
+\\prurel                                <Char-0x022B0>      " ⊰
+\\Psi                                   <Char-0x003A8>      " Ψ
+\\psi                                   <Char-0x003C8>      " ψ
+\\pullback                              <Char-0x027D3>      " ⟓
+\\pushout                               <Char-0x027D4>      " ⟔
+\\QED                                   <Char-0x0220E>      " ∎
+\\qprime                                <Char-0x02057>      " ⁗
+\\quarternote                           <Char-0x02669>      " ♩
+\\questeq                               <Char-0x0225F>      " ≟
+\\Question                              <Char-0x02047>      " ⁇
+\\rangle                                <Char-0x027E9>      " ⟩
+\\rAngle                                <Char-0x027EB>      " ⟫
+\\rangledot                             <Char-0x02992>      " ⦒
+\\rangledownzigzagarrow                 <Char-0x0237C>      " ⍼
+\\rbag                                  <Char-0x027C6>      " ⟆
+\\rblkbrbrak                            <Char-0x02998>      " ⦘
+\\rbrace                                <Char-0x0007D>      " }
+\\rBrace                                <Char-0x02984>      " ⦄
+\\rbracelend                            <Char-0x023AD>      " ⎭
+\\rbracemid                             <Char-0x023AC>      " ⎬
+\\rbraceuend                            <Char-0x023AB>      " ⎫
+\\rbrack                                <Char-0x0005D>      " ]
+\\rBrack                                <Char-0x027E7>      " ⟧
+\\rbrackextender                        <Char-0x023A5>      " ⎥
+\\rbracklend                            <Char-0x023A6>      " ⎦
+\\rbracklrtick                          <Char-0x0298E>      " ⦎
+\\rbrackubar                            <Char-0x0298C>      " ⦌
+\\rbrackuend                            <Char-0x023A4>      " ⎤
+\\rbrackurtick                          <Char-0x02990>      " ⦐
+\\rbrbrak                               <Char-0x02773>      " ❳
+\\Rbrbrak                               <Char-0x027ED>      " ⟭
+\\rceil                                 <Char-0x02309>      " ⌉
+\\rcurvyangle                           <Char-0x029FD>      " ⧽
+\\rdiagovfdiag                          <Char-0x0292B>      " ⤫
+\\rdiagovsearrow                        <Char-0x02930>      " ⤰
+\\Rdsh                                  <Char-0x021B3>      " ↳
+\\Re                                    <Char-0x0211C>      " ℜ
+\\revangle                              <Char-0x029A3>      " ⦣
+\\revangleubar                          <Char-0x029A5>      " ⦥
+\\revemptyset                           <Char-0x029B0>      " ⦰
+\\revnmid                               <Char-0x02AEE>      " ⫮
+\\rfbowtie                              <Char-0x029D2>      " ⧒
+\\rfloor                                <Char-0x0230B>      " ⌋
+\\rftimes                               <Char-0x029D5>      " ⧕
+\\rgroup                                <Char-0x027EF>      " ⟯
+\\Rho                                   <Char-0x003A1>      " Ρ
+\\rho                                   <Char-0x003C1>      " ρ
+\\rightangle                            <Char-0x0221F>      " ∟
+\\rightanglemdot                        <Char-0x0299D>      " ⦝
+\\rightanglesqr                         <Char-0x0299C>      " ⦜
+\\rightarrow                            <Char-0x02192>      " →
+\\Rightarrow                            <Char-0x021D2>      " ⇒
+\\rightarrowapprox                      <Char-0x02975>      " ⥵
+\\rightarrowbackapprox                  <Char-0x02B48>      " ⭈
+\\rightarrowbar                         <Char-0x021E5>      " ⇥
+\\rightarrowbsimilar                    <Char-0x02B4C>      " ⭌
+\\rightarrowdiamond                     <Char-0x0291E>      " ⤞
+\\rightarrowgtr                         <Char-0x02B43>      " ⭃
+\\rightarrowonoplus                     <Char-0x027F4>      " ⟴
+\\rightarrowplus                        <Char-0x02945>      " ⥅
+\\rightarrowshortleftarrow              <Char-0x02942>      " ⥂
+\\rightarrowsimilar                     <Char-0x02974>      " ⥴
+\\rightarrowsupset                      <Char-0x02B44>      " ⭄
+\\rightarrowtail                        <Char-0x021A3>      " ↣
+\\rightarrowtriangle                    <Char-0x021FE>      " ⇾
+\\rightarrowx                           <Char-0x02947>      " ⥇
+\\rightbkarrow                          <Char-0x0290D>      " ⤍
+\\rightcurvedarrow                      <Char-0x02933>      " ⤳
+\\rightdasharrow                        <Char-0x021E2>      " ⇢
+\\rightdbltail                          <Char-0x0291C>      " ⤜
+\\rightdotarrow                         <Char-0x02911>      " ⤑
+\\rightdowncurvedarrow                  <Char-0x02937>      " ⤷
+\\rightfishtail                         <Char-0x0297D>      " ⥽
+\\rightharpoonaccent                    <Char-0x020D1>      "  ⃑
+\\rightharpoondown                      <Char-0x021C1>      " ⇁
+\\rightharpoondownbar                   <Char-0x02957>      " ⥗
+\\rightharpoonsupdown                   <Char-0x02964>      " ⥤
+\\rightharpoonup                        <Char-0x021C0>      " ⇀
+\\rightharpoonupbar                     <Char-0x02953>      " ⥓
+\\rightharpoonupdash                    <Char-0x0296C>      " ⥬
+\\rightimply                            <Char-0x02970>      " ⥰
+\\rightleftarrows                       <Char-0x021C4>      " ⇄
+\\rightleftharpoons                     <Char-0x021CC>      " ⇌
+\\rightleftharpoonsdown                 <Char-0x02969>      " ⥩
+\\rightleftharpoonsup                   <Char-0x02968>      " ⥨
+\\rightmoon                             <Char-0x0263D>      " ☽
+\\rightouterjoin                        <Char-0x027D6>      " ⟖
+\\rightpentagon                         <Char-0x02B54>      " ⭔
+\\rightpentagonblack                    <Char-0x02B53>      " ⭓
+\\rightrightarrows                      <Char-0x021C9>      " ⇉
+\\rightsquigarrow                       <Char-0x021DD>      " ⇝
+\\righttail                             <Char-0x0291A>      " ⤚
+\\rightthreearrows                      <Char-0x021F6>      " ⇶
+\\rightthreetimes                       <Char-0x022CC>      " ⋌
+\\rightwavearrow                        <Char-0x0219D>      " ↝
+\\rightwhitearrow                       <Char-0x021E8>      " ⇨
+\\ringplus                              <Char-0x02A22>      " ⨢
+\\risingdotseq                          <Char-0x02253>      " ≓
+\\rmoustache                            <Char-0x023B1>      " ⎱
+\\rparen                                <Char-0x00029>      " )
+\\rParen                                <Char-0x02986>      " ⦆
+\\rparenextender                        <Char-0x0239F>      " ⎟
+\\rparengtr                             <Char-0x02994>      " ⦔
+\\rparenlend                            <Char-0x023A0>      " ⎠
+\\Rparenless                            <Char-0x02996>      " ⦖
+\\rparenuend                            <Char-0x0239E>      " ⎞
+\\rppolint                              <Char-0x02A12>      " ⨒
+\\rrangle                               <Char-0x0298A>      " ⦊
+\\Rrightarrow                           <Char-0x021DB>      " ⇛
+\\RRightarrow                           <Char-0x02B46>      " ⭆
+\\rrparenthesis                         <Char-0x02988>      " ⦈
+\\Rsh                                   <Char-0x021B1>      " ↱
+\\rsolbar                               <Char-0x029F7>      " ⧷
+\\rsqhook                               <Char-0x02ACE>      " ⫎
+\\rsub                                  <Char-0x02A65>      " ⩥
+\\rtimes                                <Char-0x022CA>      " ⋊
+\\rtriltri                              <Char-0x029CE>      " ⧎
+\\ruledelayed                           <Char-0x029F4>      " ⧴
+\\rvboxline                             <Char-0x023B9>      " ⎹
+\\rvzigzag                              <Char-0x029D9>      " ⧙
+\\Rvzigzag                              <Char-0x029DB>      " ⧛
+\\sansLmirrored                         <Char-0x02143>      " ⅃
+\\sansLturned                           <Char-0x02142>      " ⅂
+\\scpolint                              <Char-0x02A13>      " ⨓
+\\scurel                                <Char-0x022B1>      " ⊱
+\\searrow                               <Char-0x02198>      " ↘
+\\Searrow                               <Char-0x021D8>      " ⇘
+\\seovnearrow                           <Char-0x0292D>      " ⤭
+\\setminus                              <Char-0x029F5>      " ⧵
+\\sharp                                 <Char-0x0266F>      " ♯
+\\shortdowntack                         <Char-0x02ADF>      " ⫟
+\\shortlefttack                         <Char-0x02ADE>      " ⫞
+\\shortrightarrowleftarrow              <Char-0x02944>      " ⥄
+\\shortuptack                           <Char-0x02AE0>      " ⫠
+\\shuffle                               <Char-0x029E2>      " ⧢
+\\Sigma                                 <Char-0x003A3>      " Σ
+\\sigma                                 <Char-0x003C3>      " σ
+\\sim                                   <Char-0x0223C>      " ∼
+\\sime                                  <Char-0x02243>      " ≃
+\\simeq                                 <Char-0x02243>      " ≃
+\\simgE                                 <Char-0x02AA0>      " ⪠
+\\simgtr                                <Char-0x02A9E>      " ⪞
+\\similarleftarrow                      <Char-0x02B49>      " ⭉
+\\similarrightarrow                     <Char-0x02972>      " ⥲
+\\simlE                                 <Char-0x02A9F>      " ⪟
+\\simless                               <Char-0x02A9D>      " ⪝
+\\simminussim                           <Char-0x02A6C>      " ⩬
+\\simneqq                               <Char-0x02246>      " ≆
+\\simplus                               <Char-0x02A24>      " ⨤
+\\simrdots                              <Char-0x02A6B>      " ⩫
+\\sinewave                              <Char-0x0223F>      " ∿
+\\smallblacktriangleleft                <Char-0x025C2>      " ◂
+\\smallblacktriangleright               <Char-0x025B8>      " ▸
+\\smallin                               <Char-0x0220A>      " ∊
+\\smallni                               <Char-0x0220D>      " ∍
+\\smallsetminus                         <Char-0x02216>      " ∖
+\\smalltriangleleft                     <Char-0x025C3>      " ◃
+\\smalltriangleright                    <Char-0x025B9>      " ▹
+\\smashtimes                            <Char-0x02A33>      " ⨳
+\\smblkcircle                           <Char-0x02022>      " •
+\\smblkdiamond                          <Char-0x02B29>      " ⬩
+\\smblklozenge                          <Char-0x02B2A>      " ⬪
+\\smblksquare                           <Char-0x025AA>      " ▪
+\\smeparsl                              <Char-0x029E4>      " ⧤
+\\smile                                 <Char-0x02323>      " ⌣
+\\smt                                   <Char-0x02AAA>      " ⪪
+\\smte                                  <Char-0x02AAC>      " ⪬
+\\smwhitestar                           <Char-0x02B52>      " ⭒
+\\smwhtcircle                           <Char-0x025E6>      " ◦
+\\smwhtdiamond                          <Char-0x022C4>      " ⋄
+\\smwhtlozenge                          <Char-0x02B2B>      " ⬫
+\\smwhtsquare                           <Char-0x025AB>      " ▫
+\\spadesuit                             <Char-0x02660>      " ♠
+\\sphericalangle                        <Char-0x02222>      " ∢
+\\sphericalangleup                      <Char-0x029A1>      " ⦡
+\\sqcap                                 <Char-0x02293>      " ⊓
+\\Sqcap                                 <Char-0x02A4E>      " ⩎
+\\sqcup                                 <Char-0x02294>      " ⊔
+\\Sqcup                                 <Char-0x02A4F>      " ⩏
+\\sqint                                 <Char-0x02A16>      " ⨖
+\\sqlozenge                             <Char-0x02311>      " ⌑
+\\sqrt                                  <Char-0x0221A>      " √
+\\sqrtbottom                            <Char-0x023B7>      " ⎷
+\\sqsubset                              <Char-0x0228F>      " ⊏
+\\sqsubseteq                            <Char-0x02291>      " ⊑
+\\sqsubsetneq                           <Char-0x022E4>      " ⋤
+\\sqsupset                              <Char-0x02290>      " ⊐
+\\sqsupseteq                            <Char-0x02292>      " ⊒
+\\sqsupsetneq                           <Char-0x022E5>      " ⋥
+\\squarebotblack                        <Char-0x02B13>      " ⬓
+\\squarecrossfill                       <Char-0x025A9>      " ▩
+\\squarehfill                           <Char-0x025A4>      " ▤
+\\squarehvfill                          <Char-0x025A6>      " ▦
+\\squareleftblack                       <Char-0x025E7>      " ◧
+\\squarellblack                         <Char-0x02B15>      " ⬕
+\\squarellquad                          <Char-0x025F1>      " ◱
+\\squarelrblack                         <Char-0x025EA>      " ◪
+\\squarelrquad                          <Char-0x025F2>      " ◲
+\\squareneswfill                        <Char-0x025A8>      " ▨
+\\squarenwsefill                        <Char-0x025A7>      " ▧
+\\squarerightblack                      <Char-0x025E8>      " ◨
+\\squaretopblack                        <Char-0x02B12>      " ⬒
+\\squareulblack                         <Char-0x025E9>      " ◩
+\\squareulquad                          <Char-0x025F0>      " ◰
+\\squareurblack                         <Char-0x02B14>      " ⬔
+\\squareurquad                          <Char-0x025F3>      " ◳
+\\squarevfill                           <Char-0x025A5>      " ▥
+\\squoval                               <Char-0x025A2>      " ▢
+\\sslash                                <Char-0x02AFD>      " ⫽
+\\star                                  <Char-0x022C6>      " ⋆
+\\stareq                                <Char-0x0225B>      " ≛
+\\strns                                 <Char-0x023E4>      " ⏤
+\\subedot                               <Char-0x02AC3>      " ⫃
+\\submult                               <Char-0x02AC1>      " ⫁
+\\subrarr                               <Char-0x02979>      " ⥹
+\\subset                                <Char-0x02282>      " ⊂
+\\Subset                                <Char-0x022D0>      " ⋐
+\\subsetapprox                          <Char-0x02AC9>      " ⫉
+\\subsetcirc                            <Char-0x027C3>      " ⟃
+\\subsetdot                             <Char-0x02ABD>      " ⪽
+\\subseteq                              <Char-0x02286>      " ⊆
+\\subseteqq                             <Char-0x02AC5>      " ⫅
+\\subsetneq                             <Char-0x0228A>      " ⊊
+\\subsetneqq                            <Char-0x02ACB>      " ⫋
+\\subsetplus                            <Char-0x02ABF>      " ⪿
+\\subsim                                <Char-0x02AC7>      " ⫇
+\\subsub                                <Char-0x02AD5>      " ⫕
+\\subsup                                <Char-0x02AD3>      " ⫓
+\\succ                                  <Char-0x0227B>      " ≻
+\\Succ                                  <Char-0x02ABC>      " ⪼
+\\succapprox                            <Char-0x02AB8>      " ⪸
+\\succcurlyeq                           <Char-0x0227D>      " ≽
+\\succeq                                <Char-0x02AB0>      " ⪰
+\\succeqq                               <Char-0x02AB4>      " ⪴
+\\succnapprox                           <Char-0x02ABA>      " ⪺
+\\succneq                               <Char-0x02AB2>      " ⪲
+\\succneqq                              <Char-0x02AB6>      " ⪶
+\\succnsim                              <Char-0x022E9>      " ⋩
+\\succsim                               <Char-0x0227F>      " ≿
+\\sum                                   <Char-0x02211>      " ∑
+\\sumbottom                             <Char-0x023B3>      " ⎳
+\\sumint                                <Char-0x02A0B>      " ⨋
+\\sumtop                                <Char-0x023B2>      " ⎲
+\\sun                                   <Char-0x0263C>      " ☼
+\\supdsub                               <Char-0x02AD8>      " ⫘
+\\supedot                               <Char-0x02AC4>      " ⫄
+\\suphsol                               <Char-0x027C9>      " ⟉
+\\suphsub                               <Char-0x02AD7>      " ⫗
+\\suplarr                               <Char-0x0297B>      " ⥻
+\\supmult                               <Char-0x02AC2>      " ⫂
+\\supset                                <Char-0x02283>      " ⊃
+\\Supset                                <Char-0x022D1>      " ⋑
+\\supsetapprox                          <Char-0x02ACA>      " ⫊
+\\supsetcirc                            <Char-0x027C4>      " ⟄
+\\supsetdot                             <Char-0x02ABE>      " ⪾
+\\supseteq                              <Char-0x02287>      " ⊇
+\\supseteqq                             <Char-0x02AC6>      " ⫆
+\\supsetneq                             <Char-0x0228B>      " ⊋
+\\supsetneqq                            <Char-0x02ACC>      " ⫌
+\\supsetplus                            <Char-0x02AC0>      " ⫀
+\\supsim                                <Char-0x02AC8>      " ⫈
+\\supsub                                <Char-0x02AD4>      " ⫔
+\\supsup                                <Char-0x02AD6>      " ⫖
+\\surd                                  <Char-0x0221A>      " √
+\\swarrow                               <Char-0x02199>      " ↙
+\\Swarrow                               <Char-0x021D9>      " ⇙
+\\talloblong                            <Char-0x02AFE>      " ⫾
+\\Tau                                   <Char-0x003A4>      " Τ
+\\tau                                   <Char-0x003C4>      " τ
+\\therefore                             <Char-0x02234>      " ∴
+\\thermod                               <Char-0x029E7>      " ⧧
+\\Theta                                 <Char-0x00398>      " Θ
+\\theta                                 <Char-0x003B8>      " θ
+\\threedangle                           <Char-0x027C0>      " ⟀
+\\threedotcolon                         <Char-0x02AF6>      " ⫶
+\\threeunderdot                         <Char-0x020E8>      "  ⃨
+\\tieconcat                             <Char-0x02040>      " ⁀
+\\tieinfty                              <Char-0x029DD>      " ⧝
+\\tilde                                 <Char-0x00303>      "  ̃
+\\times                                 <Char-0x000D7>      " ×
+\\timesbar                              <Char-0x02A31>      " ⨱
+\\tminus                                <Char-0x029FF>      " ⧿
+\\to                                    <Char-0x02192>      " →
+\\toea                                  <Char-0x02928>      " ⤨
+\\tona                                  <Char-0x02927>      " ⤧
+\\top                                   <Char-0x022A4>      " ⊤
+\\topbot                                <Char-0x02336>      " ⌶
+\\topcir                                <Char-0x02AF1>      " ⫱
+\\topfork                               <Char-0x02ADA>      " ⫚
+\\topsemicircle                         <Char-0x025E0>      " ◠
+\\tosa                                  <Char-0x02929>      " ⤩
+\\towa                                  <Char-0x0292A>      " ⤪
+\\tplus                                 <Char-0x029FE>      " ⧾
+\\trapezium                             <Char-0x023E2>      " ⏢
+\\trianglecdot                          <Char-0x025EC>      " ◬
+\\triangledown                          <Char-0x025BF>      " ▿
+\\triangleleft                          <Char-0x025C1>      " ◁
+\\triangleleftblack                     <Char-0x025ED>      " ◭
+\\trianglelefteq                        <Char-0x022B4>      " ⊴
+\\triangleminus                         <Char-0x02A3A>      " ⨺
+\\triangleodot                          <Char-0x029CA>      " ⧊
+\\triangleplus                          <Char-0x02A39>      " ⨹
+\\triangleq                             <Char-0x0225C>      " ≜
+\\triangleright                         <Char-0x025B7>      " ▷
+\\trianglerightblack                    <Char-0x025EE>      " ◮
+\\trianglerighteq                       <Char-0x022B5>      " ⊵
+\\triangles                             <Char-0x029CC>      " ⧌
+\\triangleserifs                        <Char-0x029CD>      " ⧍
+\\triangletimes                         <Char-0x02A3B>      " ⨻
+\\triangleubar                          <Char-0x029CB>      " ⧋
+\\tripleplus                            <Char-0x029FB>      " ⧻
+\\trprime                               <Char-0x02034>      " ‴
+\\trslash                               <Char-0x02AFB>      " ⫻
+\\turnangle                             <Char-0x029A2>      " ⦢
+\\turnediota                            <Char-0x02129>      " ℩
+\\turnednot                             <Char-0x02319>      " ⌙
+\\twocaps                               <Char-0x02A4B>      " ⩋
+\\twocups                               <Char-0x02A4A>      " ⩊
+\\twoheaddownarrow                      <Char-0x021A1>      " ↡
+\\twoheadleftarrow                      <Char-0x0219E>      " ↞
+\\twoheadleftarrowtail                  <Char-0x02B3B>      " ⬻
+\\twoheadleftdbkarrow                   <Char-0x02B37>      " ⬷
+\\twoheadmapsfrom                       <Char-0x02B36>      " ⬶
+\\twoheadmapsto                         <Char-0x02905>      " ⤅
+\\twoheadrightarrow                     <Char-0x021A0>      " ↠
+\\twoheadrightarrowtail                 <Char-0x02916>      " ⤖
+\\twoheaduparrow                        <Char-0x0219F>      " ↟
+\\twoheaduparrowcircle                  <Char-0x02949>      " ⥉
+\\twolowline                            <Char-0x02017>      " ‗
+\\twonotes                              <Char-0x0266B>      " ♫
+\\typecolon                             <Char-0x02982>      " ⦂
+\\ubrbrak                               <Char-0x023E1>      " ⏡
+\\ularc                                 <Char-0x025DC>      " ◜
+\\ulblacktriangle                       <Char-0x025E4>      " ◤
+\\ulcorner                              <Char-0x0231C>      " ⌜
+\\ultriangle                            <Char-0x025F8>      " ◸
+\\uminus                                <Char-0x02A41>      " ⩁
+\\underbrace                            <Char-0x023DF>      " ⏟
+\\underbracket                          <Char-0x023B5>      " ⎵
+\\underleftarrow                        <Char-0x020EE>      "  ⃮
+\\underleftharpoondown                  <Char-0x020ED>      "  ⃭
+\\underleftrightarrow                   <Char-0x0034D>      "  ͍
+\\underparen                            <Char-0x023DD>      " ⏝
+\\underrightarrow                       <Char-0x020EF>      "  ⃯
+\\underrightharpoondown                 <Char-0x020EC>      "  ⃬
+\\unicodecdots                          <Char-0x022EF>      " ⋯
+\\unicodeellipsis                       <Char-0x02026>      " …
+\\upand                                 <Char-0x0214B>      " ⅋
+\\uparrow                               <Char-0x02191>      " ↑
+\\Uparrow                               <Char-0x021D1>      " ⇑
+\\uparrowbarred                         <Char-0x02909>      " ⤉
+\\uparrowoncircle                       <Char-0x029BD>      " ⦽
+\\upbackepsilon                         <Char-0x003F6>      " ϶
+\\updasharrow                           <Char-0x021E1>      " ⇡
+\\upDigamma                             <Char-0x003DC>      " Ϝ
+\\updigamma                             <Char-0x003DD>      " ϝ
+\\updownarrow                           <Char-0x02195>      " ↕
+\\Updownarrow                           <Char-0x021D5>      " ⇕
+\\updownarrowbar                        <Char-0x021A8>      " ↨
+\\updownarrows                          <Char-0x021C5>      " ⇅
+\\updownharpoonleftleft                 <Char-0x02951>      " ⥑
+\\updownharpoonleftright                <Char-0x0294D>      " ⥍
+\\updownharpoonrightleft                <Char-0x0294C>      " ⥌
+\\updownharpoonrightright               <Char-0x0294F>      " ⥏
+\\updownharpoonsleftright               <Char-0x0296E>      " ⥮
+\\upfishtail                            <Char-0x0297E>      " ⥾
+\\upharpoonleft                         <Char-0x021BF>      " ↿
+\\upharpoonleftbar                      <Char-0x02960>      " ⥠
+\\upharpoonright                        <Char-0x021BE>      " ↾
+\\upharpoonrightbar                     <Char-0x0295C>      " ⥜
+\\upharpoonsleftright                   <Char-0x02963>      " ⥣
+\\upin                                  <Char-0x027D2>      " ⟒
+\\upint                                 <Char-0x02A1B>      " ⨛
+\\uplus                                 <Char-0x0228E>      " ⊎
+\\uprightcurvearrow                     <Char-0x02934>      " ⤴
+\\Upsilon                               <Char-0x003A5>      " Υ
+\\upsilon                               <Char-0x003C5>      " υ
+\\upuparrows                            <Char-0x021C8>      " ⇈
+\\upwhitearrow                          <Char-0x021E7>      " ⇧
+\\urarc                                 <Char-0x025DD>      " ◝
+\\urblacktriangle                       <Char-0x025E5>      " ◥
+\\urcorner                              <Char-0x0231D>      " ⌝
+\\urtriangle                            <Char-0x025F9>      " ◹
+\\UUparrow                              <Char-0x027F0>      " ⟰
+\\Uuparrow                              <Char-0x0290A>      " ⤊
+\\varbarwedge                           <Char-0x02305>      " ⌅
+\\varcarriagereturn                     <Char-0x023CE>      " ⏎
+\\varclubsuit                           <Char-0x02667>      " ♧
+\\vardiamondsuit                        <Char-0x02666>      " ♦
+\\vardoublebarwedge                     <Char-0x02306>      " ⌆
+\\varepsilon                            <Char-0x003B5>      " ε
+\\varheartsuit                          <Char-0x02665>      " ♥
+\\varhexagon                            <Char-0x02B21>      " ⬡
+\\varhexagonblack                       <Char-0x02B22>      " ⬢
+\\varhexagonlrbonds                     <Char-0x0232C>      " ⌬
+\\varisinobar                           <Char-0x022F6>      " ⋶
+\\varisins                              <Char-0x022F3>      " ⋳
+\\varkappa                              <Char-0x003F0>      " ϰ
+\\varlrtriangle                         <Char-0x022BF>      " ⊿
+\\varniobar                             <Char-0x022FD>      " ⋽
+\\varnis                                <Char-0x022FB>      " ⋻
+\\varnothing                            <Char-0x02205>      " ∅
+\\varointclockwise                      <Char-0x02232>      " ∲
+\\varphi                                <Char-0x003C6>      " φ
+\\varpi                                 <Char-0x003D6>      " ϖ
+\\varrho                                <Char-0x003F1>      " ϱ
+\\varsigma                              <Char-0x003C2>      " ς
+\\varspadesuit                          <Char-0x02664>      " ♤
+\\varstar                               <Char-0x02736>      " ✶
+\\vartheta                              <Char-0x003D1>      " ϑ
+\\varTheta                              <Char-0x003F4>      " ϴ
+\\vartriangle                           <Char-0x025B5>      " ▵
+\\vartriangleleft                       <Char-0x022B2>      " ⊲
+\\vartriangleright                      <Char-0x022B3>      " ⊳
+\\varVdash                              <Char-0x02AE6>      " ⫦
+\\varveebar                             <Char-0x02A61>      " ⩡
+\\vBar                                  <Char-0x02AE8>      " ⫨
+\\Vbar                                  <Char-0x02AEB>      " ⫫
+\\vBarv                                 <Char-0x02AE9>      " ⫩
+\\vbraceextender                        <Char-0x023AA>      " ⎪
+\\vbrtri                                <Char-0x029D0>      " ⧐
+\\vdash                                 <Char-0x022A2>      " ⊢
+\\vDash                                 <Char-0x022A8>      " ⊨
+\\Vdash                                 <Char-0x022A9>      " ⊩
+\\VDash                                 <Char-0x022AB>      " ⊫
+\\vDdash                                <Char-0x02AE2>      " ⫢
+\\vdots                                 <Char-0x022EE>      " ⋮
+\\vec                                   <Char-0x020D7>      "  ⃗
+\\vectimes                              <Char-0x02A2F>      " ⨯
+\\vee                                   <Char-0x02228>      " ∨
+\\Vee                                   <Char-0x02A54>      " ⩔
+\\veebar                                <Char-0x022BB>      " ⊻
+\\veedot                                <Char-0x027C7>      " ⟇
+\\veedoublebar                          <Char-0x02A63>      " ⩣
+\\veeeq                                 <Char-0x0225A>      " ≚
+\\veemidvert                            <Char-0x02A5B>      " ⩛
+\\veeodot                               <Char-0x02A52>      " ⩒
+\\veeonvee                              <Char-0x02A56>      " ⩖
+\\veeonwedge                            <Char-0x02A59>      " ⩙
+\\vert                                  <Char-0x0007C>      " |
+\\Vert                                  <Char-0x02016>      " ‖
+\\vertoverlay                           <Char-0x020D2>      "  ⃒
+\\viewdata                              <Char-0x02317>      " ⌗
+\\vlongdash                             <Char-0x027DD>      " ⟝
+\\vrectangle                            <Char-0x025AF>      " ▯
+\\vrectangleblack                       <Char-0x025AE>      " ▮
+\\Vvdash                                <Char-0x022AA>      " ⊪
+\\Vvert                                 <Char-0x02980>      " ⦀
+\\vysmblkcircle                         <Char-0x02219>      " ∙
+\\vysmblksquare                         <Char-0x02B1D>      " ⬝
+\\vysmwhtcircle                         <Char-0x02218>      " ∘
+\\vysmwhtsquare                         <Char-0x02B1E>      " ⬞
+\\vzigzag                               <Char-0x0299A>      " ⦚
+\\wedge                                 <Char-0x02227>      " ∧
+\\Wedge                                 <Char-0x02A53>      " ⩓
+\\wedgebar                              <Char-0x02A5F>      " ⩟
+\\wedgedot                              <Char-0x027D1>      " ⟑
+\\wedgedoublebar                        <Char-0x02A60>      " ⩠
+\\wedgemidvert                          <Char-0x02A5A>      " ⩚
+\\wedgeodot                             <Char-0x02A51>      " ⩑
+\\wedgeonwedge                          <Char-0x02A55>      " ⩕
+\\wedgeq                                <Char-0x02259>      " ≙
+\\whitearrowupfrombar                   <Char-0x021EA>      " ⇪
+\\whiteinwhitetriangle                  <Char-0x027C1>      " ⟁
+\\whitepointerleft                      <Char-0x025C5>      " ◅
+\\whitepointerright                     <Char-0x025BB>      " ▻
+\\whitesquaretickleft                   <Char-0x027E4>      " ⟤
+\\whitesquaretickright                  <Char-0x027E5>      " ⟥
+\\whthorzoval                           <Char-0x02B2D>      " ⬭
+\\whtvertoval                           <Char-0x02B2F>      " ⬯
+\\wideangledown                         <Char-0x029A6>      " ⦦
+\\wideangleup                           <Char-0x029A7>      " ⦧
+\\widebreve                             <Char-0x00306>      "  ̆
+\\widebridgeabove                       <Char-0x020E9>      "  ⃩
+\\widecheck                             <Char-0x0030C>      "  ̌
+\\widehat                               <Char-0x00302>      "  ̂
+\\wideoverbar                           <Char-0x00305>      "  ̅
+\\widetilde                             <Char-0x00303>      "  ̃
+\\wideutilde                            <Char-0x00330>      "  ̰
+\\wp                                    <Char-0x02118>      " ℘
+\\wr                                    <Char-0x02240>      " ≀
+\\xbsol                                 <Char-0x029F9>      " ⧹
+\\Xi                                    <Char-0x0039E>      " Ξ
+\\xi                                    <Char-0x003BE>      " ξ
+\\xsol                                  <Char-0x029F8>      " ⧸
+\\Yup                                   <Char-0x02144>      " ⅄
+\\Zbar                                  <Char-0x001B5>      " Ƶ
+\\zcmp                                  <Char-0x02A1F>      " ⨟
+\\Zeta                                  <Char-0x00396>      " Ζ
+\\zeta                                  <Char-0x003B6>      " ζ
+\\zpipe                                 <Char-0x02A20>      " ⨠
+\\zproject                              <Char-0x02A21>      " ⨡
