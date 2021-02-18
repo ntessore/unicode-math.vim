@@ -344,6 +344,7 @@ _\\chi                                  <Char-0x01D6A>      " ᵪ
 \\ccwundercurvearrow                    <Char-0x0293F>      " ⤿
 \\cdot                                  <Char-0x022C5>      " ⋅
 \\cdotp                                 <Char-0x000B7>      " ·
+\\cdots                                 <Char-0x022EF>      " ⋯
 \\check                                 <Char-0x0030C>      "  ̌
 \\checkmark                             <Char-0x02713>      " ✓
 \\Chi                                   <Char-0x003A7>      " Χ
@@ -718,6 +719,7 @@ _\\chi                                  <Char-0x01D6A>      " ᵪ
 \\Lbrbrak                               <Char-0x027EC>      " ⟬
 \\lceil                                 <Char-0x02308>      " ⌈
 \\lcurvyangle                           <Char-0x029FC>      " ⧼
+\\ldots                                 <Char-0x02026>      " …
 \\Ldsh                                  <Char-0x021B2>      " ↲
 \\le                                    <Char-0x02264>      " ≤
 \\leftarrow                             <Char-0x02190>      " ←
