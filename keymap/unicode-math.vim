@@ -72,6 +72,11 @@ loadkeymap
 ^U <Char-0x01D41>
 ^V <Char-0x02C7D>
 ^W <Char-0x01D42>
+^\\beta <Char-0x01D5D>
+^\\gamma <Char-0x01D5E>
+^\\delta <Char-0x01D5F>
+^\\phi <Char-0x01D60>
+^\\chi <Char-0x01D61>
 _0 <Char-0x02080>
 _1 <Char-0x02081>
 _2 <Char-0x02082>
@@ -104,6 +109,11 @@ _t <Char-0x0209C>
 _u <Char-0x01D64>
 _v <Char-0x01D65>
 _x <Char-0x02093>
+_\\beta <Char-0x01D66>
+_\\gamma <Char-0x01D67>
+_\\delta <Char-0x01D68>
+_\\phi <Char-0x01D69>
+_\\chi <Char-0x01D6A>
 \\accurrent <Char-0x023E6>
 \\acidfree <Char-0x0267E>
 \\acute <Char-0x00301>
