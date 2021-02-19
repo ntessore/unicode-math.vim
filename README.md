@@ -32,12 +32,17 @@ to your `.vimrc`:
 
 You can then toggle the unicode-math keymap by pressing `<C-6>` in insert mode.
 
-See the unicode-math [symbol list] for a complete list of symbols. In addition,
-the following TeX commands are defined:
+See the unicode-math [symbol list] for a list of symbols with explanations. The
+[keymap](keymap/unicode-math.vim) contains a number of additions:
 
+- standard math commands: `\ldots`, `\cdots`
+- standard TeX commands: `\S`
 - superscripts: `^1`, `^2`, etc. where available
 - subscripts: `_1`, `_2`, etc. where available
-- large contour integrals: combining ring overlays `\ointring`,
+- Greek superscripts: `^\beta`, `^\gamma`,`^\delta` ,`^\phi`, `^\chi`
+- Greek subscripts: `_\beta`, `_\gamma`,`_\delta` ,`_\phi`, `_\chi`
+- clockwise contour integral alias: `\ointclockwise`
+- combining ring overlays for large contour integrals: `\ointring`,
   `\ointringclockwise`, `\ointringctrclockwise`
 
       ⌠    ⌠    ⌠

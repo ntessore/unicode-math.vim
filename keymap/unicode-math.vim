@@ -2063,6 +2063,7 @@ _\\chi                                  <Char-0x01D6A>      " ᵪ
 \\oiiint                                <Char-0x02230>      " ∰
 \\oiint                                 <Char-0x0222F>      " ∯
 \\oint                                  <Char-0x0222E>      " ∮
+\\ointclockwise                         <Char-0x02232>      " ∲
 \\ointctrclockwise                      <Char-0x02233>      " ∳
 \\ointring                              <Char-0x020D8>      "  ⃘
 \\ointringclockwise                     <Char-0x020D9>      "  ⃙
@@ -2265,6 +2266,7 @@ _\\chi                                  <Char-0x01D6A>      " ᵪ
 \\scpolint                              <Char-0x02A13>      " ⨓
 \\scurel                                <Char-0x022B1>      " ⊱
 \\searrow                               <Char-0x02198>      " ↘
+\\S                                     <Char-0x000A7>      " §
 \\Searrow                               <Char-0x021D8>      " ⇘
 \\seovnearrow                           <Char-0x0292D>      " ⤭
 \\setminus                              <Char-0x029F5>      " ⧵
