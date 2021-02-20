@@ -1,6 +1,6 @@
 " File:        unicode-math.vim
 " Authors:     Nicolas Tessore <n.tessore@ucl.ac.uk>
-" Version:     20210215.1
+" Version:     20210220.1
 " Description: Keymap to type Unicode math symbols by their TeX names.
 
 let b:keymap_name = "αβ"
@@ -27,6 +27,7 @@ loadkeymap
 ^)                                      <Char-0x0207E>      " ⁾
 ^.                                      <Char-0x002D9>      " ˙
 ^=                                      <Char-0x002ED>      " ˭
+^*                        <Char-0x00020><Char-0x020F0>      "  ⃰
 ^a                                      <Char-0x01D43>      " ᵃ
 ^b                                      <Char-0x01D47>      " ᵇ
 ^c                                      <Char-0x01D9C>      " ᶜ
@@ -93,6 +94,7 @@ _/                                      <Char-0x002CF>      " ˏ
 _(                                      <Char-0x0208D>      " ₍
 _)                                      <Char-0x0208E>      " ₎
 _^                                      <Char-0x02038>      " ‸
+_*                        <Char-0x00020><Char-0x00359>      "  ͙
 _a                                      <Char-0x02090>      " ₐ
 _e                                      <Char-0x02091>      " ₑ
 _h                                      <Char-0x02095>      " ₕ

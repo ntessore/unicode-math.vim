@@ -41,6 +41,8 @@ See the unicode-math [symbol list] for a list of symbols with explanations. The
 - subscripts: `_1`, `_2`, etc. where available
 - Greek superscripts: `^\beta`, `^\gamma`,`^\delta` ,`^\phi`, `^\chi`
 - Greek subscripts: `_\beta`, `_\gamma`,`_\delta` ,`_\phi`, `_\chi`
+- faux superscripts and subscripts from combining characters with space: `^*`,
+  `_*`
 - clockwise contour integral alias: `\ointclockwise`
 - combining ring overlays for large contour integrals: `\ointring`,
   `\ointringclockwise`, `\ointringctrclockwise`
