@@ -99,6 +99,7 @@ _a                                      <Char-0x02090>      " ₐ
 _e                                      <Char-0x02091>      " ₑ
 _h                                      <Char-0x02095>      " ₕ
 _i                                      <Char-0x01D62>      " ᵢ
+_j                                      <Char-0x02C7C>      " ⱼ
 _k                                      <Char-0x02096>      " ₖ
 _l                                      <Char-0x02097>      " ₗ
 _m                                      <Char-0x02098>      " ₘ
