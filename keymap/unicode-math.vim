@@ -451,6 +451,8 @@ _\\chi                                  <Char-0x01D6A>      " ᵪ
 \\Ddownarrow                            <Char-0x0290B>      " ⤋
 \\Delta                                 <Char-0x00394>      " Δ
 \\delta                                 <Char-0x003B4>      " δ
+\\DH                                    <Char-0x000D0>      " Ð
+\\dh                                    <Char-0x000F0>      " ð
 \\diameter                              <Char-0x02300>      " ⌀
 \\diamondbotblack                       <Char-0x02B19>      " ⬙
 \\diamondcdot                           <Char-0x027D0>      " ⟐
@@ -564,6 +566,7 @@ _\\chi                                  <Char-0x01D6A>      " ᵪ
 \\errbarsquare                          <Char-0x029EE>      " ⧮
 \\Eta                                   <Char-0x00397>      " Η
 \\eta                                   <Char-0x003B7>      " η
+\\eth                                   <Char-0x000F0>      " ð
 \\Eulerconst                            <Char-0x02107>      " ℇ
 \\euro                                  <Char-0x020AC>      " €
 \\Exclam                                <Char-0x0203C>      " ‼
